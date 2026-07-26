@@ -1,0 +1,552 @@
+League,Team,Number,Player,Position,Age,Nationality,Season_Apps,Season_Goals,Season_Assists,Season_YellowCards,Season_RedCards,Season_Saves,Season_GoalsConceded,Season_Label
+Saudi Pro League,Al Ahli,1,Abdulrahman Al-Sanbi,G,25,Saudi Arabia,8,,0,3,0,13,7,2025-26
+Saudi Pro League,Al Ahli,16,Édouard Mendy,G,34,Senegal,26,,0,2,0,46,18,2025-26
+Saudi Pro League,Al Ahli,22,Ali Bakhashwin,G,17,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,62,Abdullah Abdo,G,24,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Ahli,72,Salman Al-Jadani,G,22,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Ahli,2,Zakaria Al Hawsawi,D,25,Saudi Arabia,22,1,1,5,0,,,2025-26
+Saudi Pro League,Al Ahli,3,Roger Ibañez,D,27,Brazil,28,2,2,3,2,,,2025-26
+Saudi Pro League,Al Ahli,4,Gustavo Alves,D,19,Brazil,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,5,Mohammed Sulaiman,D,22,Saudi Arabia,20,0,0,1,0,,,2025-26
+Saudi Pro League,Al Ahli,27,Ali Majrashi,D,26,Saudi Arabia,27,1,3,5,2,,,2025-26
+Saudi Pro League,Al Ahli,28,Merih Demiral,D,28,Türkiye,20,2,0,5,0,,,2025-26
+Saudi Pro League,Al Ahli,29,Mohammed Yousef,D,23,Saudi Arabia,24,0,1,3,0,,,2025-26
+Saudi Pro League,Al Ahli,32,Matteo Dams,D,22,Belgium,9,0,1,0,0,,,2025-26
+Saudi Pro League,Al Ahli,46,Rayane Hamidou,D,24,Saudi Arabia,23,3,0,1,0,,,2025-26
+Saudi Pro League,Al Ahli,51,Ahmed Al Refai,D,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,60,Yazan Madani,D,21,Saudi Arabia,3,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ahli,66,Mansour Alnakhli,D,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,93,Yaser Al Fallatah,D,22,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,6,Valentin Atangana,M,20,France,23,5,0,7,0,,,2025-26
+Saudi Pro League,Al Ahli,10,Enzo Millot,M,23,France,25,3,3,9,0,,,2025-26
+Saudi Pro League,Al Ahli,14,Eid Al Muwallad,M,24,Saudi Arabia,17,0,0,4,0,,,2025-26
+Saudi Pro League,Al Ahli,23,Ibrahin Montasser Azzam,M,18,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ahli,30,Ziyad Al-Johani,M,24,Saudi Arabia,26,0,1,6,2,,,2025-26
+Saudi Pro League,Al Ahli,40,Ziyad Mallah,M,20,Nigeria,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,79,Franck Kessié,M,29,Ivory Coast,26,5,3,5,0,,,2025-26
+Saudi Pro League,Al Ahli,87,Ramez Al Attar,M,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ahli,7,Riyad Mahrez,F,35,Algeria,27,4,8,1,0,,,2025-26
+Saudi Pro League,Al Ahli,9,Feras Al-Brikan,F,26,Saudi Arabia,34,5,1,1,0,,,2025-26
+Saudi Pro League,Al Ahli,13,Galeno,F,28,Brazil,23,1,7,1,0,,,2025-26
+Saudi Pro League,Al Ahli,17,Ivan Toney,F,30,England,32,32,7,4,0,,,2025-26
+Saudi Pro League,Al Ahli,20,Matheus Gonçalves,F,20,Brazil,22,2,2,3,0,,,2025-26
+Saudi Pro League,Al Ahli,26,Yaseen Al Zubaidi,F,23,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ahli,47,Waheb Saleh,F,23,Saudi Arabia,28,1,3,5,0,,,2025-26
+Saudi Pro League,Al Ahli,49,Salem Abdullah,F,18,Saudi Arabia,3,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ahli,77,Ricardo Mathias,F,19,Brazil,3,0,1,0,0,,,2025-26
+Saudi Pro League,Al Ahli,96,Saif Al Salami,F,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ahli,98,Aboubakkar Moussa,F,21,Chad,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,17,Mohammed Al-Yami,G,28,Saudi Arabia,8,,0,0,0,13,7,2025-26
+Saudi Pro League,Al Hilal,25,Mathieu Patouillet,G,22,France,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Hilal,35,Rayan Al Dossary,G,21,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Hilal,37,Yassine Bounou,G,35,Morocco,26,,0,1,0,46,20,2025-26
+Saudi Pro League,Al Hilal,40,Ahmad Abu Rasen,G,22,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Hilal,3,Kalidou Koulibaly,D,35,Senegal,18,1,2,6,1,,,2025-26
+Saudi Pro League,Al Hilal,4,Yusuf Akcicek,D,20,Türkiye,12,0,0,2,0,,,2025-26
+Saudi Pro League,Al Hilal,19,Theo Hernández,D,28,France,31,5,1,7,0,,,2025-26
+Saudi Pro League,Al Hilal,24,Moteb Al-Harbi,D,26,Saudi Arabia,31,2,2,0,0,,,2025-26
+Saudi Pro League,Al Hilal,30,Pablo Marí,D,32,Spain,5,0,0,2,0,,,2025-26
+Saudi Pro League,Al Hilal,33,Mohammed Al Muhaysh,D,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,34,Saleh Ali Mohammed Barnawi,D,19,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,36,Saud Mohammed Haroun,D,20,Saudi Arabia,3,0,0,1,0,,,2025-26
+Saudi Pro League,Al Hilal,44,Saad Khalid Al Muthary,D,19,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,55,Meshal Al Dawood,D,18,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,78,Ali Lajami,D,30,Saudi Arabia,25,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,87,Hassan Al-Tambakti,D,27,Saudi Arabia,29,1,0,5,0,,,2025-26
+Saudi Pro League,Al Hilal,88,Hamad Al-Yami,D,27,Saudi Arabia,22,0,1,2,0,,,2025-26
+Saudi Pro League,Al Hilal,8,Rúben Neves,M,29,Portugal,31,11,6,4,0,,,2025-26
+Saudi Pro League,Al Hilal,16,Nasser Al-Dawsari,M,27,Saudi Arabia,27,0,1,2,1,,,2025-26
+Saudi Pro League,Al Hilal,18,Murad Bin Othman Bin Harun Al Hawsawi,M,25,Saudi Arabia,16,1,2,6,0,,,2025-26
+Saudi Pro League,Al Hilal,22,Sergej Milinkovic-Savic,M,31,Serbia,32,8,7,6,0,,,2025-26
+Saudi Pro League,Al Hilal,28,Mohamed Kanno,M,31,Saudi Arabia,32,5,3,2,0,,,2025-26
+Saudi Pro League,Al Hilal,29,Salem Al-Dawsari,M,34,Saudi Arabia,26,8,8,0,0,,,2025-26
+Saudi Pro League,Al Hilal,31,Rayan Al Ghamdi,M,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,32,Abdullah Al Zaid,M,22,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,39,Mohammed Al Zaid,M,22,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,42,Louay Labidi,M,18,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,70,Saïmon Bouabré,M,20,France,22,1,2,1,0,,,2025-26
+Saudi Pro League,Al Hilal,96,Suhayb Alzaid,M,21,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,7,Darwin Núñez,F,27,Uruguay,16,6,4,0,0,,,2025-26
+Saudi Pro League,Al Hilal,9,Marcos Leonardo,F,23,Brazil,27,13,1,2,0,,,2025-26
+Saudi Pro League,Al Hilal,10,Malcom,F,29,Brazil,33,7,10,1,0,,,2025-26
+Saudi Pro League,Al Hilal,14,Abdulkarim Darisi,F,23,Saudi Arabia,17,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,23,Sultan Mandash,F,31,Saudi Arabia,28,6,5,3,0,,,2025-26
+Saudi Pro League,Al Hilal,41,Abdulaziz Jurmush,F,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,43,Ali Al Mahdawi,F,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,66,Turki Mashour Al Ghamil,F,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,74,Abdulaziz Hadhood,F,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hilal,75,Mohamed Meïté,F,18,France,5,1,0,0,0,,,2025-26
+Saudi Pro League,Al Hilal,90,Karim Benzema,F,38,France,24,17,2,1,0,,,2025-26
+Saudi Pro League,Al Ettifaq,1,Marek Rodák,G,29,Slovakia,34,,0,3,0,122,55,2025-26
+Saudi Pro League,Al Ettifaq,,Ahmad Al-Harbi,G,31,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,76,Belal Mousa Ali Al Dawaa,G,22,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Ettifaq,92,Turki Baaljawsh,G,22,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Ettifaq,22,Hawswi,G,25,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Ettifaq,4,Jack Hendry,D,31,Scotland,30,1,0,8,1,,,2025-26
+Saudi Pro League,Al Ettifaq,3,Abdullah Madu,D,33,Saudi Arabia,13,0,0,2,0,,,2025-26
+Saudi Pro League,Al Ettifaq,33,Madallah Al-Olayan,D,31,Saudi Arabia,20,1,1,0,0,,,2025-26
+Saudi Pro League,Al Ettifaq,70,Abdullah Khateeb,D,31,Saudi Arabia,29,0,1,5,1,,,2025-26
+Saudi Pro League,Al Ettifaq,37,Abdulbasit Hindi,D,29,Saudi Arabia,16,0,0,3,1,,,2025-26
+Saudi Pro League,Al Ettifaq,87,Meshal Sibyani,D,25,Saudi Arabia,7,0,0,1,0,,,2025-26
+Saudi Pro League,Al Ettifaq,,Meshal Alaeli,D,22,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,61,Radhi Al-Otaibi,D,26,Saudi Arabia,24,0,2,3,0,,,2025-26
+Saudi Pro League,Al Ettifaq,12,Awad Dahal,D,21,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,10,Álvaro Medrán,M,32,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,11,Ondrej Duda,M,31,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,7,Mukhtar Ali,M,28,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,40,Jacopo Da Riva,M,25,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,,Nawaf Hazazi,M,24,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,6,Faris Al Ghamdi,M,23,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,,Majed Dawran,M,22,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,27,Hassan Almusallam,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,21,Abdulrahman Sahhari,M,21,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,58,Yasir Shammari,M,22,,,,,,,,,2025-26
+Saudi Pro League,Al Ettifaq,16,Mohammed Alkadi,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Fayha,1,Abdulraouf Al Dakheel,G,30,Saudi Arabia,2,,0,0,0,5,4,2025-26
+Saudi Pro League,Al Fayha,13,Sattam Al Shammari,G,21,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Fayha,31,Osama Al Thumairy,G,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Fayha,52,Orlando Mosquera,G,31,Panama,32,,0,1,0,97,50,2025-26
+Saudi Pro League,Al Fayha,2,Mukhir Al Rashidi,D,27,Saudi Arabia,13,1,0,3,0,,,2025-26
+Saudi Pro League,Al Fayha,4,Sami Al Khaibari,D,36,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Fayha,5,Chris Smalling,D,36,England,34,3,1,1,0,,,2025-26
+Saudi Pro League,Al Fayha,17,Mikel Villanueva,D,33,Venezuela,30,1,0,3,0,,,2025-26
+Saudi Pro League,Al Fayha,18,Ahmed Bamasud,D,30,Saudi Arabia,33,0,1,4,0,,,2025-26
+Saudi Pro League,Al Fayha,21,Ziyad Al Sahafi,D,32,Saudi Arabia,9,0,0,0,0,,,2025-26
+Saudi Pro League,Al Fayha,22,Mohammed Al Baqawi,D,30,Saudi Arabia,31,0,2,5,0,,,2025-26
+Saudi Pro League,Al Fayha,39,Jérémie Kanon,D,22,France,1,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fayha,46,Osama Al Turki,D,19,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Fayha,47,Mohammed Al Dowaish,D,22,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Fayha,70,Abdulrhman Al Anzi,D,28,Saudi Arabia,7,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fayha,75,Khalid Al Rammah,D,21,Saudi Arabia,9,0,0,2,1,,,2025-26
+Saudi Pro League,Al Fayha,6,Rakan Kaabi,M,23,Saudi Arabia,25,0,1,3,0,,,2025-26
+Saudi Pro League,Al Fayha,7,Nawaf Al-Harthi,M,27,Saudi Arabia,17,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fayha,8,Yassine Benzia,M,31,Algeria,32,4,5,3,0,,,2025-26
+Saudi Pro League,Al Fayha,14,Mansor Faiez Al-Beshe,M,26,Saudi Arabia,21,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fayha,19,Stylianos Vrontis,M,21,Cyprus,8,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fayha,24,Sattam Al-Roqi,M,24,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Fayha,27,Danyal Al Habeeb,M,20,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Fayha,30,Alfa Semedo,M,28,Guinea-Bissau,31,4,2,6,1,,,2025-26
+Saudi Pro League,Al Fayha,9,Malek Al Abdulmonam,F,28,Saudi Arabia,6,0,1,0,0,,,2025-26
+Saudi Pro League,Al Fayha,10,Fashion Sakala,F,29,Zambia,29,13,5,2,0,,,2025-26
+Saudi Pro League,Al Fayha,11,Abdullah Al-Joui,F,31,Saudi Arabia,5,0,0,0,0,,,2025-26
+Saudi Pro League,Al Fayha,15,Abdullah Radif,F,23,Saudi Arabia,9,0,2,0,0,,,2025-26
+Saudi Pro League,Al Fayha,23,Jason,F,31,Spain,34,5,7,4,0,,,2025-26
+Saudi Pro League,Al Fayha,35,Silvére Ganvoula,F,30,Congo,29,4,0,2,0,,,2025-26
+Saudi Pro League,Al Fayha,41,Ammar Al Khaibari,F,21,Saudi Arabia,11,1,0,1,0,,,2025-26
+Saudi Pro League,Al Fayha,59,Saikou Secka,F,,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Fayha,72,Sabri Abdu Dahal,F,18,Saudi Arabia,24,3,4,5,0,,,2025-26
+Saudi Pro League,Al Fayha,77,Rayan Enad,F,25,Saudi Arabia,23,0,0,2,0,,,2025-26
+Saudi Pro League,Al Hazem,14,Bruno Varela,G,31,Cape Verde Islands,20,,0,2,0,59,35,2025-26
+Saudi Pro League,Al Hazem,22,Yazan Al Ruwaili,G,21,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Hazem,23,Ibrahim Zaid,G,36,Saudi Arabia,12,,0,0,0,38,17,2025-26
+Saudi Pro League,Al Hazem,33,Majed Al Ghamdi,G,28,Saudi Arabia,4,,0,1,0,7,5,2025-26
+Saudi Pro League,Al Hazem,,Abdullah Al-Amar,D,32,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hazem,2,Saud Al Rashed,D,28,Saudi Arabia,23,0,4,9,1,,,2025-26
+Saudi Pro League,Al Hazem,3,Abdelmounaim Boutouil,D,28,Morocco,13,0,0,3,0,,,2025-26
+Saudi Pro League,Al Hazem,4,Sultan Tanker,D,27,Saudi Arabia,29,0,0,6,0,,,2025-26
+Saudi Pro League,Al Hazem,5,Mohammed Issa,D,24,Saudi Arabia,16,0,0,4,0,,,2025-26
+Saudi Pro League,Al Hazem,12,Farhan Al-Azmi,D,31,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hazem,13,Abdullah Al-Shanqiti,D,27,Saudi Arabia,22,1,0,3,0,,,2025-26
+Saudi Pro League,Al Hazem,25,Asiri,D,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hazem,27,Ahmed Al-Nakhli,D,24,Saudi Arabia,27,1,1,4,1,,,2025-26
+Saudi Pro League,Al Hazem,34,Abdurahman Al-Dakheel,D,30,Saudi Arabia,23,1,0,12,0,,,2025-26
+Saudi Pro League,Al Hazem,61,Thamer Muhaddili,D,21,Yemen,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,82,Abdulaziz Al-Harbi,D,22,Saudi Arabia,21,0,1,5,0,,,2025-26
+Saudi Pro League,Al Hazem,8,Abdulhadi Al-Harajin,M,31,Saudi Arabia,6,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,11,Amir Sayoud,M,35,Algeria,19,3,3,3,0,,,2025-26
+Saudi Pro League,Al Hazem,15,Abdulrahman Al Khaibary,M,38,Saudi Arabia,4,0,0,2,0,,,2025-26
+Saudi Pro League,Al Hazem,19,Nawaf Al-Habshi,M,28,Saudi Arabia,29,4,2,2,0,,,2025-26
+Saudi Pro League,Al Hazem,21,Amadou Bamba Dieng,M,21,Senegal,5,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,24,Aboubacar Bah,M,20,Guinea,27,3,2,3,0,,,2025-26
+Saudi Pro League,Al Hazem,26,Abdulaziz Aldhuwayhi,M,26,Saudi Arabia,20,4,1,4,0,,,2025-26
+Saudi Pro League,Al Hazem,32,Loreintz Rosier,M,27,France,31,1,1,4,0,,,2025-26
+Saudi Pro League,Al Hazem,37,Youssouf Alio Oumarou,M,33,Niger,10,1,0,1,0,,,2025-26
+Saudi Pro League,Al Hazem,45,Mohammed Al Saedi,M,20,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,55,Muhammad Al Darwish,M,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Hazem,70,Ahmed Al-Shamrani,M,24,Saudi Arabia,23,0,0,3,0,,,2025-26
+Saudi Pro League,Al Hazem,80,Miguel Carvalho,M,21,Spain,18,0,1,0,0,,,2025-26
+Saudi Pro League,Al Hazem,90,Hassan Idris,M,20,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,99,Faiz Hausawi,M,,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,7,Yousef Al Shammari,F,28,Saudi Arabia,22,5,0,4,0,,,2025-26
+Saudi Pro League,Al Hazem,9,Omar Al-Somah,F,37,Syria,24,7,0,1,0,,,2025-26
+Saudi Pro League,Al Hazem,10,Fábio Martins,F,32,Portugal,33,5,4,5,0,,,2025-26
+Saudi Pro League,Al Hazem,17,Elias Mokwana,F,26,South Africa,24,1,2,6,0,,,2025-26
+Saudi Pro League,Al Hazem,20,Nawaf Al Bishri,F,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Hazem,30,Abdulrazzaq Awaji,F,18,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,1,Predrag Rajkovic,G,30,Serbia,30,,0,0,2,97,41,2025-26
+Saudi Pro League,Al Ittihad,47,Hamed Al-Shanqiti,G,21,Saudi Arabia,1,,0,0,0,3,2,2025-26
+Saudi Pro League,Al Ittihad,50,Mohammed Alabsi,G,23,Saudi Arabia,5,,0,1,0,4,5,2025-26
+Saudi Pro League,Al Ittihad,88,Osama Al Marwash,G,23,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Ittihad,2,Danilo Pereira,D,34,Portugal,31,2,1,5,0,,,2025-26
+Saudi Pro League,Al Ittihad,4,Jan-Carlo Simic,D,21,Serbia,8,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,6,Saad Al Mosa,D,23,Saudi Arabia,7,0,0,3,0,,,2025-26
+Saudi Pro League,Al Ittihad,12,Mario Mitaj,D,22,Albania,21,1,2,7,0,,,2025-26
+Saudi Pro League,Al Ittihad,13,Muhannad Al-Shanqiti,D,27,Saudi Arabia,30,3,6,2,0,,,2025-26
+Saudi Pro League,Al Ittihad,15,Hassan Kadish,D,33,Saudi Arabia,27,1,0,0,1,,,2025-26
+Saudi Pro League,Al Ittihad,20,Ahmed Sharahili,D,32,Saudi Arabia,17,0,0,3,0,,,2025-26
+Saudi Pro League,Al Ittihad,32,Ahmed Al-Julaydan,D,22,Saudi Arabia,22,0,1,2,0,,,2025-26
+Saudi Pro League,Al Ittihad,66,Mohammed Ali Barnawi,D,20,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,70,Abdulrahman Hazazi,D,18,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ittihad,87,Yaseen Khalid,D,20,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,3,Stephane Paul Keller,M,24,Cameroon,,,,,,,,2025-26
+Saudi Pro League,Al Ittihad,8,Fabinho,M,32,Brazil,30,1,3,5,2,,,2025-26
+Saudi Pro League,Al Ittihad,10,Houssem Aouar,M,28,Algeria,23,8,3,3,0,,,2025-26
+Saudi Pro League,Al Ittihad,14,Awad Al Nashri,M,24,Saudi Arabia,16,0,0,3,0,,,2025-26
+Saudi Pro League,Al Ittihad,16,Faisal Al-Ghamdi,M,24,Saudi Arabia,14,1,2,1,0,,,2025-26
+Saudi Pro League,Al Ittihad,17,Mahamadou Doumbia,M,22,Mali,14,1,2,4,0,,,2025-26
+Saudi Pro League,Al Ittihad,23,Nawaf Al Jadaani,M,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ittihad,29,Farhah Al Shamrani,M,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ittihad,41,Mohammed Fallatah,M,18,Saudi Arabia,3,0,0,1,0,,,2025-26
+Saudi Pro League,Al Ittihad,53,Mohammed Hazazi,M,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ittihad,80,Hamed Alghamdi,M,27,Saudi Arabia,8,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,11,Saleh Al-Shehri,F,32,Saudi Arabia,18,3,2,1,0,,,2025-26
+Saudi Pro League,Al Ittihad,19,Moussa Diaby,F,27,France,31,4,7,2,2,,,2025-26
+Saudi Pro League,Al Ittihad,21,Youssef En-Nesyri,F,29,Morocco,13,6,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,22,Abdulaziz Al-Bishi,F,32,Saudi Arabia,22,1,0,1,0,,,2025-26
+Saudi Pro League,Al Ittihad,24,Abdulrahman Al-Obud,F,31,Saudi Arabia,15,1,1,2,0,,,2025-26
+Saudi Pro League,Al Ittihad,27,Ahmed Al Ghamdi,F,24,Saudi Arabia,25,3,1,2,0,,,2025-26
+Saudi Pro League,Al Ittihad,34,Steven Bergwijn,F,28,Netherlands,21,5,3,5,0,,,2025-26
+Saudi Pro League,Al Ittihad,52,Adnan Al Bishri,F,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Ittihad,78,Roger Fernandes,F,20,Portugal,15,2,2,2,0,,,2025-26
+Saudi Pro League,Al Ittihad,90,Talal Haji,F,18,Saudi Arabia,7,0,0,0,0,,,2025-26
+Saudi Pro League,Al Ittihad,99,George Ilenikhena,F,19,France,2,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fateh,1,Fernando Pacheco,G,34,Spain,31,,0,1,1,110,47,2025-26
+Saudi Pro League,Al Fateh,31,Habib Alwotayan,G,29,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Fateh,13,Abdulhadi Al-Alwan,G,,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,22,Mahmoud Al Burayh,G,20,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Fateh,17,Marwane Saadane,D,34,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,5,Faisal Darisi,D,29,Saudi Arabia,4,0,0,0,0,,,2025-26
+Saudi Pro League,Al Fateh,12,Hussain Salem,D,28,Saudi Arabia,7,0,0,1,0,,,2025-26
+Saudi Pro League,Al Fateh,4,Ziyad Al Jari,D,24,Saudi Arabia,23,0,0,6,0,,,2025-26
+Saudi Pro League,Al Fateh,87,Sattam Al Tumbukti,D,24,Saudi Arabia,12,0,0,2,0,,,2025-26
+Saudi Pro League,Al Fateh,15,Saeed Baattia,D,25,Saudi Arabia,31,1,0,9,0,,,2025-26
+Saudi Pro League,Al Fateh,63,Muntathir Al Shaqaq,D,21,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,83,Ammar Al Hudaybi,D,19,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,78,Abdulaziz Anwar Abdulrahman Al Suwailem,D,20,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,10,Matias Vargas,M,29,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,33,Zaydou Youssef,M,27,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,88,Othman Ramzi Jasim Al Othman,M,23,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,80,Faisal Al Abdulwahed,M,21,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,98,Abdulaziz Al Fawaz,M,18,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,38,Ali Al Youssef,M,18,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,25,Mohammed Al-Sahihi,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,55,Fawaz Al-Hamad,M,22,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,39,Hassan Ali Al Ghazal,M,17,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,11,Mourad Batna,F,36,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,29,Ali Al Masoud,F,22,,,,,,,,,2025-26
+Saudi Pro League,Al Fateh,27,Fahad Zubaidi,F,24,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,49,Anthony Moris,G,36,Luxembourg,33,,2,4,0,120,57,2025-26
+Saudi Pro League,Al Khaleej,96,Marwan Al Haidari,G,30,Saudi Arabia,1,,0,0,0,10,5,2025-26
+Saudi Pro League,Al Khaleej,,Mohammed Ibrahim,G,21,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,31,Mohammed Alghanem,G,18,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Khaleej,17,Abdullah Al Hafith,D,33,Saudi Arabia,23,0,1,1,0,,,2025-26
+Saudi Pro League,Al Khaleej,13,Ahmad Asiri,D,34,Saudi Arabia,21,0,0,7,0,,,2025-26
+Saudi Pro League,Al Khaleej,5,Rebocho,D,31,Portugal,33,0,7,4,0,,,2025-26
+Saudi Pro League,Al Khaleej,,Abdullah Al-Amar,D,32,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Boubakar Kiki Kouyate,D,29,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,3,Mohammed Khubrani,D,32,Saudi Arabia,32,0,0,6,1,,,2025-26
+Saudi Pro League,Al Khaleej,39,Saeed Al Hamsal,D,30,Saudi Arabia,28,0,1,7,0,,,2025-26
+Saudi Pro League,Al Khaleej,28,Hamad Al Jayzani,D,33,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Ali Al Shaafi,D,24,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,26,Raed Firas Al Shanqiti,D,20,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Miguel Silva,M,29,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Omar Mascarell,M,33,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Angelo Fulgini,M,29,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,16,Bader Munshi,M,27,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,12,Majed Kanabah,M,33,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Nawaf Al Saadi,M,25,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,19,Mohammed Al Abdullah,M,24,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Faisal Al-Bakr,M,21,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,,Mohammed Al Saedi,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,24,Ali Abdoulraouf Alabdrabalnabi,M,22,,,,,,,,,2025-26
+Saudi Pro League,Al Khaleej,8,Abdoulie Mboge,M,22,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,48,Muhannad Al Yahya,G,21,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Kholood,34,Fares Bandar Al Zahrani,G,,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Kholood,38,Shaquille Pinas,D,28,Suriname,30,1,2,2,0,,,2025-26
+Saudi Pro League,Al Kholood,3,Edgaras Utkus,D,26,Lithuania,16,1,0,1,0,,,2025-26
+Saudi Pro League,Al Kholood,21,Rashid Al Mutairi,D,23,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Kholood,7,Sultan Al-Shehri,D,31,Saudi Arabia,29,0,0,2,0,,,2025-26
+Saudi Pro League,Al Kholood,,Abdulrahman Al Obaid,D,22,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,25,Mansour Camara,D,18,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,6,John Buckley,M,26,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,39,Abdulrahman Al-Dossari,M,28,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,,Seydouba Cissé,M,25,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,10,Iker Kortajarena,M,26,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,,Nawaf Al Shuwaier,M,35,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,70,Muhammad Sawan,M,25,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,90,Anas Al Otaibi,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,,Mohammed Al Rashdi,M,24,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,14,Ibrahem Barabaa,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,22,Salman Al Mosawa,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,24,Adi,M,21,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,55,Yousef Al Honaifesh,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,52,Rakan Jaman,M,20,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,17,Adam Berry,F,20,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,18,Ramiro Enrique,F,25,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,46,Abdulaziz Al-Aliwa,F,22,,,,,,,,,2025-26
+Saudi Pro League,Al Kholood,15,Ramzi Solan,F,28,,,,,,,,,2025-26
+Saudi Pro League,Al Nassr,1,Nawaf Al-Aqidi,G,26,Saudi Arabia,11,,1,0,1,25,12,2025-26
+Saudi Pro League,Al Nassr,24,Bento,G,27,Brazil,21,,0,0,0,33,13,2025-26
+Saudi Pro League,Al Nassr,36,Raghid Al-Najjar,G,29,Saudi Arabia,2,,0,0,0,2,1,2025-26
+Saudi Pro League,Al Nassr,53,Abdulrahman Al Otaibi,G,18,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Nassr,61,Mubarak Al Buainain,G,20,Saudi Arabia,1,,0,0,0,0,2,2025-26
+Saudi Pro League,Al Nassr,2,Sultan Al-Ghannam,D,32,Saudi Arabia,32,0,1,3,0,,,2025-26
+Saudi Pro League,Al Nassr,3,Mohamed Simakan,D,26,France,28,3,0,3,0,,,2025-26
+Saudi Pro League,Al Nassr,4,Nader Al Sharari,D,30,Saudi Arabia,9,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,5,Abdulelah Al-Amri,D,29,Saudi Arabia,25,2,2,3,0,,,2025-26
+Saudi Pro League,Al Nassr,12,Nawaf Boushal,D,26,Saudi Arabia,32,0,6,3,1,,,2025-26
+Saudi Pro League,Al Nassr,26,Iñigo Martínez,D,35,Spain,31,3,0,6,0,,,2025-26
+Saudi Pro League,Al Nassr,70,Awad Aman,D,21,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,83,Salem Al Najdi,D,23,Saudi Arabia,12,0,1,1,0,,,2025-26
+Saudi Pro League,Al Nassr,96,Saad Al Nasser,D,25,Saudi Arabia,17,0,0,2,0,,,2025-26
+Saudi Pro League,Al Nassr,8,Hayder Abdulkareem,M,21,Iraq,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,11,Marcelo Brozovic,M,33,Croatia,29,0,4,7,0,,,2025-26
+Saudi Pro League,Al Nassr,14,Sami Al-Najei,M,29,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Nassr,17,Abdullah Al-Khaibari,M,29,Saudi Arabia,32,0,1,5,0,,,2025-26
+Saudi Pro League,Al Nassr,18,Abdulmalik Al Jaber,M,22,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,19,Ali Al-Hassan,M,29,Saudi Arabia,23,0,0,4,0,,,2025-26
+Saudi Pro League,Al Nassr,23,Aiman Yahya,M,25,Saudi Arabia,27,2,2,7,0,,,2025-26
+Saudi Pro League,Al Nassr,56,Rakan Khalid Al Ghamdi,M,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,88,Bassam Abdullah B. Hazazi,M,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Nassr,7,Cristiano Ronaldo,F,41,Portugal,30,28,2,2,0,,,2025-26
+Saudi Pro League,Al Nassr,9,Abdullah Al-Hamdan,F,26,Saudi Arabia,25,3,1,0,0,,,2025-26
+Saudi Pro League,Al Nassr,10,Sadio Mané,F,34,Senegal,25,10,6,6,0,,,2025-26
+Saudi Pro League,Al Nassr,16,Mohammed Maran,F,25,Saudi Arabia,3,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,20,Ângelo Gabriel,F,21,Brazil,25,4,6,4,0,,,2025-26
+Saudi Pro League,Al Nassr,21,Kingsley Coman,F,30,France,30,10,11,3,0,,,2025-26
+Saudi Pro League,Al Nassr,29,Abdulrahman Ghareeb,F,29,Saudi Arabia,23,2,2,3,0,,,2025-26
+Saudi Pro League,Al Nassr,40,Youssef Mohammed Al Tahan,F,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Nassr,54,Faris Salem,F,18,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Nassr,58,Abdulrahman Mohammed Sufyani,F,18,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Nassr,60,Saad Hussain Haqawi,F,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Nassr,79,João Félix,F,26,Portugal,33,20,13,7,0,,,2025-26
+Saudi Pro League,Al Riyadh,22,Abdurahman Al Shammeri,G,26,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Riyadh,28,Jan Petek,G,20,Slovenia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Riyadh,82,Milan Borjan,G,38,Canada,34,,0,1,0,110,63,2025-26
+Saudi Pro League,Al Riyadh,97,Emad Fidaa,G,29,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Riyadh,4,Sergio González,D,34,Spain,19,1,0,1,0,,,2025-26
+Saudi Pro League,Al Riyadh,5,Yoann Barbet,D,33,France,32,2,1,3,0,,,2025-26
+Saudi Pro League,Al Riyadh,7,Osama Zaid Abdulaziz Al Bowardi,D,27,Saudi Arabia,28,0,1,2,0,,,2025-26
+Saudi Pro League,Al Riyadh,12,Sulaiman Hazazi,D,23,Saudi Arabia,24,0,1,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,13,Ahmed Khatir,D,21,Morocco,1,0,0,1,0,,,2025-26
+Saudi Pro League,Al Riyadh,17,Abdullah Hassuna,D,29,Saudi Arabia,9,0,0,1,0,,,2025-26
+Saudi Pro League,Al Riyadh,21,Abdulaziz Al Asbahi,D,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Riyadh,23,Mohammed Alkhaibari,D,24,Saudi Arabia,27,0,0,7,1,,,2025-26
+Saudi Pro League,Al Riyadh,33,Ammar Al Harfi,D,25,Saudi Arabia,23,0,1,4,0,,,2025-26
+Saudi Pro League,Al Riyadh,35,Ahmed Al Siyahi,D,21,Saudi Arabia,19,0,0,1,0,,,2025-26
+Saudi Pro League,Al Riyadh,44,Saud Al Tumbukti,D,21,Saudi Arabia,3,0,0,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,45,Essam Bahri,D,21,Saudi Arabia,7,0,1,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,80,Abdulelah Al Khaibari,D,29,Saudi Arabia,17,0,0,5,0,,,2025-26
+Saudi Pro League,Al Riyadh,87,Marzouq Tambakti,D,23,Saudi Arabia,14,0,0,3,1,,,2025-26
+Saudi Pro League,Al Riyadh,14,Talal Riyadh Al Shubili,M,21,Saudi Arabia,4,0,0,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,16,Muhammad Sahlouli,M,21,Saudi Arabia,10,0,0,2,0,,,2025-26
+Saudi Pro League,Al Riyadh,18,Khaled Ali,M,22,United Arab Emirates,6,0,0,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,20,Tozé,M,33,Portugal,33,9,5,2,1,,,2025-26
+Saudi Pro League,Al Riyadh,27,Victor Lekhal,M,32,Algeria,15,0,1,2,0,,,2025-26
+Saudi Pro League,Al Riyadh,29,Salman Matar,M,20,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Riyadh,88,Yahya Alshehri,M,36,Saudi Arabia,15,0,2,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,94,Faisal Al Subhi,M,27,Saudi Arabia,3,0,0,1,0,,,2025-26
+Saudi Pro League,Al Riyadh,9,Mamadou Sylla,F,32,Senegal,30,10,1,3,0,,,2025-26
+Saudi Pro League,Al Riyadh,10,Teddy Okou,F,28,France,32,1,8,7,0,,,2025-26
+Saudi Pro League,Al Riyadh,11,Khalil Al-Absi,F,25,Saudi Arabia,23,1,0,1,0,,,2025-26
+Saudi Pro League,Al Riyadh,15,Nasser Al Bishi,F,24,Saudi Arabia,6,0,0,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,32,Luca Ramirez,F,20,Argentina,4,0,0,0,0,,,2025-26
+Saudi Pro League,Al Riyadh,77,Leandro Antunes,F,28,Portugal,15,7,0,2,0,,,2025-26
+Saudi Pro League,Al Riyadh,98,Enes Sali,F,20,Romania,13,0,1,2,0,,,2025-26
+Saudi Pro League,Al Riyadh,99,Sultan Ali Harun,F,20,Saudi Arabia,18,2,0,4,0,,,2025-26
+Saudi Pro League,Al Okhdood,1,Rakan Najjar,G,31,Saudi Arabia,7,,0,0,0,27,9,2025-26
+Saudi Pro League,Al Okhdood,26,Hatem Aljuhani,G,29,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Okhdood,92,Saad Al Qarni,G,24,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Okhdood,94,Samuel Portugal,G,32,Brazil,27,,0,0,0,110,61,2025-26
+Saudi Pro League,Al Okhdood,4,Saeed Al-Rabiei,D,32,Saudi Arabia,19,4,1,8,0,,,2025-26
+Saudi Pro League,Al Okhdood,8,Hussain Al Zabdani,D,31,Saudi Arabia,12,0,0,1,1,,,2025-26
+Saudi Pro League,Al Okhdood,15,Naif Asiri,D,25,Saudi Arabia,18,1,0,6,2,,,2025-26
+Saudi Pro League,Al Okhdood,21,Mohammed Abu Abd,D,24,Saudi Arabia,25,0,0,1,1,,,2025-26
+Saudi Pro League,Al Okhdood,22,Koray Günter,D,31,Germany,28,1,1,2,0,,,2025-26
+Saudi Pro League,Al Okhdood,42,Muath Muath,D,24,Saudi Arabia,17,0,1,6,0,,,2025-26
+Saudi Pro League,Al Okhdood,87,Ahmed Ghassan,D,23,Saudi Arabia,15,1,0,3,0,,,2025-26
+Saudi Pro League,Al Okhdood,98,Mohanad Al Qaydhi,D,28,Saudi Arabia,18,0,0,1,0,,,2025-26
+Saudi Pro League,Al Okhdood,5,Yvan Neyou,M,29,Cameroon,7,0,0,1,0,,,2025-26
+Saudi Pro League,Al Okhdood,10,Mohammed Al Jahif,M,27,Saudi Arabia,14,0,0,1,0,,,2025-26
+Saudi Pro League,Al Okhdood,11,Burak Ince,M,22,Türkiye,25,1,0,0,0,,,2025-26
+Saudi Pro League,Al Okhdood,12,Abdulaziz Al Hatila,M,28,Saudi Arabia,31,4,1,1,0,,,2025-26
+Saudi Pro League,Al Okhdood,17,Gökhan Gül,M,27,Germany,33,1,3,4,0,,,2025-26
+Saudi Pro League,Al Okhdood,18,Juan Pedroza,M,27,Colombia,30,3,1,8,1,,,2025-26
+Saudi Pro League,Al Okhdood,19,Saud Salem,M,20,Saudi Arabia,5,0,0,0,0,,,2025-26
+Saudi Pro League,Al Okhdood,20,Saleh Al-Harthi,M,30,Saudi Arabia,16,0,0,3,0,,,2025-26
+Saudi Pro League,Al Okhdood,23,Mohammed Al Qahtani,M,18,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Okhdood,55,Mateo Borrell,M,19,Argentina,17,0,1,4,0,,,2025-26
+Saudi Pro League,Al Okhdood,77,Saif Balhareth,M,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Okhdood,88,Ibrahim Ashi,M,22,Saudi Arabia,9,0,0,2,1,,,2025-26
+Saudi Pro League,Al Okhdood,96,Ahmed Majrashi,M,21,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Al Okhdood,7,Khaled Narey,F,31,Togo,22,4,3,1,0,,,2025-26
+Saudi Pro League,Al Okhdood,13,Christian Bassogog,F,30,Cameroon,29,4,6,1,0,,,2025-26
+Saudi Pro League,Al Okhdood,14,Saleh Al Abbas,F,31,Saudi Arabia,20,1,1,2,1,,,2025-26
+Saudi Pro League,Al Okhdood,93,Tokmac Nguen,F,32,Norway,13,1,0,1,1,,,2025-26
+Saudi Pro League,Al Okhdood,99,Khaled Al-Lazam,F,27,Saudi Arabia,15,0,1,3,0,,,2025-26
+Saudi Pro League,Al Taawoun,1,Mailson,G,29,Brazil,33,,0,1,0,94,41,2025-26
+Saudi Pro League,Al Taawoun,13,Abdulquddus Atiah,G,29,Saudi Arabia,1,,0,0,0,5,5,2025-26
+Saudi Pro League,Al Taawoun,25,Abdulrahman Alsenaid,G,19,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Taawoun,2,Meshal Alaeli,D,22,Saudi Arabia,12,0,0,5,0,,,2025-26
+Saudi Pro League,Al Taawoun,3,Andrei Girotto,D,34,Brazil,22,2,0,7,0,,,2025-26
+Saudi Pro League,Al Taawoun,24,Moustapha Sémbène,D,20,Senegal,4,0,0,2,0,,,2025-26
+Saudi Pro League,Al Taawoun,26,Ibrahim Alshuayl,D,31,Saudi Arabia,1,0,0,1,0,,,2025-26
+Saudi Pro League,Al Taawoun,32,Al Mufarrij,D,29,Saudi Arabia,26,0,1,6,2,,,2025-26
+Saudi Pro League,Al Taawoun,43,Nawaf Mazen Al Hawairy,D,17,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,55,Mohammed Al Dossari,D,25,Saudi Arabia,25,2,0,3,0,,,2025-26
+Saudi Pro League,Al Taawoun,66,Mohammed Al Hurayji,D,26,Saudi Arabia,12,1,0,1,0,,,2025-26
+Saudi Pro League,Al Taawoun,87,Qassem Lajami,D,30,Saudi Arabia,18,0,0,1,0,,,2025-26
+Saudi Pro League,Al Taawoun,5,Mohammed Mahzari,M,24,Saudi Arabia,33,1,2,4,0,,,2025-26
+Saudi Pro League,Al Taawoun,6,Victor Hugo,M,22,Brazil,16,0,0,4,0,,,2025-26
+Saudi Pro League,Al Taawoun,8,Flávio,M,30,Brazil,26,0,2,8,0,,,2025-26
+Saudi Pro League,Al Taawoun,11,Angelo Fulgini,M,29,New Caledonia,30,5,9,2,0,,,2025-26
+Saudi Pro League,Al Taawoun,18,Aschraf El Mahdioui,M,30,Morocco,33,0,2,7,0,,,2025-26
+Saudi Pro League,Al Taawoun,28,Turki Al Shaifan,M,21,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,29,Ahmed Saleh Bahusayn,M,25,Saudi Arabia,13,0,0,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,44,Abdulmalik Ghazzi Al Harbi,M,21,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,77,Abdulelah Hawsawi,M,25,Saudi Arabia,12,0,0,2,0,,,2025-26
+Saudi Pro League,Al Taawoun,,Hamoud Bassam,F,21,Syria,,,,,,,,2025-26
+Saudi Pro League,Al Taawoun,,Bassem Al-Arini,F,22,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Taawoun,7,Mohammed Al Kuwaykibi,F,31,Saudi Arabia,23,4,7,1,0,,,2025-26
+Saudi Pro League,Al Taawoun,10,Roger Martínez,F,32,Colombia,32,23,2,9,0,,,2025-26
+Saudi Pro League,Al Taawoun,15,Mohammed Al-Qahtani,F,23,Saudi Arabia,16,1,0,1,0,,,2025-26
+Saudi Pro League,Al Taawoun,19,Cristhoper Zambrano,F,21,Ecuador,13,2,1,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,20,Gabriel Teixeira,F,25,Brazil,15,1,0,1,0,,,2025-26
+Saudi Pro League,Al Taawoun,33,Anas Al Ghamdi,F,21,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Taawoun,70,Koshaim Al Karani,F,26,Saudi Arabia,3,0,0,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,74,Saif Rashad Mohamed,F,21,Saudi Arabia,10,0,0,0,0,,,2025-26
+Saudi Pro League,Al Taawoun,88,Marin Petkov,F,22,Bulgaria,15,2,2,2,0,,,2025-26
+Saudi Pro League,Al Taawoun,97,Fahad Alrashidi,F,29,Saudi Arabia,14,0,0,2,0,,,2025-26
+Saudi Pro League,Al Taawoun,99,Musa Barrow,F,27,Gambia,5,3,3,0,0,,,2025-26
+Saudi Pro League,Damac,1,Kewin,G,31,Brazil,34,,0,2,0,95,55,2025-26
+Saudi Pro League,Damac,30,Naser Al Ghamdi,G,25,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Damac,33,Moataz Al-Baqaawi,G,28,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Damac,72,Meshal Al Shahrani,G,21,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Damac,3,Abdelkader Bedrane,D,34,Algeria,28,3,1,3,2,,,2025-26
+Saudi Pro League,Damac,4,Noor Al Rashidi,D,31,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Damac,5,Hassan Rabea,D,23,Saudi Arabia,17,0,0,4,0,,,2025-26
+Saudi Pro League,Damac,6,Tariq Mohammed,D,30,Saudi Arabia,17,0,0,7,0,,,2025-26
+Saudi Pro League,Damac,12,Sanousi Al Hawsawi,D,27,Saudi Arabia,30,1,1,4,0,,,2025-26
+Saudi Pro League,Damac,13,Abdulrahman Al-Obaid,D,33,Saudi Arabia,26,0,6,2,0,,,2025-26
+Saudi Pro League,Damac,15,Jamal Harkass,D,30,Morocco,31,2,1,9,0,,,2025-26
+Saudi Pro League,Damac,20,Dhari Al Anazi,D,26,Saudi Arabia,31,0,3,5,1,,,2025-26
+Saudi Pro League,Damac,22,Abdul Rahman Al Khaibari,D,26,Saudi Arabia,22,0,0,1,1,,,2025-26
+Saudi Pro League,Damac,7,Abdullah Al Qahtani,M,27,Saudi Arabia,26,2,0,1,0,,,2025-26
+Saudi Pro League,Damac,8,Valentin Vada,M,30,Argentina,33,11,6,4,0,,,2025-26
+Saudi Pro League,Damac,18,Nawaf Al Saadi,M,25,Saudi Arabia,18,0,0,1,0,,,2025-26
+Saudi Pro League,Damac,21,Ahmed Omar,M,23,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Damac,26,Riyadh Sharahili,M,33,Saudi Arabia,22,0,2,1,0,,,2025-26
+Saudi Pro League,Damac,71,Amidou Traore,M,21,,0,0,0,0,0,,,2025-26
+Saudi Pro League,Damac,88,Khaled Al Samiri,M,29,Saudi Arabia,22,0,0,3,0,,,2025-26
+Saudi Pro League,Damac,93,Ahmed Namazi,M,22,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Damac,2,Morlaye Sylla,F,27,Guinea,32,2,1,6,0,,,2025-26
+Saudi Pro League,Damac,10,Nabil Alioui,F,27,France,6,0,0,2,0,,,2025-26
+Saudi Pro League,Damac,11,Yakou Meite,F,30,Ivory Coast,22,5,0,7,0,,,2025-26
+Saudi Pro League,Damac,14,Jonathan Okita,F,29,Congo DR,13,2,1,0,0,,,2025-26
+Saudi Pro League,Damac,17,Mohammad Alsalkhadi,F,24,Syria,8,0,1,1,0,,,2025-26
+Saudi Pro League,Damac,23,Jawad Alhassan,F,21,Saudi Arabia,1,0,0,0,0,,,2025-26
+Saudi Pro League,Damac,47,Zaher Makkawi,F,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Damac,77,David Kaiki,F,22,Brazil,13,0,0,0,1,,,2025-26
+Saudi Pro League,Damac,80,Yahya Naji,F,27,Saudi Arabia,21,0,0,1,0,,,2025-26
+Saudi Pro League,Damac,90,Hazzaa Al Ghamdi,F,25,Saudi Arabia,17,0,0,1,1,,,2025-26
+Saudi Pro League,Damac,99,Arielson,F,21,Brazil,10,1,1,1,0,,,2025-26
+Saudi Pro League,Neom SC,1,Mustafa Malaika,G,40,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Neom SC,50,Ozaybi Raed,G,24,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Neom SC,81,Luís Maximiano,G,27,Portugal,28,,0,1,0,79,40,2025-26
+Saudi Pro League,Neom SC,88,Mohammed Al Hakim,G,21,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Neom SC,99,Marcin Bulka,G,26,Poland,6,,0,0,0,26,8,2025-26
+Saudi Pro League,Neom SC,,Nawaf Al Ghulaimish,D,21,Saudi Arabia,6,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,2,Mohammed Al-Burayk,D,33,Saudi Arabia,21,1,1,0,0,,,2025-26
+Saudi Pro League,Neom SC,4,Khalifah Al-Dawsari,D,27,Saudi Arabia,26,1,0,7,2,,,2025-26
+Saudi Pro League,Neom SC,15,Abdulmalik Al Oyayari,D,22,Saudi Arabia,16,1,0,6,0,,,2025-26
+Saudi Pro League,Neom SC,19,Luciano Rodríguez,D,19,Uruguay,30,6,1,0,1,,,2025-26
+Saudi Pro League,Neom SC,25,Abdi Faris,D,27,Saudi Arabia,33,0,2,7,0,,,2025-26
+Saudi Pro League,Neom SC,26,Ahmed Hegazi,D,35,Egypt,28,1,0,5,0,,,2025-26
+Saudi Pro League,Neom SC,27,Islam Hawsawi,D,24,Saudi Arabia,20,0,1,1,0,,,2025-26
+Saudi Pro League,Neom SC,44,Nathan Zeze,D,21,France,31,2,1,9,0,,,2025-26
+Saudi Pro League,Neom SC,48,Ali Al Nakhli,D,21,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,93,Awn Al-Saluli,D,27,Saudi Arabia,10,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,6,Abbas Al Hassan,M,22,Saudi Arabia,8,0,0,2,0,,,2025-26
+Saudi Pro League,Neom SC,7,Salman Al-Faraj,M,37,Saudi Arabia,15,0,0,1,0,,,2025-26
+Saudi Pro League,Neom SC,8,Abdoulaye Doucouré,M,33,Mali,13,0,4,5,0,,,2025-26
+Saudi Pro League,Neom SC,18,Ala Al-Hajji,M,30,Saudi Arabia,24,3,1,1,0,,,2025-26
+Saudi Pro League,Neom SC,24,Abdulaziz Noor,M,27,Saudi Arabia,11,0,0,2,0,,,2025-26
+Saudi Pro League,Neom SC,47,Younis Alshanqity,M,22,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,54,Fares Ahmed Al Ghafli,M,20,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,57,Geovanny Balanta,M,19,Colombia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,61,Yahya Mousa Yahya Gharawi,M,20,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,72,Amadou Koné,M,21,Mali,32,2,1,7,0,,,2025-26
+Saudi Pro League,Neom SC,95,Ayman Fallatah,M,22,Saudi Arabia,5,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,10,Saïd Benrahma,F,30,Algeria,27,10,7,1,0,,,2025-26
+Saudi Pro League,Neom SC,11,Hassan Hashim Al Ali,F,24,Saudi Arabia,15,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,14,Muhannad Al-Saad,F,23,Saudi Arabia,8,1,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,51,José Luis Carabalí,F,18,Colombia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,59,Abdulaziz Al Khanani,F,22,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Neom SC,60,Ahmed Al Anazi,F,22,Saudi Arabia,2,0,1,0,0,,,2025-26
+Saudi Pro League,Neom SC,71,Ahmed Abdu,F,32,Saudi Arabia,20,1,0,1,0,,,2025-26
+Saudi Pro League,Neom SC,77,Nawaf Al Janahi,F,19,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Neom SC,80,Rayane Messi,F,19,France,13,1,1,0,0,,,2025-26
+Saudi Pro League,Neom SC,91,Alexandre Lacazette,F,35,France,32,11,4,3,0,,,2025-26
+Saudi Pro League,Al Qadsiah,1,Koen Casteels,G,34,Belgium,32,,0,1,0,75,32,2025-26
+Saudi Pro League,Al Qadsiah,28,Ahmed Al-Kassar,G,35,Saudi Arabia,3,,0,0,0,2,2,2025-26
+Saudi Pro League,Al Qadsiah,50,Meshari Sunyur,G,24,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Qadsiah,31,Abgullah Almuhaysin,G,19,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Qadsiah,,Carlos Jimenez,D,20,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,6,Nacho,D,36,Spain,34,0,0,3,0,,,2025-26
+Saudi Pro League,Al Qadsiah,12,Yasser Al-Shahrani,D,34,Saudi Arabia,26,0,0,2,0,,,2025-26
+Saudi Pro League,Al Qadsiah,17,Gastón Álvarez,D,26,Uruguay,28,0,0,6,1,,,2025-26
+Saudi Pro League,Al Qadsiah,24,Mohammed Qasem,D,31,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Qadsiah,23,Waleed Al-Ahmed,D,27,Saudi Arabia,21,5,1,9,0,,,2025-26
+Saudi Pro League,Al Qadsiah,,Souffian El Karouani,D,25,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,,Qassem Lajami,D,30,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,4,Jehad Thakri,D,25,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,,Musa Al Harbi,D,23,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,49,Alejandro Vergaz,D,20,Spain,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Qadsiah,13,Abdulah Al Jwayzan,D,19,Saudi Arabia,0,0,0,0,0,,,2025-26
+Saudi Pro League,Al Qadsiah,25,Otávio,M,31,Portugal,15,0,0,4,0,,,2025-26
+Saudi Pro League,Al Qadsiah,5,Julian Weigl,M,30,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,8,Nahitan Nández,M,30,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,,Cameron Puertas,M,27,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,7,Turki Al-Ammar,M,26,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,11,Ali Abdullah Hazzazi,M,32,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,40,Ibrahim Mahnashi,M,26,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,,Miguel Carvalho,M,21,,,,,,,,,2025-26
+Saudi Pro League,Al Qadsiah,10,Musab Al-Juwayr,M,23,,,,,,,,,2025-26
+Saudi Pro League,Al Najma,1,Victor Braga,G,34,Brazil,31,,0,2,0,110,70,2025-26
+Saudi Pro League,Al Najma,87,Waled Al Enazi,G,30,Saudi Arabia,4,,0,0,0,10,6,2025-26
+Saudi Pro League,Al Najma,22,Khaled Al Muqaitib,G,34,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Najma,34,Azzam Al Hussain,G,22,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Najma,33,Mohammed Al-Fatil,D,34,Saudi Arabia,11,0,0,1,0,,,2025-26
+Saudi Pro League,Al Najma,3,Samir,D,31,Brazil,30,3,1,1,1,,,2025-26
+Saudi Pro League,Al Najma,12,Mohammed Al-Konaideri,D,25,Saudi Arabia,4,0,1,1,0,,,2025-26
+Saudi Pro League,Al Najma,24,Abdullah Al Hawsawi,D,30,Saudi Arabia,25,0,0,7,0,,,2025-26
+Saudi Pro League,Al Najma,50,Nawaf Al Hawsawi,D,25,Saudi Arabia,10,0,0,3,0,,,2025-26
+Saudi Pro League,Al Najma,19,Fahad Al Abdulrazzaq,D,26,Saudi Arabia,13,0,0,1,0,,,2025-26
+Saudi Pro League,Al Najma,4,Nasser Al Haleel,D,26,Saudi Arabia,25,1,0,6,1,,,2025-26
+Saudi Pro League,Al Najma,,Saleh Al Bu Olayan,D,22,Saudi Arabia,,,,,,,,2025-26
+Saudi Pro League,Al Najma,27,Khalid Al Subaie,D,26,Saudi Arabia,15,0,0,0,0,,,2025-26
+Saudi Pro League,Al Shabab,43,Marcelo Grohe,G,39,Brazil,33,,0,2,0,83,53,2025-26
+Saudi Pro League,Al Shabab,23,Abdulaziz Rahma,G,24,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Shabab,33,Mohammed Al Mahasna,G,29,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Shabab,55,Mishal Bin Motaib,G,20,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Shabab,60,Muhammad Al Otaibi,G,18,Saudi Arabia,0,,0,0,0,0,0,2025-26
+Saudi Pro League,Al Shabab,4,Wesley Hoedt,D,32,Netherlands,32,0,0,4,1,,,2025-26
+Saudi Pro League,Al Shabab,16,Hussain Al-Sabiyani,D,25,Saudi Arabia,13,0,0,4,0,,,2025-26
+Saudi Pro League,Al Shabab,38,Mohammed Essa Harbush,D,23,Saudi Arabia,2,0,0,0,0,,,2025-26
+Saudi Pro League,Al Shabab,94,Mubarak Al-Rajeh,D,22,Saudi Arabia,9,0,0,1,0,,,2025-26
+Saudi Pro League,Al Shabab,5,Ali Makki,D,27,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,2,Mohammed Al Shwirekh,D,28,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,17,Mohammed Al Thani,D,29,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,26,Amjad Haraj,D,19,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,36,Adel Al Mutairi,D,21,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,34,Sultan,D,22,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,72,Nasser Ali Al Bishi,D,18,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,10,Yannick Carrasco,M,32,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,8,Josh Brownhill,M,30,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,14,Vincent Sierro,M,30,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,,Ali Al-Asmari,M,29,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,29,Yacine Adli,M,25,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,20,Basil Yousef Al-Sayyali,M,25,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,6,Faisal Al Sibyani,M,23,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,,Awad Al Nashri,M,24,,,,,,,,,2025-26
+Saudi Pro League,Al Shabab,71,Abdulelah Daghar,M,,,,,,,,,,2025-26

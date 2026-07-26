@@ -1,0 +1,538 @@
+League,Team,Number,Player,Position,Age,Nationality,Season_Apps,Season_Goals,Season_Assists,Season_YellowCards,Season_RedCards,Season_Saves,Season_GoalsConceded,Season_Label
+La Liga,Alaves,1,Antonio Sivera,G,29,Spain,38,,0,3,0,97,56,2025-26
+La Liga,Alaves,13,Raúl Fernández,G,38,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Alaves,31,Grégoire Swiderski,G,20,Canada,0,,0,0,0,0,0,2025-26
+La Liga,Alaves,33,Rúben Montero,G,20,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Alaves,2,Facundo Garcés,D,26,Malaysia,10,0,0,3,0,,,2025-26
+La Liga,Alaves,3,Youssef Lekhedim,D,20,Morocco,25,0,1,7,0,,,2025-26
+La Liga,Alaves,5,Jon Pacheco,D,25,Spain,22,0,0,4,1,,,2025-26
+La Liga,Alaves,7,Ángel Pérez,D,23,Spain,16,1,3,4,0,,,2025-26
+La Liga,Alaves,14,Nahuel Tenaglia,D,30,Argentina,36,2,0,3,0,,,2025-26
+La Liga,Alaves,16,Ville Koski,D,24,Finland,5,0,0,0,0,,,2025-26
+La Liga,Alaves,17,Jonny,D,32,Spain,34,0,0,7,0,,,2025-26
+La Liga,Alaves,24,Victor Parada,D,24,Spain,30,0,3,7,1,,,2025-26
+La Liga,Alaves,26,Álvaro García,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Alaves,27,Egoitz Muñoz,D,22,Spain,0,0,0,0,0,,,2025-26
+La Liga,Alaves,30,Carlos Ballestero,D,22,Spain,1,0,0,0,0,,,2025-26
+La Liga,Alaves,35,Xanet Oláiz,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Alaves,36,Paco Sanz,D,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Alaves,4,Denis Suárez,M,32,Spain,30,1,2,6,0,,,2025-26
+La Liga,Alaves,6,Ander Guevara,M,28,Spain,25,1,1,2,1,,,2025-26
+La Liga,Alaves,8,Antonio Blanco,M,25,Spain,36,2,3,9,0,,,2025-26
+La Liga,Alaves,10,Carles Aleñá,M,28,Spain,34,0,4,5,0,,,2025-26
+La Liga,Alaves,18,Jon Guridi,M,31,Spain,28,0,0,1,0,,,2025-26
+La Liga,Alaves,19,Pablo Ibáñez,M,27,Spain,37,1,1,7,0,,,2025-26
+La Liga,Alaves,20,Calebe,M,26,Brazil,19,0,0,2,0,,,2025-26
+La Liga,Alaves,23,Carlos Protesoni,M,28,Uruguay,13,0,0,0,1,,,2025-26
+La Liga,Alaves,28,Lander Pinillos,M,22,Spain,1,0,0,0,0,,,2025-26
+La Liga,Alaves,9,Mariano,F,32,Dominican Republic,10,0,0,1,0,,,2025-26
+La Liga,Alaves,11,Toni Martínez,F,28,Spain,37,14,3,2,0,,,2025-26
+La Liga,Alaves,15,Lucas Boyé,F,30,Argentina,29,11,1,2,1,,,2025-26
+La Liga,Alaves,21,Abde Rebbach,F,27,Algeria,30,1,4,8,0,,,2025-26
+La Liga,Alaves,22,Ibrahim Diabate,F,26,Ivory Coast,10,2,0,1,0,,,2025-26
+La Liga,Alaves,29,Diego Morcillo,F,23,Spain,1,0,0,0,0,,,2025-26
+La Liga,Alaves,32,Izei Hernandez,F,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Alaves,34,Aitor Mañas,F,23,Spain,9,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,1,Juan Musso,G,32,Argentina,8,,0,2,0,22,13,2025-26
+La Liga,Atletico Madrid,13,Jan Oblak,G,33,Slovenia,30,,0,0,0,75,31,2025-26
+La Liga,Atletico Madrid,31,Salvi Esquivel,G,20,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Atletico Madrid,33,Mario de Luis,G,24,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Atletico Madrid,51,Álvaro Moreno,G,20,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Atletico Madrid,2,José María Giménez,D,31,Uruguay,16,0,1,4,0,,,2025-26
+La Liga,Atletico Madrid,3,Matteo Ruggeri,D,23,Italy,26,0,3,4,0,,,2025-26
+La Liga,Atletico Madrid,15,Clément Lenglet,D,30,France,19,0,1,4,1,,,2025-26
+La Liga,Atletico Madrid,16,Nahuel Molina,D,28,Argentina,26,2,2,4,0,,,2025-26
+La Liga,Atletico Madrid,17,Dávid Hancko,D,28,Slovakia,30,0,2,2,0,,,2025-26
+La Liga,Atletico Madrid,18,Marc Pubill,D,22,Spain,20,1,1,2,0,,,2025-26
+La Liga,Atletico Madrid,24,Robin Le Normand,D,29,Spain,28,1,1,5,0,,,2025-26
+La Liga,Atletico Madrid,26,Ilias Kostis,D,23,Greece,0,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,30,Daniel Martinez,D,22,Spain,1,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,32,Javier Boñar,D,21,Spain,4,1,0,0,0,,,2025-26
+La Liga,Atletico Madrid,36,Gerónimo Spina,D,21,Argentina,0,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,40,Aleksa Puric,D,22,Serbia,2,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,4,Rodrigo Mendoza,M,21,Spain,24,1,1,6,0,,,2025-26
+La Liga,Atletico Madrid,5,Johnny Cardoso,M,24,USA,15,0,0,5,0,,,2025-26
+La Liga,Atletico Madrid,6,Koke,M,34,Spain,34,2,2,6,0,,,2025-26
+La Liga,Atletico Madrid,8,Pablo Barrios,M,23,Spain,23,1,1,0,0,,,2025-26
+La Liga,Atletico Madrid,10,Álex Baena,M,24,Spain,27,2,3,5,0,,,2025-26
+La Liga,Atletico Madrid,11,Thiago Almada,M,25,Argentina,27,3,1,2,1,,,2025-26
+La Liga,Atletico Madrid,14,Marcos Llorente,M,31,Spain,29,0,4,5,1,,,2025-26
+La Liga,Atletico Madrid,21,Obed Vargas,M,20,Mexico,12,0,1,2,0,,,2025-26
+La Liga,Atletico Madrid,22,Ademola Lookman,M,28,Nigeria,12,4,0,1,0,,,2025-26
+La Liga,Atletico Madrid,27,Jano Monserrate,M,20,Spain,2,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,28,Taufik Seidu,M,18,Spain,1,0,0,1,0,,,2025-26
+La Liga,Atletico Madrid,34,Julio Díaz,M,21,Spain,4,0,1,2,0,,,2025-26
+La Liga,Atletico Madrid,42,Javier Serrano,M,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,47,Javier Morcillo,M,20,Spain,5,0,0,2,0,,,2025-26
+La Liga,Atletico Madrid,7,Antoine Griezmann,F,35,France,34,7,4,1,0,,,2025-26
+La Liga,Atletico Madrid,9,Alexander Sørloth,F,30,Norway,35,13,0,4,1,,,2025-26
+La Liga,Atletico Madrid,19,Julián Álvarez,F,26,Argentina,29,8,4,2,0,,,2025-26
+La Liga,Atletico Madrid,20,Giuliano Simeone,F,23,Argentina,31,4,6,3,0,,,2025-26
+La Liga,Atletico Madrid,23,Nico González,F,28,Argentina,24,5,0,4,1,,,2025-26
+La Liga,Atletico Madrid,29,Rayane Belaid,F,21,Spain,2,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,37,Iker Luque,F,21,Spain,1,1,0,0,0,,,2025-26
+La Liga,Atletico Madrid,45,Sergio Esteban,F,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Atletico Madrid,61,Miguel Cubo,F,18,Spain,2,1,0,0,0,,,2025-26
+La Liga,Barcelona,13,Joan García,G,25,Spain,30,,0,1,0,74,21,2025-26
+La Liga,Barcelona,25,Wojciech Szczesny,G,36,Poland,8,,0,0,0,23,15,2025-26
+La Liga,Barcelona,31,Diego Kochen,G,20,USA,0,,0,0,0,0,0,2025-26
+La Liga,Barcelona,33,Eder Aller,G,19,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Barcelona,2,João Cancelo,D,32,Portugal,16,2,2,1,0,,,2025-26
+La Liga,Barcelona,3,Alejandro Balde,D,22,Spain,28,0,2,2,0,,,2025-26
+La Liga,Barcelona,4,Ronald Araújo,D,27,Uruguay,24,3,0,2,0,,,2025-26
+La Liga,Barcelona,5,Pau Cubarsí,D,19,Spain,31,1,0,3,0,,,2025-26
+La Liga,Barcelona,15,Andreas Christensen,D,30,Denmark,13,0,0,2,0,,,2025-26
+La Liga,Barcelona,18,Gerard Martín,D,24,Spain,32,0,0,6,0,,,2025-26
+La Liga,Barcelona,23,Jules Koundé,D,27,France,30,1,3,6,0,,,2025-26
+La Liga,Barcelona,24,Eric García,D,25,Spain,34,1,2,6,0,,,2025-26
+La Liga,Barcelona,26,Jofre Torrents,D,19,Spain,3,0,0,0,0,,,2025-26
+La Liga,Barcelona,36,Álvaro Cortés,D,21,Spain,1,0,0,0,0,,,2025-26
+La Liga,Barcelona,42,Xavi Espart,D,19,Spain,4,0,0,0,0,,,2025-26
+La Liga,Barcelona,6,Gavi,M,21,Spain,11,0,1,3,0,,,2025-26
+La Liga,Barcelona,8,Pedri,M,23,Spain,29,2,9,0,1,,,2025-26
+La Liga,Barcelona,16,Fermín López,M,23,Spain,30,6,9,3,0,,,2025-26
+La Liga,Barcelona,17,Marc Casadó,M,22,Spain,24,0,1,1,0,,,2025-26
+La Liga,Barcelona,20,Dani Olmo,M,28,Spain,33,7,8,1,0,,,2025-26
+La Liga,Barcelona,21,Frenkie de Jong,M,29,Netherlands,25,1,5,4,1,,,2025-26
+La Liga,Barcelona,22,Marc Bernal,M,19,Spain,22,2,1,5,0,,,2025-26
+La Liga,Barcelona,30,Guille Fernández,M,17,Spain,0,0,0,0,0,,,2025-26
+La Liga,Barcelona,41,Juan Hernández,M,18,Spain,0,0,0,0,0,,,2025-26
+La Liga,Barcelona,43,Tomás Marqués,M,19,Spain,2,0,0,0,0,,,2025-26
+La Liga,Barcelona,7,Ferran Torres,F,26,Spain,33,16,2,2,0,,,2025-26
+La Liga,Barcelona,9,Robert Lewandowski,F,37,Poland,31,14,2,2,0,,,2025-26
+La Liga,Barcelona,10,Lamine Yamal,F,18,Spain,28,16,11,1,0,,,2025-26
+La Liga,Barcelona,11,Raphinha,F,29,Brazil,22,13,3,5,0,,,2025-26
+La Liga,Barcelona,14,Marcus Rashford,F,28,England,32,8,7,3,0,,,2025-26
+La Liga,Barcelona,19,Roony Bardghji,F,20,Sweden,21,1,1,0,0,,,2025-26
+La Liga,Barcelona,29,Toni Fernández,F,17,Spain,1,0,0,0,0,,,2025-26
+La Liga,Barcelona,37,Daniel Rodríguez,F,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,1,Iván Villar,G,28,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Celta Vigo,13,Andrei Radu,G,29,Romania,38,,0,2,0,113,48,2025-26
+La Liga,Celta Vigo,25,Marc Vidal,G,26,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Celta Vigo,40,Marcos González,G,20,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Celta Vigo,2,Carl Starfelt,D,31,Sweden,19,0,0,1,1,,,2025-26
+La Liga,Celta Vigo,3,Óscar Mingueza,D,27,Spain,34,1,4,4,0,,,2025-26
+La Liga,Celta Vigo,4,Joseph Aidoo,D,30,Ghana,8,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,5,Sergio Carreira,D,25,Spain,34,2,1,2,0,,,2025-26
+La Liga,Celta Vigo,12,Manuel Fernández,D,25,Spain,14,0,0,2,0,,,2025-26
+La Liga,Celta Vigo,14,Álvaro Núñez,D,25,Spain,25,0,2,2,0,,,2025-26
+La Liga,Celta Vigo,17,Javi Rueda,D,24,Spain,26,2,6,6,0,,,2025-26
+La Liga,Celta Vigo,20,Marcos Alonso,D,35,Spain,32,1,0,5,0,,,2025-26
+La Liga,Celta Vigo,21,Mihailo Ristic,D,30,Serbia,5,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,24,Carlos Domínguez,D,25,Spain,8,0,0,1,0,,,2025-26
+La Liga,Celta Vigo,29,Yoel Lago,D,22,Spain,12,0,0,4,0,,,2025-26
+La Liga,Celta Vigo,31,Pablo Meixús,D,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,32,Javi Rodríguez,D,22,Spain,33,0,1,5,0,,,2025-26
+La Liga,Celta Vigo,6,Ilaix Moriba,M,23,Guinea,36,2,3,8,0,,,2025-26
+La Liga,Celta Vigo,8,Fernando López,M,22,Spain,17,1,1,3,0,,,2025-26
+La Liga,Celta Vigo,11,Franco Cervi,M,32,Argentina,0,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,15,Matías Vecino,M,34,Uruguay,6,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,16,Miguel Román,M,23,Spain,19,1,0,3,0,,,2025-26
+La Liga,Celta Vigo,19,Williot Swedberg,M,22,Sweden,29,5,5,2,0,,,2025-26
+La Liga,Celta Vigo,22,Hugo Sotelo,M,22,Spain,20,0,2,3,0,,,2025-26
+La Liga,Celta Vigo,23,Hugo Álvarez,M,22,Spain,28,4,2,2,0,,,2025-26
+La Liga,Celta Vigo,36,Andrés Antañón,M,19,Spain,2,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,38,Hugo Burcio,M,19,Spain,1,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,7,Borja Iglesias,F,33,Spain,35,14,2,7,0,,,2025-26
+La Liga,Celta Vigo,9,Ferran Jutglà,F,27,Spain,30,9,3,4,0,,,2025-26
+La Liga,Celta Vigo,10,Iago Aspas,F,38,Spain,32,5,3,4,0,,,2025-26
+La Liga,Celta Vigo,18,Pablo Durán,F,25,Spain,30,2,2,1,0,,,2025-26
+La Liga,Celta Vigo,28,Ángel Arcos,F,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,30,Hugo Gonzalez,F,23,Spain,1,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,33,Óscar Marcos,F,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Celta Vigo,39,Jones El-Abdellaoui,F,20,Morocco,22,2,0,0,0,,,2025-26
+La Liga,Elche,1,Matías Dituro,G,39,Argentina,22,,0,1,0,64,29,2025-26
+La Liga,Elche,13,Iñaki Peña,G,27,Spain,16,,0,0,0,55,28,2025-26
+La Liga,Elche,45,Alejandro Iturbe,G,22,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Elche,3,Adrià Pedrosa,D,28,Spain,27,1,1,4,0,,,2025-26
+La Liga,Elche,6,Pedro Bigas,D,36,Spain,28,1,3,3,1,,,2025-26
+La Liga,Elche,18,John Donald,D,25,Spain,21,1,0,3,0,,,2025-26
+La Liga,Elche,21,Léo Pétrot,D,29,France,32,0,0,2,1,,,2025-26
+La Liga,Elche,22,David Affengruber,D,25,Austria,36,1,1,7,1,,,2025-26
+La Liga,Elche,23,Víctor Chust,D,26,Spain,31,1,0,6,1,,,2025-26
+La Liga,Elche,26,Bema Sina,D,23,Ghana,0,0,0,0,0,,,2025-26
+La Liga,Elche,27,Albert Niculaesei,D,18,Romania,0,0,0,0,0,,,2025-26
+La Liga,Elche,31,David Delgado,D,18,Spain,0,0,0,0,0,,,2025-26
+La Liga,Elche,33,Pablo Felipe,D,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Elche,36,Nico Salvador,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Elche,39,Héctor Fort,D,19,Spain,14,2,2,0,0,,,2025-26
+La Liga,Elche,42,Buba Sangaré,D,18,Spain,12,0,0,3,0,,,2025-26
+La Liga,Elche,5,Federico Redondo,M,23,Argentina,11,0,0,0,1,,,2025-26
+La Liga,Elche,8,Marc Aguado,M,26,Spain,35,1,2,3,0,,,2025-26
+La Liga,Elche,12,Gonzalo Villar,M,28,Spain,12,1,0,3,0,,,2025-26
+La Liga,Elche,14,Aleix Febas,M,30,Spain,36,2,2,10,0,,,2025-26
+La Liga,Elche,16,Martim Neto,M,23,Portugal,25,2,5,3,0,,,2025-26
+La Liga,Elche,17,Josan,M,36,Spain,19,0,3,2,0,,,2025-26
+La Liga,Elche,24,Lucas Cepeda,M,23,Chile,10,1,0,1,0,,,2025-26
+La Liga,Elche,37,Antonio Martínez,M,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Elche,43,Alex Herraiz,M,17,Spain,0,0,0,0,0,,,2025-26
+La Liga,Elche,7,Yago Alonso,F,23,Spain,9,0,0,1,1,,,2025-26
+La Liga,Elche,9,André Silva,F,30,Portugal,31,10,0,3,0,,,2025-26
+La Liga,Elche,10,Rafa Mir,F,29,Spain,27,8,0,4,0,,,2025-26
+La Liga,Elche,11,Germán Valera,F,24,Spain,36,4,5,5,1,,,2025-26
+La Liga,Elche,15,José Antonio Morente,F,29,Spain,13,1,1,1,0,,,2025-26
+La Liga,Elche,19,Grady Diangana,F,28,Congo DR,20,1,0,3,0,,,2025-26
+La Liga,Elche,20,Álvaro Rodríguez,F,21,Uruguay,34,7,5,2,0,,,2025-26
+La Liga,Elche,29,Daniel Ballesteros Fernández,F,22,Spain,0,0,0,0,0,,,2025-26
+La Liga,Elche,32,Adam Boayar,F,20,Morocco,7,1,0,0,0,,,2025-26
+La Liga,Elche,38,Álex Sánchez,F,20,Spain,1,0,1,0,0,,,2025-26
+La Liga,Elche,46,Juan Piera,F,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Getafe,1,Jirí Letácek,G,27,Czechia,0,,0,0,0,0,0,2025-26
+La Liga,Getafe,13,David Soria,G,33,Spain,38,,0,2,0,118,38,2025-26
+La Liga,Getafe,35,Jorge Benito,G,20,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Getafe,42,Diego Ferrer,G,19,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Getafe,2,Djené,D,34,Togo,34,0,0,10,2,,,2025-26
+La Liga,Getafe,3,Abdel Abqar,D,27,Morocco,23,0,2,10,1,,,2025-26
+La Liga,Getafe,12,Allan Nyom,D,38,Cameroon,15,0,1,6,1,,,2025-26
+La Liga,Getafe,15,Sebastián Boselli,D,22,Uruguay,11,0,0,3,0,,,2025-26
+La Liga,Getafe,16,Diego Rico,D,33,Spain,28,0,0,4,0,,,2025-26
+La Liga,Getafe,17,Kiko Femenía,D,35,Spain,28,1,1,6,0,,,2025-26
+La Liga,Getafe,21,Juan Iglesias,D,27,Spain,37,1,2,4,0,,,2025-26
+La Liga,Getafe,22,Domingos Duarte,D,31,Portugal,34,1,1,12,0,,,2025-26
+La Liga,Getafe,24,Zaid Romero,D,26,Argentina,15,1,0,3,1,,,2025-26
+La Liga,Getafe,26,Davinchi,D,18,Spain,14,0,0,2,0,,,2025-26
+La Liga,Getafe,31,Ismael Bekhoucha,D,21,Morocco,4,0,1,2,0,,,2025-26
+La Liga,Getafe,32,Lucas Laso,D,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Getafe,33,Marc Vilaplana,D,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Getafe,41,Jorge Montes,D,22,Spain,1,0,0,0,0,,,2025-26
+La Liga,Getafe,43,Tito,D,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Getafe,5,Luis Milla,M,31,Spain,37,1,10,4,1,,,2025-26
+La Liga,Getafe,6,Mario Martín,M,22,Spain,35,2,1,11,0,,,2025-26
+La Liga,Getafe,8,Mauro Arambarri,M,30,Uruguay,37,6,2,7,0,,,2025-26
+La Liga,Getafe,14,Javi Muñoz,M,31,Spain,17,0,0,0,0,,,2025-26
+La Liga,Getafe,20,Veljko Birmancevic,M,28,Serbia,6,0,0,0,0,,,2025-26
+La Liga,Getafe,30,Alberto Risco,M,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Getafe,34,Hugo Solozabal,M,23,Spain,1,0,0,0,0,,,2025-26
+La Liga,Getafe,44,Adrián Riquelme,M,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Getafe,45,Alejandro Mestanza,M,21,Spain,3,0,0,0,0,,,2025-26
+La Liga,Getafe,46,Damián,M,23,Spain,3,0,0,0,0,,,2025-26
+La Liga,Getafe,7,Juanmi,F,33,Spain,8,1,0,0,0,,,2025-26
+La Liga,Getafe,9,Borja Mayoral,F,29,Spain,16,4,1,0,0,,,2025-26
+La Liga,Getafe,10,Martín Satriano,F,25,Uruguay,18,6,1,5,0,,,2025-26
+La Liga,Getafe,11,Abu Kamara,F,22,England,12,0,0,1,0,,,2025-26
+La Liga,Getafe,18,Álex Sancris,F,29,Spain,18,0,1,2,1,,,2025-26
+La Liga,Getafe,19,Luis Vázquez,F,25,Argentina,17,3,1,2,0,,,2025-26
+La Liga,Getafe,23,Adrián Liso,F,21,Spain,28,3,0,3,1,,,2025-26
+La Liga,Getafe,29,Mykyta Aleksandrov,F,21,Ukraine,0,0,0,0,0,,,2025-26
+La Liga,Getafe,37,Joselu Pérez,F,22,Spain,2,0,0,0,0,,,2025-26
+La Liga,Getafe,39,Yassin Tallal,F,21,Morocco,0,0,0,0,0,,,2025-26
+La Liga,Girona,,Juan Carlos,G,38,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Girona,1,Rubén Blanco,G,30,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Girona,13,Paulo Gazzaniga,G,34,Argentina,35,,0,4,1,116,47,2025-26
+La Liga,Girona,22,Marc-André ter Stegen,G,34,Germany,2,,0,0,0,4,2,2025-26
+La Liga,Girona,25,Vladyslav Krapyvtsov,G,20,Ukraine,2,,0,0,0,2,6,2025-26
+La Liga,Girona,43,Aleksandar Andreev,G,20,Bulgaria,0,,0,0,0,0,0,2025-26
+La Liga,Girona,2,Hugo Rincón,D,23,Spain,33,1,1,4,0,,,2025-26
+La Liga,Girona,4,Arnau Martínez,D,23,Spain,35,2,3,6,0,,,2025-26
+La Liga,Girona,5,David López,D,36,Spain,6,0,0,0,0,,,2025-26
+La Liga,Girona,12,Vitor Reis,D,20,Brazil,36,1,1,8,1,,,2025-26
+La Liga,Girona,16,Alejandro Francés,D,23,Spain,24,0,2,2,1,,,2025-26
+La Liga,Girona,17,Daley Blind,D,36,Netherlands,31,0,0,1,0,,,2025-26
+La Liga,Girona,24,Álex Moreno,D,33,Spain,31,0,3,5,0,,,2025-26
+La Liga,Girona,27,Pol Arnau,D,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Girona,28,Gibert Jordana,D,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Girona,31,Antonio Salguero,D,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Girona,3,Joel Roca,M,21,Spain,32,3,1,4,1,,,2025-26
+La Liga,Girona,6,Donny van de Beek,M,29,Netherlands,2,0,0,0,0,,,2025-26
+La Liga,Girona,8,Fran Beltrán,M,27,Spain,27,1,0,3,0,,,2025-26
+La Liga,Girona,11,Thomas Lemar,M,30,France,27,3,1,4,0,,,2025-26
+La Liga,Girona,14,Claudio Echeverri,M,20,Argentina,17,1,1,4,0,,,2025-26
+La Liga,Girona,18,Azzedine Ounahi,M,26,Morocco,24,5,2,7,0,,,2025-26
+La Liga,Girona,20,Axel Witsel,M,37,Belgium,32,1,2,1,1,,,2025-26
+La Liga,Girona,23,Iván Martín,M,27,Spain,35,0,1,3,1,,,2025-26
+La Liga,Girona,29,Lancinet Kourouma,M,22,Guinea,5,0,0,0,1,,,2025-26
+La Liga,Girona,36,Ricard Artero,M,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Girona,,Portu,F,34,Spain,10,0,0,1,0,,,2025-26
+La Liga,Girona,7,Cristhian Stuani,F,39,Uruguay,21,5,0,4,0,,,2025-26
+La Liga,Girona,9,Abel Ruiz,F,26,Spain,9,0,0,0,0,,,2025-26
+La Liga,Girona,15,Viktor Tsygankov,F,28,Ukraine,32,6,5,3,0,,,2025-26
+La Liga,Girona,19,Vladyslav Vanat,F,24,Ukraine,27,9,1,4,0,,,2025-26
+La Liga,Girona,21,Bryan Gil,F,25,Spain,29,0,3,6,0,,,2025-26
+La Liga,Girona,30,Javier Sarasa,F,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Girona,32,Juan Arango,F,19,Venezuela,2,0,0,1,0,,,2025-26
+La Liga,Girona,44,Papa Dame Ba,F,21,Senegal,0,0,0,0,0,,,2025-26
+La Liga,Levante,1,Pablo Cuñat,G,24,Spain,2,,0,0,0,11,5,2025-26
+La Liga,Levante,13,Mathew Ryan,G,34,Australia,36,,0,4,0,125,56,2025-26
+La Liga,Levante,32,Alejandro Primo,G,21,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Levante,34,Cayetano,G,21,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Levante,2,Matías Moreno,D,22,Argentina,28,0,0,8,0,,,2025-26
+La Liga,Levante,3,Alan Matturro,D,21,Uruguay,19,1,1,0,1,,,2025-26
+La Liga,Levante,4,Adrián de la Fuente,D,27,Spain,33,3,1,5,0,,,2025-26
+La Liga,Levante,5,Unai Elgezabel,D,33,Spain,12,1,0,2,0,,,2025-26
+La Liga,Levante,6,Diego Pampín,D,26,Spain,8,0,0,3,0,,,2025-26
+La Liga,Levante,17,Víctor García,D,28,Spain,21,2,1,1,0,,,2025-26
+La Liga,Levante,22,Jeremy Toljan,D,31,Germany,37,1,4,8,0,,,2025-26
+La Liga,Levante,23,Manu Sánchez,D,25,Spain,33,1,2,8,0,,,2025-26
+La Liga,Levante,28,Martín Krug,D,19,Panama,0,0,0,0,0,,,2025-26
+La Liga,Levante,29,Nacho Pérez,D,17,Spain,3,0,0,1,0,,,2025-26
+La Liga,Levante,35,Huseini Nakoha,D,19,Ghana,0,0,0,0,0,,,2025-26
+La Liga,Levante,7,Roger Brugué,M,29,Spain,19,1,1,1,1,,,2025-26
+La Liga,Levante,8,Jon Ander Olasagasti,M,25,Spain,33,1,5,3,1,,,2025-26
+La Liga,Levante,10,Pablo Martínez,M,28,Spain,27,1,5,3,0,,,2025-26
+La Liga,Levante,12,Unai Vencedor,M,25,Spain,16,0,0,3,1,,,2025-26
+La Liga,Levante,14,Ugo Raghouber,M,22,France,16,0,0,1,0,,,2025-26
+La Liga,Levante,16,Kervin Arriaga,M,28,Honduras,27,3,3,6,1,,,2025-26
+La Liga,Levante,20,Orio Rey,M,28,Spain,20,0,1,4,0,,,2025-26
+La Liga,Levante,24,Carlos Álvarez,M,22,Spain,30,3,1,3,0,,,2025-26
+La Liga,Levante,30,Pablo Rosón,M,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Levante,33,Joan Ruiz Agustina,M,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Levante,37,Dani Cervera,M,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Levante,9,Iván Romero,F,25,Spain,32,7,1,5,0,,,2025-26
+La Liga,Levante,11,José Luis Morales,F,38,Spain,20,1,1,1,0,,,2025-26
+La Liga,Levante,18,Iker Losada,F,24,Spain,23,3,1,1,0,,,2025-26
+La Liga,Levante,19,Carlos Espí,F,20,Spain,25,11,0,3,0,,,2025-26
+La Liga,Levante,21,Etta Eyong,F,22,Cameroon,33,7,4,3,0,,,2025-26
+La Liga,Levante,26,Kareem Tunde,F,20,Spain,21,0,1,3,0,,,2025-26
+La Liga,Levante,27,Paco Cortés,F,18,Spain,12,0,0,2,0,,,2025-26
+La Liga,Levante,55,Tai Abed,F,21,Israel,7,0,0,0,0,,,2025-26
+La Liga,Mallorca,1,Leo Román,G,25,Spain,33,,0,4,0,100,50,2025-26
+La Liga,Mallorca,13,Lucas Bergstrom,G,23,Finland,5,,0,1,0,15,7,2025-26
+La Liga,Mallorca,25,Iván Cuéllar,G,42,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Mallorca,38,Nil Torreguitart,G,24,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Mallorca,42,Rares Vlad,G,20,Romania,0,,0,0,0,0,0,2025-26
+La Liga,Mallorca,2,Mateu Morey,D,26,Spain,18,1,0,2,0,,,2025-26
+La Liga,Mallorca,3,Toni Lato,D,28,Spain,12,0,1,3,0,,,2025-26
+La Liga,Mallorca,4,Marash Kumbulla,D,26,Albania,8,0,0,1,0,,,2025-26
+La Liga,Mallorca,21,Antonio Raíllo,D,34,Spain,24,0,1,4,0,,,2025-26
+La Liga,Mallorca,22,Johan Mojica,D,33,Colombia,35,0,4,6,1,,,2025-26
+La Liga,Mallorca,23,Pablo Maffeo,D,28,Argentina,31,1,2,11,0,,,2025-26
+La Liga,Mallorca,24,Martin Valjent,D,30,Slovakia,37,0,0,6,0,,,2025-26
+La Liga,Mallorca,26,Iliesse Salhi,D,18,France,0,0,0,0,0,,,2025-26
+La Liga,Mallorca,27,David López,D,23,Spain,14,0,0,2,0,,,2025-26
+La Liga,Mallorca,29,Luis Orejuela,D,30,Spain,1,0,0,0,0,,,2025-26
+La Liga,Mallorca,32,Leo Sãnchez,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Mallorca,34,Javier Olaizola,D,19,Spain,2,0,0,0,0,,,2025-26
+La Liga,Mallorca,44,Miguel Calatayud,D,20,Spain,2,0,0,0,0,,,2025-26
+La Liga,Mallorca,5,Omar Mascarell,M,33,Equatorial Guinea,30,2,2,5,0,,,2025-26
+La Liga,Mallorca,6,Antonio Sánchez,M,29,Spain,30,0,0,3,1,,,2025-26
+La Liga,Mallorca,8,Manu Morlanes,M,27,Spain,32,3,0,3,1,,,2025-26
+La Liga,Mallorca,10,Sergi Darder,M,32,Spain,38,1,5,3,0,,,2025-26
+La Liga,Mallorca,12,Samú Costa,M,25,Portugal,34,7,2,11,0,,,2025-26
+La Liga,Mallorca,20,Pablo Torre,M,23,Spain,35,4,4,4,0,,,2025-26
+La Liga,Mallorca,28,Cesc Riba,M,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Mallorca,39,Jandro García,M,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Mallorca,41,Jan Salas,M,20,Spain,2,0,0,0,0,,,2025-26
+La Liga,Mallorca,7,Vedat Muriqi,F,32,Kosovo,37,23,1,4,1,,,2025-26
+La Liga,Mallorca,9,Abdón Prats,F,33,Spain,15,0,0,0,0,,,2025-26
+La Liga,Mallorca,11,Takuma Asano,F,31,Japan,20,1,0,2,0,,,2025-26
+La Liga,Mallorca,15,Zito Luvumbo,F,24,Angola,10,0,2,2,0,,,2025-26
+La Liga,Mallorca,17,Jan Virgili,F,19,Spain,31,2,4,0,1,,,2025-26
+La Liga,Mallorca,18,Mateo Joseph,F,22,Spain,29,2,3,2,0,,,2025-26
+La Liga,Mallorca,19,Javi Llabrés,F,23,Spain,16,0,0,0,0,,,2025-26
+La Liga,Mallorca,30,Justin-Noel Kalumba,F,21,France,3,0,0,0,0,,,2025-26
+La Liga,Osasuna,3,Juan Cruz,D,33,Spain,15,0,0,2,0,,,2025-26
+La Liga,Osasuna,5,Jorge Herrando,D,25,Spain,28,0,1,3,0,,,2025-26
+La Liga,Osasuna,19,Valentin Rosier,D,29,France,31,1,1,4,1,,,2025-26
+La Liga,Osasuna,20,Javi Galán,D,31,Spain,25,0,1,3,0,,,2025-26
+La Liga,Osasuna,22,Enzo Boyomo,D,24,Cameroon,30,1,2,7,0,,,2025-26
+La Liga,Osasuna,23,Abel Bretones,D,25,Spain,28,1,2,5,1,,,2025-26
+La Liga,Osasuna,24,Alejandro Catena,D,31,Spain,35,3,2,11,1,,,2025-26
+La Liga,Osasuna,34,Raúl Chasco,D,22,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,35,Unai Santos,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,41,Iñigo Arguibide,D,21,Spain,6,0,0,0,1,,,2025-26
+La Liga,Osasuna,42,Mikel Serrano,D,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,6,Lucas Torró,M,31,Spain,34,0,1,6,0,,,2025-26
+La Liga,Osasuna,7,Jon Moncayola,M,28,Spain,36,0,4,9,0,,,2025-26
+La Liga,Osasuna,8,Iker Muñoz,M,23,Spain,19,0,0,5,0,,,2025-26
+La Liga,Osasuna,10,Aimar Oroz,M,24,Spain,31,0,2,6,0,,,2025-26
+La Liga,Osasuna,14,Rubén García,M,32,Spain,35,2,5,6,0,,,2025-26
+La Liga,Osasuna,26,Mauro Echegoyen,M,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,28,Jon García,M,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,29,Asier Osambela,M,21,Spain,17,1,0,1,1,,,2025-26
+La Liga,Osasuna,2,Iker Benito,F,23,Spain,6,1,0,1,0,,,2025-26
+La Liga,Osasuna,9,Raúl García,F,25,Spain,36,7,1,2,1,,,2025-26
+La Liga,Osasuna,11,Enrique Barja,F,29,Spain,27,2,2,4,0,,,2025-26
+La Liga,Osasuna,16,Moi Gómez,F,31,Spain,26,0,2,3,0,,,2025-26
+La Liga,Osasuna,17,Ante Budimir,F,34,Croatia,37,17,0,4,0,,,2025-26
+La Liga,Osasuna,18,Raúl Moro,F,23,Spain,14,0,2,0,0,,,2025-26
+La Liga,Osasuna,21,Víctor Muñoz,F,22,Spain,34,6,2,3,0,,,2025-26
+La Liga,Osasuna,27,Martín Pedroarena,F,22,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,37,Roberto Arroyo,F,22,Spain,0,0,0,0,0,,,2025-26
+La Liga,Osasuna,47,Aly Doumbia,F,18,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,1,Thibaut Courtois,G,34,Belgium,32,,0,1,0,70,28,2025-26
+La Liga,Real Madrid,13,Andriy Lunin,G,27,Ukraine,6,,0,0,1,16,7,2025-26
+La Liga,Real Madrid,26,Fran González,G,20,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Real Madrid,29,Javier Navarro,G,19,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Real Madrid,43,Sergio Mestre,G,21,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Real Madrid,50,Álvaro González,G,19,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Real Madrid,2,Dani Carvajal,D,34,Spain,17,0,1,0,0,,,2025-26
+La Liga,Real Madrid,3,Éder Militão,D,28,Brazil,16,2,1,2,0,,,2025-26
+La Liga,Real Madrid,4,David Alaba,D,33,Austria,11,0,0,1,0,,,2025-26
+La Liga,Real Madrid,12,Trent Alexander-Arnold,D,27,England,21,0,4,4,0,,,2025-26
+La Liga,Real Madrid,17,Raúl Asencio,D,23,Spain,23,2,0,4,0,,,2025-26
+La Liga,Real Madrid,18,Álvaro Carreras,D,23,Spain,28,2,3,5,1,,,2025-26
+La Liga,Real Madrid,20,Fran García,D,26,Spain,13,1,1,0,1,,,2025-26
+La Liga,Real Madrid,22,Antonio Rüdiger,D,33,Germany,18,1,0,0,0,,,2025-26
+La Liga,Real Madrid,23,Ferland Mendy,D,31,France,5,0,0,0,0,,,2025-26
+La Liga,Real Madrid,24,Dean Huijsen,D,21,Spain,28,2,2,7,1,,,2025-26
+La Liga,Real Madrid,27,Diego Aguado,D,19,Spain,1,0,0,0,0,,,2025-26
+La Liga,Real Madrid,32,Jesús Fortea,D,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,35,David Jiménez,D,22,Spain,2,0,0,0,0,,,2025-26
+La Liga,Real Madrid,36,Joan Martínez,D,18,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,40,Víctor Valdepeñas,D,19,Spain,1,0,0,0,0,,,2025-26
+La Liga,Real Madrid,48,Lamini Fati,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,49,Mario Rivas,D,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,51,Manuel Serrano,D,22,Spain,1,0,0,0,0,,,2025-26
+La Liga,Real Madrid,5,Jude Bellingham,M,22,England,28,6,4,3,0,,,2025-26
+La Liga,Real Madrid,6,Eduardo Camavinga,M,23,France,29,1,0,2,0,,,2025-26
+La Liga,Real Madrid,8,Federico Valverde,M,27,Uruguay,33,5,8,3,1,,,2025-26
+La Liga,Real Madrid,14,Aurélien Tchouaméni,M,26,France,33,1,0,8,0,,,2025-26
+La Liga,Real Madrid,15,Arda Güler,M,21,Türkiye,33,4,9,1,0,,,2025-26
+La Liga,Real Madrid,19,Dani Ceballos,M,29,Spain,16,0,0,1,0,,,2025-26
+La Liga,Real Madrid,21,Brahim Díaz,M,26,Morocco,30,1,6,2,0,,,2025-26
+La Liga,Real Madrid,28,Jorge Cestero,M,20,Spain,2,0,0,0,0,,,2025-26
+La Liga,Real Madrid,33,Pol Fortuny,M,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,37,Manuel Ángel,M,22,Spain,4,0,0,0,0,,,2025-26
+La Liga,Real Madrid,38,César Palacios,M,21,Spain,5,0,0,0,0,,,2025-26
+La Liga,Real Madrid,45,Thiago Pitarch,M,18,Spain,10,0,2,2,0,,,2025-26
+La Liga,Real Madrid,47,Dani Meso,M,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Madrid,7,Vinícius Júnior,F,25,Brazil,36,16,5,8,0,,,2025-26
+La Liga,Real Madrid,10,Kylian Mbappé,F,27,France,31,25,5,4,0,,,2025-26
+La Liga,Real Madrid,11,Rodrygo,F,25,Brazil,19,1,3,3,0,,,2025-26
+La Liga,Real Madrid,16,Gonzalo García,F,22,Spain,30,6,1,2,0,,,2025-26
+La Liga,Real Madrid,30,Franco Mastantuono,F,18,Argentina,23,1,0,5,1,,,2025-26
+La Liga,Real Madrid,42,Daniel Yañez,F,19,Spain,2,0,1,0,0,,,2025-26
+La Liga,Real Madrid,46,Álvaro Leiva,F,21,Spain,1,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,1,Horatiu Moldovan,G,28,Romania,2,,0,0,0,4,4,2025-26
+La Liga,Real Oviedo,13,Aarón Escandell,G,30,Spain,36,,1,3,0,148,56,2025-26
+La Liga,Real Oviedo,26,Miguel Narváez,G,24,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Real Oviedo,2,Eric Bailly,D,32,Ivory Coast,15,1,0,3,0,,,2025-26
+La Liga,Real Oviedo,3,Rahim Alhassane,D,24,Niger,27,0,0,2,0,,,2025-26
+La Liga,Real Oviedo,4,David Costas,D,31,Spain,25,1,0,3,0,,,2025-26
+La Liga,Real Oviedo,12,Dani Calvo,D,32,Spain,20,0,0,3,0,,,2025-26
+La Liga,Real Oviedo,16,David Carmo,D,26,Angola,23,1,0,6,1,,,2025-26
+La Liga,Real Oviedo,22,Nacho Vidal,D,31,Spain,29,0,0,4,0,,,2025-26
+La Liga,Real Oviedo,24,Lucas,D,31,Spain,20,0,1,3,0,,,2025-26
+La Liga,Real Oviedo,25,Javi López,D,24,Spain,25,0,1,3,1,,,2025-26
+La Liga,Real Oviedo,29,Omar Falah,D,22,Spain,1,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,30,Marco Esteban,D,20,Spain,1,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,33,Diego Espinosa,D,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,34,Adri Fernández,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,5,Alberto Reina,M,28,Spain,37,4,1,4,1,,,2025-26
+La Liga,Real Oviedo,6,Kwasi Sibo,M,27,Ghana,26,0,0,3,1,,,2025-26
+La Liga,Real Oviedo,8,Santi Cazorla,M,41,Spain,28,0,1,2,1,,,2025-26
+La Liga,Real Oviedo,11,Santiago Colombatto,M,29,Argentina,32,0,1,6,0,,,2025-26
+La Liga,Real Oviedo,20,Leander Dendoncker,M,31,Belgium,19,1,0,2,0,,,2025-26
+La Liga,Real Oviedo,21,Luka Ilic,M,26,Serbia,19,1,0,2,1,,,2025-26
+La Liga,Real Oviedo,23,Nicolás Fonseca,M,27,Uruguay,19,0,0,6,0,,,2025-26
+La Liga,Real Oviedo,27,Pablo Agudín,M,18,Spain,7,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,31,Cheli,M,18,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,32,Diego Menéndez,M,21,Spain,0,0,0,0,0,,,2025-26
+La Liga,Real Oviedo,7,Ilyas Chaira,F,25,Morocco,36,6,2,2,1,,,2025-26
+La Liga,Real Oviedo,9,Federico Viñas,F,27,Uruguay,33,9,1,5,3,,,2025-26
+La Liga,Real Oviedo,10,Haissem Hassan,F,24,Egypt,37,0,3,1,0,,,2025-26
+La Liga,Real Oviedo,14,Ovie Ejaria,F,28,England,8,0,0,1,0,,,2025-26
+La Liga,Real Oviedo,15,Thiago Fernández,F,22,Argentina,16,0,4,4,0,,,2025-26
+La Liga,Real Oviedo,17,Thiago Borbas,F,24,Uruguay,12,0,0,1,0,,,2025-26
+La Liga,Real Oviedo,19,Alex Fores,F,25,Spain,18,0,1,0,0,,,2025-26
+La Liga,Real Oviedo,28,Lamine Gueye,F,28,Senegal,0,0,0,0,0,,,2025-26
+La Liga,Real Sociedad,1,Álex Remiro,G,31,Spain,0,,0,0,0,0,0,2026-27
+La Liga,Real Sociedad,13,Unai Marrero,G,24,Spain,0,,0,0,0,0,0,2026-27
+La Liga,Real Sociedad,32,Aitor Fraga,G,23,Spain,0,,0,0,0,0,0,2026-27
+La Liga,Real Sociedad,41,Theo Folgado,G,21,Spain,0,,0,0,0,0,0,2026-27
+La Liga,Real Sociedad,,Javi López,D,24,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,,Jon Pacheco,D,25,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,,Kazunari Kita,D,20,Japan,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,2,Jon Aramburu,D,23,Venezuela,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,3,Aihen Muñoz,D,28,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,5,Igor Zubeldia,D,29,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,20,Álvaro Odriozola,D,30,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,31,Jon Martín,D,20,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,33,Iñaki Rupérez,D,23,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,38,Luken Beitia,D,22,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,,Mikel Goti,M,24,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,4,Jon Gorrotxategi,M,23,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,8,Beñat Turrientes,M,24,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,12,Yangel Herrera,M,28,Venezuela,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,15,Pablo Marín,M,22,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,18,Carlos Soler,M,29,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,21,Arsen Zakharyan,M,23,Russia,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,23,Brais Méndez,M,29,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,24,Luka Sucic,M,23,Croatia,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,36,Alex Lebarbier,M,21,France,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,43,Tomás Carbonell,M,21,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,44,Lander Astiazarán,M,20,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,46,Ibai Aguirre,M,19,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,,Carlos Fernández,F,30,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,7,Ander Barrenetxea,F,24,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,9,Orri Óskarsson,F,21,Iceland,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,10,Mikel Oyarzabal,F,29,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,11,Gonçalo Guedes,F,29,Portugal,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,14,Takefusa Kubo,F,25,Japan,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,17,Sergio Gómez,F,25,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,19,Jon Karrikaburu,F,23,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,26,Daniel Díaz,F,20,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,34,Arkaitz Mariezkurrena,F,21,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,40,Alex Marchal,F,18,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,42,Gorka Carrera,F,21,Spain,0,0,0,0,0,,,2026-27
+La Liga,Real Sociedad,47,Job Ochieng,F,23,Kenya,0,0,0,0,0,,,2026-27
+La Liga,Sevilla,1,Odisseas Vlachodimos,G,32,Greece,33,,0,2,0,89,52,2025-26
+La Liga,Sevilla,13,Ørjan Nyland,G,35,Norway,5,,0,1,0,11,8,2025-26
+La Liga,Sevilla,31,Alberto Flores,G,22,Spain,0,,0,1,0,0,0,2025-26
+La Liga,Sevilla,33,Rafael Romero,G,22,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Sevilla,40,Lorenzo Luchino,G,20,Argentina,0,,0,0,0,0,0,2025-26
+La Liga,Sevilla,2,José Ángel Carmona,D,24,Spain,35,1,3,13,0,,,2025-26
+La Liga,Sevilla,3,César Azpilicueta,D,36,Spain,17,0,1,4,0,,,2025-26
+La Liga,Sevilla,4,Enrique Salas,D,24,Spain,26,2,0,1,0,,,2025-26
+La Liga,Sevilla,5,Tanguy Nianzou,D,24,France,12,0,0,5,1,,,2025-26
+La Liga,Sevilla,12,Gabriel Suazo,D,28,Chile,29,0,1,7,0,,,2025-26
+La Liga,Sevilla,15,Fábio Cardoso,D,32,Portugal,4,0,0,0,0,,,2025-26
+La Liga,Sevilla,22,Federico Gattoni,D,27,Argentina,1,0,0,0,0,,,2025-26
+La Liga,Sevilla,23,Marcão,D,30,Brazil,13,0,0,2,1,,,2025-26
+La Liga,Sevilla,32,Andrés Castrín,D,23,Spain,19,1,0,4,0,,,2025-26
+La Liga,Sevilla,36,Oso,D,22,Spain,21,2,3,1,0,,,2025-26
+La Liga,Sevilla,41,Iker Ortín,D,22,Spain,0,0,0,0,0,,,2025-26
+La Liga,Sevilla,6,Nemanja Gudelj,M,34,Serbia,34,2,0,9,0,,,2025-26
+La Liga,Sevilla,8,Joan Jordán,M,31,Spain,3,0,0,1,1,,,2025-26
+La Liga,Sevilla,11,Rubén Vargas,M,27,Switzerland,24,3,6,2,0,,,2025-26
+La Liga,Sevilla,16,Juanlu Sanchez,M,22,Spain,32,0,3,5,1,,,2025-26
+La Liga,Sevilla,18,Lucien Agoumé,M,24,France,34,1,3,12,0,,,2025-26
+La Liga,Sevilla,19,Batista Mendy,M,26,France,27,1,0,6,0,,,2025-26
+La Liga,Sevilla,20,Djibril Sow,M,29,Switzerland,33,5,4,6,0,,,2025-26
+La Liga,Sevilla,24,Adnan Januzaj,M,31,Belgium,12,0,0,1,0,,,2025-26
+La Liga,Sevilla,28,Manu Bueno,M,21,Spain,8,0,0,2,0,,,2025-26
+La Liga,Sevilla,38,Nico Guillén,M,18,Spain,0,0,0,0,0,,,2025-26
+La Liga,Sevilla,39,Eduardo Altozano Agudo,M,19,Spain,0,0,0,0,0,,,2025-26
+La Liga,Sevilla,7,Isaac Romero,F,26,Spain,29,4,0,4,1,,,2025-26
+La Liga,Sevilla,9,Akor Adams,F,26,Nigeria,32,10,3,3,0,,,2025-26
+La Liga,Sevilla,10,Alexis Sánchez,F,37,Chile,28,4,2,3,0,,,2025-26
+La Liga,Sevilla,14,Peque Fernández,F,23,Spain,26,2,1,8,0,,,2025-26
+La Liga,Sevilla,17,Neal Maupay,F,29,France,12,2,1,2,0,,,2025-26
+La Liga,Sevilla,21,Chidera Ejuke,F,28,Nigeria,27,1,1,0,0,,,2025-26
+La Liga,Sevilla,26,Alejandro Costa Quijano,F,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Sevilla,29,Miguel Sierra,F,21,Spain,4,0,0,0,0,,,2025-26
+La Liga,Villarreal,1,Luiz Júnior,G,25,Brazil,28,,0,3,0,73,30,2025-26
+La Liga,Villarreal,13,Diego Conde,G,27,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Villarreal,25,Arnau Tenas,G,25,Spain,10,,0,0,0,30,16,2025-26
+La Liga,Villarreal,31,Rubén Gómez,G,24,Spain,0,,0,0,0,0,0,2025-26
+La Liga,Villarreal,2,Logan Costa,D,25,Cape Verde Islands,2,0,0,0,0,,,2025-26
+La Liga,Villarreal,3,Alex Freeman,D,21,USA,9,0,0,0,0,,,2025-26
+La Liga,Villarreal,4,Rafa Marín,D,24,Spain,23,1,0,1,0,,,2025-26
+La Liga,Villarreal,5,Willy Kambwala,D,21,France,2,0,0,0,0,,,2025-26
+La Liga,Villarreal,6,Pau Navarro,D,21,Spain,23,0,0,4,0,,,2025-26
+La Liga,Villarreal,8,Juan Foyth,D,28,Argentina,13,0,0,2,0,,,2025-26
+La Liga,Villarreal,15,Santiago Mouriño,D,24,Uruguay,28,1,2,9,1,,,2025-26
+La Liga,Villarreal,23,Sergi Cardona,D,26,Spain,31,1,4,4,0,,,2025-26
+La Liga,Villarreal,24,Alfonso Pedraza,D,30,Spain,27,1,3,8,0,,,2025-26
+La Liga,Villarreal,27,Jean Ives Valou,D,20,Ivory Coast,0,0,0,0,0,,,2025-26
+La Liga,Villarreal,29,Isma Sierra,D,23,Spain,0,0,0,0,0,,,2025-26
+La Liga,Villarreal,30,Daniel Budesca,D,20,Spain,0,0,0,0,0,,,2025-26
+La Liga,Villarreal,10,Dani Parejo,M,37,Spain,32,1,0,3,0,,,2025-26
+La Liga,Villarreal,12,Renato Veiga,M,22,Portugal,32,0,0,5,1,,,2025-26
+La Liga,Villarreal,14,Santi Comesaña,M,29,Spain,34,3,6,5,1,,,2025-26
+La Liga,Villarreal,16,Thomas Partey,M,33,Ghana,25,0,0,1,0,,,2025-26
+La Liga,Villarreal,18,Pape Gueye,M,27,Senegal,30,5,2,8,0,,,2025-26
+La Liga,Villarreal,20,Alberto Moleiro,M,22,Spain,37,10,5,4,0,,,2025-26
+La Liga,Villarreal,37,Carlos Macià,M,17,Spain,5,0,0,1,0,,,2025-26
+La Liga,Villarreal,38,Alassane Diatta,M,21,Senegal,1,0,0,0,0,,,2025-26
+La Liga,Villarreal,7,Gerard Moreno,F,34,Spain,22,10,0,0,0,,,2025-26
+La Liga,Villarreal,9,Georges Mikautadze,F,25,Georgia,32,13,6,1,0,,,2025-26
+La Liga,Villarreal,11,Alfonso González,F,27,Spain,20,2,0,0,0,,,2025-26
+La Liga,Villarreal,17,Tajon Buchanan,F,27,Canada,34,7,1,8,0,,,2025-26
+La Liga,Villarreal,19,Nicolas Pépé,F,31,Ivory Coast,36,8,8,4,0,,,2025-26
+La Liga,Villarreal,21,Tani Oluwaseyi,F,26,Canada,27,2,2,1,0,,,2025-26
+La Liga,Villarreal,22,Ayoze Pérez,F,32,Spain,25,5,4,4,0,,,2025-26
+La Liga,Villarreal,28,Mahamoud Barry,F,20,Mali,0,0,0,0,0,,,2025-26
+La Liga,Villarreal,32,Hugo López,F,19,Spain,2,0,0,0,0,,,2025-26
+La Liga,Villarreal,33,Pau Cabanes,F,21,Spain,1,0,0,0,0,,,2025-26
+La Liga,Villarreal,40,José Ángel Gaitán Diaz,F,19,Spain,0,0,0,0,0,,,2025-26

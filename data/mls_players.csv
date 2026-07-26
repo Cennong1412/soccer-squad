@@ -1,0 +1,759 @@
+League,Team,Number,Player,Position,Age,Nationality,Season_Apps,Season_Goals,Season_Assists,Season_YellowCards,Season_RedCards,Season_Saves,Season_GoalsConceded,Season_Label
+MLS,Austin FC,1,Brad Stuver,G,35,USA,36,,0,3,0,134,51,2025
+MLS,Austin FC,12,Damian Las,G,24,USA,,,,,,,,2025
+MLS,Austin FC,5,Oleksandr Svatok,D,31,Ukraine,31,1,0,6,0,,,2025
+MLS,Austin FC,3,Mikkel Desler,D,31,Denmark,22,1,3,5,0,,,2025
+MLS,Austin FC,17,Jon Gallagher,D,30,Republic of Ireland,36,2,0,3,0,,,2025
+MLS,Austin FC,4,Brendan Hines-Ike,D,31,USA,33,0,1,3,1,,,2025
+MLS,Austin FC,15,Jon Bell,D,28,Jamaica,,,,,,,,2025
+MLS,Austin FC,23,Zan Kolmanic,D,26,Slovenia,27,1,1,4,0,,,2025
+MLS,Austin FC,29,Guilherme Biro,D,26,Brazil,34,3,1,7,0,,,2025
+MLS,Austin FC,2,Riley Thomas,D,24,USA,0,0,0,0,0,,,2025
+MLS,Austin FC,35,Mateja Djordjevic,D,23,Serbia,4,0,0,2,0,,,2025
+MLS,Austin FC,6,Ilie Sánchez,M,35,Spain,,,,,,,,2025
+MLS,Austin FC,14,Besard Sabovic,M,28,Sweden,,,,,,,,2025
+MLS,Austin FC,30,Joseph Rosales,M,25,Honduras,,,,,,,,2025
+MLS,Austin FC,77,Przemyslaw Placheta,M,28,Poland,,,,,,,,2025
+MLS,Austin FC,33,Owen Wolff,M,21,USA,,,,,,,,2025
+MLS,Austin FC,19,CJ Fodrey,M,22,USA,,,,,,,,2025
+MLS,Austin FC,32,Micah Burton,M,20,USA,,,,,,,,2025
+MLS,Austin FC,24,Jorge Alastuey,M,23,Spain,,,,,,,,2025
+MLS,Austin FC,20,Nicolás Dubersarsky,M,21,Argentina,,,,,,,,2025
+MLS,Austin FC,,Ervin Torres,,18,,,,,,,,,2025
+MLS,Austin FC,30,Stefan Cleveland,G,32,USA,0,,0,0,0,0,0,2025
+MLS,Austin FC,34,Antonio Gomez,D,24,USA,0,0,0,0,0,,,2025
+MLS,Austin FC,18,Julio Cascante,D,32,Costa Rica,15,0,0,1,0,,,2025
+MLS,Austin FC,,Adrian Gonzalez,,23,,,,,,,,,2025
+MLS,Charlotte FC,21,Tyler Miller,G,33,USA,,,,,,,,2025
+MLS,Charlotte FC,1,Kristijan Kahlina,G,34,Croatia,35,,0,1,0,138,48,2025
+MLS,Charlotte FC,42,Isaac Walker,G,26,USA,,,,,,,,2025
+MLS,Charlotte FC,3,Tim Ream,D,38,USA,30,0,0,2,0,,,2025
+MLS,Charlotte FC,14,Nathan Byrne,D,34,England,20,0,0,4,0,,,2025
+MLS,Charlotte FC,15,Harry Toffolo,D,30,England,6,0,2,0,0,,,2025
+MLS,Charlotte FC,23,David Schnegg,D,27,Austria,,,,,,,,2025
+MLS,Charlotte FC,22,Henry Kessler,D,28,USA,,,,,,,,2025
+MLS,Charlotte FC,4,Andrew Privett,D,25,USA,,,,,,,,2025
+MLS,Charlotte FC,24,Mikah Thomas,D,21,USA,,,,,,,,2025
+MLS,Charlotte FC,39,Jack Neeley,D,21,USA,1,0,0,0,0,,,2025
+MLS,Charlotte FC,34,Andrew Johnson,D,22,USA,,,,,,,,2025
+MLS,Charlotte FC,35,Will Cleary,D,23,USA,,,,,,,,2025
+MLS,Charlotte FC,44,Morrison Agyemang,D,21,Ghana,,,,,,,,2025
+MLS,Charlotte FC,8,Ashley Westwood,M,36,England,,,,,,,,2025
+MLS,Charlotte FC,17,Luca de la Torre,M,28,USA,,,,,,,,2025
+MLS,Charlotte FC,13,Brandt Bronico,M,31,USA,,,,,,,,2025
+MLS,Charlotte FC,16,Pep Biel,M,29,Spain,,,,,,,,2025
+MLS,Charlotte FC,28,Djibril Diani,M,28,France,,,,,,,,2025
+MLS,Charlotte FC,20,Baye Coulibaly,M,20,Mali,,,,,,,,2025
+MLS,Charlotte FC,48,Aron John,M,20,USA,,,,,,,,2025
+MLS,Charlotte FC,,Liel Abada,,,,,,,,,,,2025
+MLS,Charlotte FC,22,David Bingham,G,36,USA,2,,0,0,0,9,2,2025
+MLS,Charlotte FC,12,Drake Callender,G,28,USA,3,,0,0,0,7,5,2025
+MLS,Charlotte FC,26,Chituru Odunze,G,23,USA,,,,,,,,2025
+MLS,Charlotte FC,6,Bill Tuiloma,D,31,New Zealand,8,1,1,0,0,,,2025
+MLS,Charlotte FC,35,Nicholas Scardina,D,25,USA,15,0,1,1,0,,,2025
+MLS,Charlotte FC,2,Jahkeele Marshall-Rutty,D,22,Canada,30,0,3,4,0,,,2025
+MLS,Charlotte FC,29,Adilson Malanda,D,24,France,36,1,2,4,1,,,2025
+MLS,CF Montréal,1,Sébastian Breza,G,28,Canada,3,,0,1,0,11,9,2025
+MLS,CF Montréal,40,Jonathan Sirois,G,25,Canada,23,,0,0,0,76,39,2025
+MLS,CF Montréal,31,Thomas Gillier,G,22,Chile,8,,0,2,0,27,12,2025
+MLS,CF Montréal,13,Luca Petrasso,D,26,Canada,34,2,4,4,0,,,2025
+MLS,CF Montréal,19,Bode Hidalgo,D,24,USA,24,0,0,4,1,,,2025
+MLS,CF Montréal,2,Jalen Neal,D,22,USA,14,1,1,1,0,,,2025
+MLS,CF Montréal,5,Brandan Craig,D,22,USA,23,0,0,3,0,,,2025
+MLS,CF Montréal,24,Efraín Morales,D,22,Bolivia,11,0,0,4,0,,,2025
+MLS,CF Montréal,4,Fernando Álvarez,D,22,Colombia,22,0,2,4,0,,,2025
+MLS,CF Montréal,27,Dawid Bugaj,D,22,Poland,23,0,2,4,0,,,2025
+MLS,CF Montréal,39,Aleksandr Guboglo,D,19,Canada,23,0,1,1,0,,,2025
+MLS,CF Montréal,6,Samuel Piette,M,31,Canada,24,0,0,4,0,,,2025
+MLS,CF Montréal,,Matthew Longstaff,,26,,,,,,,,,2025
+MLS,Atlanta United FC,1,Lucas Hoyos,G,37,Argentina,,,,,,,,2025
+MLS,Atlanta United FC,42,Jayden Hibbert,G,21,Canada,8,,0,1,0,31,14,2025
+MLS,Atlanta United FC,47,Matt Edwards,D,23,USA,20,0,2,3,0,,,2025
+MLS,Atlanta United FC,6,Júnior Alonso,D,33,Paraguay,,,,,,,,2025
+MLS,Atlanta United FC,,Paulo Díaz,D,31,Chile,,,,,,,,2025
+MLS,Atlanta United FC,5,Stian Gregersen,D,31,Norway,18,0,1,3,0,,,2025
+MLS,Atlanta United FC,2,Ronald Hernández,D,28,Venezuela,21,1,1,3,0,,,2025
+MLS,Atlanta United FC,4,Enea Mihaj,D,28,Albania,9,0,1,0,0,,,2025
+MLS,Atlanta United FC,18,Pedro Amador,D,27,Portugal,26,1,0,4,0,,,2025
+MLS,Atlanta United FC,55,Tomás Jacob,D,22,Argentina,,,,,,,,2025
+MLS,Atlanta United FC,3,Elías Baez,D,21,Argentina,,,,,,,,2025
+MLS,Atlanta United FC,50,Dominik Chong Qui,D,18,USA,,,,,,,,2025
+MLS,Atlanta United FC,41,Toto Majub,D,20,Uganda,,,,,,,,2025
+MLS,Atlanta United FC,59,Alexey Miranchuk,M,30,Russia,,,,,,,,2025
+MLS,Atlanta United FC,7,Steven Alzate,M,27,Colombia,,,,,,,,2025
+MLS,Atlanta United FC,8,Tristan Muyumba,M,29,France,,,,,,,,2025
+MLS,Atlanta United FC,28,Will Reilly,M,23,USA,,,,,,,,2025
+MLS,Atlanta United FC,35,Jay Fortune,M,23,Trinidad and Tobago,,,,,,,,2025
+MLS,Atlanta United FC,20,Luke Brennan,M,21,USA,,,,,,,,2025
+MLS,Atlanta United FC,16,Adrian Gill,M,20,USA,,,,,,,,2025
+MLS,Atlanta United FC,23,Adyn Torres,M,18,Puerto Rico,,,,,,,,2025
+MLS,Atlanta United FC,,Cooper Sanchez,,18,,,,,,,,,2025
+MLS,Atlanta United FC,1,Brad Guzan,G,41,USA,26,,0,1,0,86,49,2025
+MLS,Atlanta United FC,22,Josh Cohen,G,33,USA,0,,0,0,0,0,0,2025
+MLS,Atlanta United FC,11,Brooks Lennon,D,28,USA,25,1,3,2,0,,,2025
+MLS,Atlanta United FC,66,Nykolas Sessock,D,26,USA,2,0,0,0,0,,,2025
+MLS,Atlanta United FC,6,Juan Berrocal,D,27,Spain,10,0,0,0,0,,,2025
+MLS,Atlanta United FC,55,Salvatore Mazzaferro,D,24,Canada,1,0,0,0,0,,,2025
+MLS,Colorado Rapids,1,Zack Steffen,G,31,USA,23,,0,3,1,93,39,2025
+MLS,Colorado Rapids,41,Nico Hansen,G,25,Denmark,10,,0,0,0,34,14,2025
+MLS,Colorado Rapids,31,Adam Beaudry,G,20,USA,1,,0,0,0,3,3,2025
+MLS,Colorado Rapids,51,Zackory Campagnolo,G,19,USA,,,,,,,,2025
+MLS,Colorado Rapids,6,Rob Holding,D,30,England,6,0,0,1,0,,,2025
+MLS,Colorado Rapids,2,Keegan Rosenberry,D,32,USA,16,2,2,0,0,,,2025
+MLS,Colorado Rapids,4,Reggie Cannon,D,28,USA,28,0,1,10,0,,,2025
+MLS,Colorado Rapids,29,Miguel Navarro,D,27,Venezuela,,,,,,,,2025
+MLS,Colorado Rapids,33,Kosi Thompson,D,23,Canada,,,,,,,,2025
+MLS,Colorado Rapids,24,Noah Cobb,D,21,USA,17,0,0,0,0,,,2025
+MLS,Colorado Rapids,5,Loic Williams,D,24,Spain,,,,,,,,2025
+MLS,Colorado Rapids,99,Jackson Travis,D,22,USA,,,,,,,,2025
+MLS,Colorado Rapids,22,Lucas Herrington,D,18,Australia,,,,,,,,2025
+MLS,Colorado Rapids,45,Jabari De Coteau,D,21,Grenada,,,,,,,,2025
+MLS,Colorado Rapids,,Grant Gilmore,D,,,,,,,,,,2025
+MLS,Colorado Rapids,12,Joshua Atencio,M,24,USA,,,,,,,,2025
+MLS,Colorado Rapids,21,Ted Ku-Dipietro,M,24,USA,,,,,,,,2025
+MLS,Colorado Rapids,8,Hamzat Ojediran,M,22,Nigeria,,,,,,,,2025
+MLS,Colorado Rapids,10,Paxten Aaronson,M,22,USA,,,,,,,,2025
+MLS,Colorado Rapids,15,Ali Fadal,M,22,Ghana,,,,,,,,2025
+MLS,Colorado Rapids,13,Wayne Frederick,M,22,Trinidad and Tobago,,,,,,,,2025
+MLS,Colorado Rapids,,Nathan Tchoumba,,15,,,,,,,,,2025
+MLS,Colorado Rapids,5,Andreas Maxsø,D,32,Denmark,32,1,0,4,0,,,2025
+MLS,Colorado Rapids,30,Rafael Santos,D,28,Brazil,24,1,3,1,1,,,2025
+MLS,Colorado Rapids,3,Sam Vines,D,27,USA,22,0,2,0,0,,,2025
+MLS,Colorado Rapids,19,Ian Murphy,D,26,USA,16,0,1,1,0,,,2025
+MLS,Colorado Rapids,36,Anderson Rosa,D,24,Brazil,2,0,0,0,0,,,2025
+MLS,Colorado Rapids,,Connor Ronan,,28,,,,,,,,,2025
+MLS,Columbus Crew,24,Evan Bush,G,40,USA,6,,0,1,0,10,5,2025
+MLS,Columbus Crew,1,Nicholas Hagen,G,29,Guatemala,3,,0,0,0,13,10,2025
+MLS,Columbus Crew,28,Patrick Schulte,G,25,USA,29,,1,3,0,74,39,2025
+MLS,Columbus Crew,54,Luke Pruter,G,24,USA,,,,,,,,2025
+MLS,Columbus Crew,41,Stanislav Lapkes,G,20,Belarus,0,,0,0,0,0,0,2025
+MLS,Columbus Crew,4,Rudy Camacho,D,35,France,1,0,0,0,0,,,2025
+MLS,Columbus Crew,31,Steven Moreira,D,31,Cape Verde Islands,33,1,2,4,0,,,2025
+MLS,Columbus Crew,,Eric Bailly,D,32,Ivory Coast,,,,,,,,2025
+MLS,Columbus Crew,,Brooks Lennon,D,28,USA,,,,,,,,2025
+MLS,Columbus Crew,18,Malte Amundsen,D,28,Denmark,27,1,3,4,1,,,2025
+MLS,Columbus Crew,,Andrés Herrera,D,27,Argentina,23,5,4,1,0,,,2025
+MLS,Columbus Crew,23,Mohamed Farsi,D,26,Algeria,18,1,3,2,0,,,2025
+MLS,Columbus Crew,45,Owen Presthus,D,20,USA,,,,,,,,2025
+MLS,Columbus Crew,12,Cesar Ruvalcaba,D,25,USA,14,1,0,1,0,,,2025
+MLS,Columbus Crew,22,Tristan Brown,D,18,USA,,,,,,,,2025
+MLS,Columbus Crew,20,André Gomes,M,32,Portugal,,,,,,,,2025
+MLS,Columbus Crew,14,Amar Sejdic,M,29,USA,,,,,,,,2025
+MLS,Columbus Crew,8,Dániel Gazdag,M,30,Hungary,,,,,,,,2025
+MLS,Columbus Crew,,Brais Méndez,M,29,Spain,,,,,,,,2025
+MLS,Columbus Crew,7,Dylan Chambost,M,28,France,,,,,,,,2025
+MLS,Columbus Crew,25,Sean Zawadzki,M,26,USA,,,,,,,,2025
+MLS,Columbus Crew,22,Abraham Romero,G,28,Mexico,0,,0,0,0,0,0,2025
+MLS,Columbus Crew,21,Yevhen Cheberko,D,28,Ukraine,32,0,0,2,0,,,2025
+MLS,D.C. United,1,Sean Johnson,G,37,USA,,,,,,,,2025
+MLS,D.C. United,26,Alex Bono,G,32,USA,,,,,,,,2025
+MLS,D.C. United,,Jordan Farr,G,31,USA,3,,0,0,0,7,8,2025
+MLS,D.C. United,20,Grant Leveille,G,18,Haiti,,,,,,,,2025
+MLS,D.C. United,5,Silvan Hefti,D,28,Switzerland,,,,,,,,2025
+MLS,D.C. United,15,Kye Rowles,D,28,Australia,31,0,0,8,0,,,2025
+MLS,D.C. United,13,Sean Nealis,D,29,USA,,,,,,,,2025
+MLS,D.C. United,12,Conner Antley,D,31,USA,20,1,1,1,0,,,2025
+MLS,D.C. United,6,Keisuke Kurokawa,D,29,Japan,,,,,,,,2025
+MLS,D.C. United,4,Matti Peltola,D,24,Finland,26,0,2,6,0,,,2025
+MLS,D.C. United,3,Lucas Bartlett,D,28,USA,30,0,1,6,0,,,2025
+MLS,D.C. United,27,Nikola Markovic,D,22,Canada,,,,,,,,2025
+MLS,D.C. United,21,Andre Dozzell,M,27,England,,,,,,,,2025
+MLS,D.C. United,23,Brandon Servania,M,27,USA,30,0,2,7,0,,,2025
+MLS,D.C. United,8,Jared Stroud,M,30,USA,,,,,,,,2025
+MLS,D.C. United,30,Caden Clark,M,23,USA,,,,,,,,2025
+MLS,D.C. United,77,Hosei Kijima,M,24,Japan,,,,,,,,2025
+MLS,D.C. United,25,Jackson Hopkins,M,22,USA,,,,,,,,2025
+MLS,D.C. United,48,Gavin Turner,M,19,USA,,,,,,,,2025
+MLS,D.C. United,11,Louis Munteanu,F,24,Romania,,,,,,,,2025
+MLS,D.C. United,14,Gabriel Segal,F,25,USA,,,,,,,,2025
+MLS,D.C. United,13,Luis Barraza,G,29,USA,24,,1,3,1,82,39,2025
+MLS,D.C. United,1,Kim Joon-Hong,G,23,South Korea,8,,0,1,0,24,19,2025
+MLS,D.C. United,22,Aaron Herrera,D,29,Guatemala,26,0,4,8,2,,,2025
+MLS,D.C. United,28,David Schnegg,D,27,Austria,32,0,4,8,0,,,2025
+MLS,D.C. United,18,Derek Dodson,D,27,USA,14,0,1,1,0,,,2025
+MLS,D.C. United,5,Lukas MacNaughton,D,31,Canada,11,1,0,3,1,,,2025
+MLS,FC Cincinnati,13,Evan Louro,G,30,USA,4,,0,0,0,16,4,2025
+MLS,FC Cincinnati,31,Bryan Dowd,G,24,USA,,,,,,,,2025
+MLS,FC Cincinnati,18,Roman Celentano,G,25,USA,34,,0,2,0,102,45,2025
+MLS,FC Cincinnati,93,Fabian Mrozek,G,22,Poland,,,,,,,,2025
+MLS,FC Cincinnati,2,Alvas Powell,D,32,Jamaica,29,0,1,2,0,,,2025
+MLS,FC Cincinnati,21,Matt Miazga,D,31,USA,21,0,1,3,0,,,2025
+MLS,FC Cincinnati,4,Nick Hagglund,D,33,USA,20,1,0,4,0,,,2025
+MLS,FC Cincinnati,15,Teenage Hadebe,D,30,Zimbabwe,24,0,1,3,0,,,2025
+MLS,FC Cincinnati,29,Bryan Ramirez,D,25,Ecuador,,,,,,,,2025
+MLS,FC Cincinnati,24,Kyle Smith,D,22,England,,,,,,,,2025
+MLS,FC Cincinnati,12,Miles Robinson,D,29,USA,30,1,0,4,0,,,2025
+MLS,FC Cincinnati,88,Andrei Chirila,D,17,USA,,,,,,,,2025
+MLS,FC Cincinnati,55,Ayoub Lajhar,D,22,Libya,,,,,,,,2025
+MLS,FC Cincinnati,10,Evander,M,28,Brazil,,,,,,,,2025
+MLS,FC Cincinnati,27,Tah Anunga,M,29,Cameroon,,,,,,,,2025
+MLS,FC Cincinnati,5,Obinna Nwobodo,M,29,Nigeria,,,,,,,,2025
+MLS,FC Cincinnati,20,Pavel Bucha,M,28,Czechia,,,,,,,,2025
+MLS,FC Cincinnati,37,Stiven Jimenez,M,19,Mexico,,,,,,,,2025
+MLS,FC Cincinnati,22,Gerardo Valenzuela,M,21,USA,,,,,,,,2025
+MLS,FC Cincinnati,11,Samuel Gidi,M,22,Slovakia,,,,,,,,2025
+MLS,FC Cincinnati,19,Stefan Chirila,,19,Romania,,,,,,,,2025
+MLS,FC Cincinnati,1,Alec Kann,G,35,USA,0,,0,0,0,0,0,2025
+MLS,FC Cincinnati,30,Nate Crockford,G,23,USA,,,,,,,,2025
+MLS,FC Cincinnati,25,Paul Walters,G,22,USA,0,,0,0,0,0,0,2025
+MLS,FC Cincinnati,3,Gilberto Flores,D,23,Paraguay,18,0,0,4,1,,,2025
+MLS,FC Cincinnati,14,Brad Smith,D,32,Australia,17,0,0,0,0,,,2025
+MLS,FC Cincinnati,29,Lukas Engel,D,27,Denmark,36,,,4,0,,,2025
+MLS,FC Dallas,40,Jonathan Sirois,G,25,Canada,,,,,,,,2025
+MLS,FC Dallas,1,Michael Collodi,G,25,USA,11,,0,0,1,37,12,2025
+MLS,FC Dallas,98,Eryk Dymora,G,23,USA,,,,,,,,2025
+MLS,FC Dallas,18,Shaq Moore,D,29,USA,35,3,4,4,0,,,2025
+MLS,FC Dallas,25,Sebastien Ibeagha,D,34,USA,35,1,0,5,1,,,2025
+MLS,FC Dallas,5,Lalas Abubakar,D,31,Ghana,30,1,0,3,1,,,2025
+MLS,FC Dallas,3,Osaze Urhoghide,D,26,England,29,2,0,7,0,,,2025
+MLS,FC Dallas,2,Geovane Jesus,D,24,Brazil,,,,,,,,2025
+MLS,FC Dallas,32,Nolan Norris,D,21,USA,14,0,1,3,0,,,2025
+MLS,FC Dallas,26,Slade Starnes,D,22,USA,,,,,,,,2025
+MLS,FC Dallas,29,Enzo Newman,D,20,USA,0,0,0,0,0,,,2025
+MLS,FC Dallas,22,Álvaro Augusto,D,21,Brazil,,,,,,,,2025
+MLS,FC Dallas,24,Joshua Torquato,D,19,USA,,,,,,,,2025
+MLS,FC Dallas,34,Kaka Scabin,D,19,USA,,,,,,,,2025
+MLS,FC Dallas,17,Ramiro,M,33,Brazil,,,,,,,,2025
+MLS,FC Dallas,,Tsiki Ntsabeleng,M,28,South Africa,,,,,,,,2025
+MLS,FC Dallas,12,Christian Cappis,M,26,USA,,,,,,,,2025
+MLS,FC Dallas,8,Patrickson Delgado,M,22,Ecuador,,,,,,,,2025
+MLS,FC Dallas,14,Herman Johansson,M,28,Sweden,,,,,,,,2025
+MLS,FC Dallas,50,Diego García,M,19,USA,,,,,,,,2025
+MLS,FC Dallas,21,Joaquín Valiente,M,25,Uruguay,,,,,,,,2025
+MLS,FC Dallas,,Ran Binyamin,,22,,,,,,,,,2025
+MLS,FC Dallas,1,Maarten Paes,G,28,Indonesia,22,,0,0,0,63,43,2025
+MLS,FC Dallas,98,Jacob Jackson,G,26,USA,4,,0,1,0,11,4,2025
+MLS,FC Dallas,13,Jt Harms,G,24,USA,0,,0,0,0,0,0,2025
+MLS,FC Dallas,27,Herbert Endeley,F,24,USA,,,,,,,,2025
+MLS,FC Dallas,35,Malachi Molina,D,19,Jamaica,,,,,,,,2025
+MLS,Houston Dynamo FC,33,Exon Arzú,F,22,Honduras,,,,,,,,2025
+MLS,Houston Dynamo FC,31,Jonathan Bond,G,33,England,26,,0,0,0,66,44,2025
+MLS,Houston Dynamo FC,1,Jimmy Maurer,G,37,USA,2,,0,0,0,2,1,2025
+MLS,Houston Dynamo FC,,Logan Erb,G,22,USA,,,,,,,,2025
+MLS,Houston Dynamo FC,3,Antônio Carlos,D,33,Brazil,8,1,0,2,0,,,2025
+MLS,Houston Dynamo FC,28,Erik Sviatchenko,D,34,Denmark,15,0,0,1,1,,,2025
+MLS,Houston Dynamo FC,21,Franco Negri,D,31,Argentina,,,,,,,,2025
+MLS,Houston Dynamo FC,13,Sam Vines,D,27,USA,,,,,,,,2025
+MLS,Houston Dynamo FC,5,Lucas Halter,D,26,Brazil,,,,,,,,2025
+MLS,Houston Dynamo FC,36,Felipe Andrade,D,24,Brazil,,,,,,,,2025
+MLS,Houston Dynamo FC,27,Reese Miller,D,22,USA,,,,,,,,2025
+MLS,Houston Dynamo FC,34,Agustín Resch,D,24,Argentina,,,,,,,,2025
+MLS,Houston Dynamo FC,33,Vinicius Rodrigues Da Silva,D,20,Brazil,,,,,,,,2025
+MLS,Houston Dynamo FC,16,Héctor Herrera,M,36,Mexico,,,,,,,,2025
+MLS,Houston Dynamo FC,14,Duane Holmes,M,31,USA,,,,,,,,2025
+MLS,Houston Dynamo FC,18,Diadie Samassekou,M,30,Mali,,,,,,,,2025
+MLS,Houston Dynamo FC,30,Agustín Bouzat,M,32,Argentina,,,,,,,,2025
+MLS,Houston Dynamo FC,6,Artur,M,30,Brazil,,,,,,,,2025
+MLS,Houston Dynamo FC,9,Ondrej Lingr,M,27,Czechia,,,,,,,,2025
+MLS,Houston Dynamo FC,19,Mateusz Bogusz,M,24,Poland,,,,,,,,2025
+MLS,Houston Dynamo FC,8,Jack McGlynn,M,23,USA,,,,,,,,2025
+MLS,Houston Dynamo FC,13,Andrew Tarbell,G,32,USA,4,,0,0,0,8,7,2025
+MLS,Houston Dynamo FC,26,Blake Gillingham,G,23,USA,4,,0,0,0,9,4,2025
+MLS,Houston Dynamo FC,32,Pedro,G,22,Brazil,0,,0,0,0,0,0,2025
+MLS,Houston Dynamo FC,23,Michael Halliday,D,23,USA,0,0,0,0,0,,,2025
+MLS,Houston Dynamo FC,5,Daniel Steres,D,35,USA,8,0,0,2,0,,,2025
+MLS,Houston Dynamo FC,2,Franco Escobar,D,31,Argentina,23,2,2,8,1,,,2025
+MLS,Houston Dynamo FC,37,Damion Lowe,D,33,Jamaica,0,0,0,0,0,,,2025
+MLS,Houston Dynamo FC,22,Pablo Ortíz,D,26,Colombia,20,1,0,6,0,,,2025
+MLS,Houston Dynamo FC,,Obafemi Awodesu,,25,,,,,,,,,2025
+MLS,Inter Miami CF,97,Dayne St. Clair,G,29,Canada,,,,,,,,2025
+MLS,Inter Miami CF,13,Luis Barraza,G,29,USA,,,,,,,,2025
+MLS,Inter Miami CF,34,Rocco Ríos Novo,G,24,Argentina,16,,0,1,0,40,14,2025
+MLS,Inter Miami CF,3,Sergio Reguilón,D,29,Spain,,,,,,,,2025
+MLS,Inter Miami CF,4,Facundo Mura,D,27,Argentina,,,,,,,,2025
+MLS,Inter Miami CF,37,Maximiliano Falcón,D,29,Uruguay,30,1,0,9,0,,,2025
+MLS,Inter Miami CF,16,Micael,D,25,Brazil,,,,,,,,2025
+MLS,Inter Miami CF,2,Gonzalo Luján,D,25,Argentina,28,0,1,3,0,,,2025
+MLS,Inter Miami CF,17,Ian Fray,D,23,Jamaica,26,1,5,3,1,,,2025
+MLS,Inter Miami CF,32,Noah Allen,D,22,Greece,32,0,1,5,0,,,2025
+MLS,Inter Miami CF,62,Israel Boatwright,D,21,Dominican Republic,,,,,,,,2025
+MLS,Inter Miami CF,26,Tyler Hall,D,20,USA,0,0,0,0,0,,,2025
+MLS,Inter Miami CF,76,Cesar Abadia-Reda,D,20,USA,,,,,,,,2025
+MLS,Inter Miami CF,70,Daniel Sumalla,D,19,USA,,,,,,,,2025
+MLS,Inter Miami CF,,Fricio Caicedo,D,18,Ecuador,,,,,,,,2025
+MLS,Inter Miami CF,,Casemiro,M,34,Brazil,,,,,,,,2025
+MLS,Inter Miami CF,7,Rodrigo De Paul,M,32,Argentina,,,,,,,,2025
+MLS,Inter Miami CF,20,Santiago Morales,M,19,USA,,,,,,,,2025
+MLS,Inter Miami CF,41,David Ruiz,M,22,Honduras,,,,,,,,2025
+MLS,Inter Miami CF,22,David Ayala,M,23,Argentina,,,,,,,,2025
+MLS,Inter Miami CF,8,Telasco Segovia,M,23,Venezuela,,,,,,,,2025
+MLS,Inter Miami CF,,Yannick Bright,,24,,,,,,,,,2025
+MLS,Inter Miami CF,19,Oscar Ustari,G,40,Argentina,25,,0,0,1,78,41,2025
+MLS,Inter Miami CF,25,William Yarbrough,G,37,USA,0,,0,0,0,0,0,2025
+MLS,Inter Miami CF,18,Jordi Alba,D,37,Spain,36,6,20,6,0,,,2025
+MLS,Inter Miami CF,57,Marcelo Weigandt,D,26,Argentina,27,1,3,5,0,,,2025
+MLS,Inter Miami CF,15,Ryan Sailor,D,27,USA,5,0,0,0,0,,,2025
+MLS,Inter Miami CF,6,Tomás Avilés,D,22,Argentina,27,2,0,3,2,,,2025
+MLS,LA Galaxy,12,JT Marcinkowski,G,29,USA,3,,0,0,0,4,3,2025
+MLS,LA Galaxy,31,Brady Scott,G,27,USA,,,,,,,,2025
+MLS,LA Galaxy,1,Novak Micovic,G,24,Serbia,20,,0,0,0,64,37,2025
+MLS,LA Galaxy,4,Maya Yoshida,D,37,Japan,28,2,0,3,0,,,2025
+MLS,LA Galaxy,5,Mathias Jørgensen,D,36,Denmark,17,0,1,2,1,,,2025
+MLS,LA Galaxy,25,Carlos Garcés,D,24,Colombia,24,1,1,6,0,,,2025
+MLS,LA Galaxy,15,Eriq Zavaleta,D,33,El Salvador,5,0,0,0,0,,,2025
+MLS,LA Galaxy,14,John Nelson,D,28,USA,31,0,2,2,0,,,2025
+MLS,LA Galaxy,2,Miki Yamane,D,32,Japan,31,1,4,4,0,,,2025
+MLS,LA Galaxy,19,Mauricio Cuevas,D,23,USA,24,2,5,4,0,,,2025
+MLS,LA Galaxy,3,Julián Aude,D,23,Argentina,29,0,0,3,0,,,2025
+MLS,LA Galaxy,26,Harbor Miller,D,19,USA,10,1,2,1,0,,,2025
+MLS,LA Galaxy,18,Marco Reus,M,37,Germany,22,,9,1,0,,,2025
+MLS,LAFC,1,Hugo Lloris,G,39,France,35,,0,1,0,78,38,2025
+MLS,LAFC,12,Thomas Hasal,G,27,Canada,2,,0,0,0,4,5,2025
+MLS,LAFC,31,Cabral Carter,G,22,USA,,,,,,,,2025
+MLS,LAFC,24,Ryan Hollingshead,D,35,USA,34,2,4,5,0,,,2025
+MLS,LAFC,4,Eddie Segura,D,29,Colombia,34,1,3,9,1,,,2025
+MLS,LAFC,33,Aaron Long,D,33,USA,15,1,0,0,0,,,2025
+MLS,LAFC,14,Sergi Palencia,D,30,Spain,36,1,5,6,0,,,2025
+MLS,LAFC,5,Ryan Porteous,D,27,Scotland,13,0,1,4,0,,,2025
+MLS,LAFC,23,Yevhen Cheberko,D,28,Ukraine,,,,,,,,2025
+MLS,LAFC,91,Nkosi Tafari,D,29,USA,28,0,1,5,0,,,2025
+MLS,LAFC,45,Kenny Nielsen,D,24,USA,2,0,0,0,0,,,2025
+MLS,LAFC,29,Artem Smolyakov,D,23,Ukraine,,,,,,,,2025
+MLS,LAFC,8,Mark Delgado,M,31,USA,,,,,,,,2025
+MLS,LAFC,11,Timothy Tillman,M,27,USA,,,,,,,,2025
+MLS,LAFC,66,Mathieu Choinière,M,27,Canada,,,,,,,,2025
+MLS,LAFC,21,Ryan Raposo,M,27,Canada,,,,,,,,2025
+MLS,LAFC,6,Igor Jesus,M,23,Brazil,,,,,,,,2025
+MLS,LAFC,65,Amin Boudri,M,21,Sweden,,,,,,,,2025
+MLS,LAFC,22,Jude Terry,M,17,USA,,,,,,,,2025
+MLS,LAFC,30,David Martínez,F,20,Venezuela,,,,,,,,2025
+MLS,LAFC,7,Son Heung-Min,F,34,South Korea,,,,,,,,2025
+MLS,LAFC,,Tyler Boyd,,31,,,,,,,,,2025
+MLS,LAFC,18,David Ochoa,M,35,Colombia,1,0,0,0,0,,,2025
+MLS,LAFC,55,Érick Díaz,D,20,Panama,0,0,0,0,0,,,2025
+MLS,LAFC,15,Lorenzo Dellavalle,D,22,Italy,,,,,,,,2025
+MLS,Minnesota United FC,12,Drake Callender,G,28,USA,,,,,,,,2025
+MLS,Minnesota United FC,1,Alec Smir,G,27,USA,2,,0,1,0,2,3,2025
+MLS,Minnesota United FC,94,Kayne Rizvanovich,G,18,USA,0,,0,0,0,0,0,2025
+MLS,Minnesota United FC,15,Michael Boxall,D,37,New Zealand,35,1,5,7,0,,,2025
+MLS,Minnesota United FC,3,Kyle Duncan,D,28,Jamaica,,,,,,,,2025
+MLS,Minnesota United FC,27,D.J. Taylor,D,28,USA,7,0,0,0,0,,,2025
+MLS,Minnesota United FC,13,Anthony Markanich,D,26,USA,35,10,1,6,0,,,2025
+MLS,Minnesota United FC,5,Nicolás Romero,D,22,Argentina,29,0,5,11,0,,,2025
+MLS,Minnesota United FC,25,Nectarios Triantis,D,23,Greece,9,3,2,3,0,,,2025
+MLS,Minnesota United FC,2,Devin Padelford,D,23,USA,,,,,,,,2025
+MLS,Minnesota United FC,23,Morris Duggan,D,25,Germany,24,0,2,2,0,,,2025
+MLS,Minnesota United FC,28,Jefferson Díaz,D,25,Colombia,30,1,3,4,0,,,2025
+MLS,Minnesota United FC,33,Kieran Chandler,D,21,USA,1,0,0,0,0,,,2025
+MLS,Minnesota United FC,20,Wil Trapp,M,33,USA,,,,,,,,2025
+MLS,Minnesota United FC,26,Joaquín Pereyra,D,27,Argentina,,,,,,,,2025
+MLS,Minnesota United FC,24,Julian Gressel,M,32,USA,,,,,,,,2025
+MLS,Minnesota United FC,7,Dominik Fitz,M,27,Austria,,,,,,,,2025
+MLS,Minnesota United FC,6,Peter Stroud,M,24,USA,,,,,,,,2025
+MLS,Minnesota United FC,67,Carlos Harvey,M,26,Panama,,,,,,,,2025
+MLS,Minnesota United FC,30,Owen Gene,M,23,Guadeloupe,,,,,,,,2025
+MLS,Minnesota United FC,8,Tomás Chancalay,F,27,Argentina,,,,,,,,2025
+MLS,Minnesota United FC,97,Dayne St. Clair,G,29,Canada,34,,0,6,0,122,38,2025
+MLS,Minnesota United FC,35,Britton Fischer,D,22,USA,,,,,,,,2025
+MLS,Minnesota United FC,36,Kisa Kiingi,D,24,USA,,,,,,,,2025
+MLS,Nashville SC,1,Joe Willis,M,24,England,37,0,0,2,0,,,2025
+MLS,Nashville SC,99,Brian Schwake,G,24,USA,0,,0,0,0,0,0,2025
+MLS,Nashville SC,13,Xavier Valdez,G,22,Dominican Republic,0,,0,0,0,0,0,2025
+MLS,Nashville SC,31,Andy Nájar,D,33,Honduras,36,2,11,4,0,,,2025
+MLS,Nashville SC,4,Jeisson Palacios,D,32,Colombia,24,2,1,3,0,,,2025
+MLS,Nashville SC,2,Daniel Lovitz,D,34,USA,33,2,6,6,0,,,2025
+MLS,Nashville SC,5,Jack Maher,D,26,USA,31,0,0,4,0,,,2025
+MLS,Nashville SC,22,Josh Bauer,D,28,USA,27,3,3,0,0,,,2025
+MLS,Nashville SC,3,Maxwell Woledzi,D,25,Ghana,,,,,,,,2025
+MLS,Nashville SC,27,Reed Baker-Whiting,D,21,USA,,,,,,,,2025
+MLS,Nashville SC,21,Thomas Williams,D,21,USA,,,,,,,,2025
+MLS,Nashville SC,23,Jordan Knight,F,24,Canada,,,,,,,,2025
+MLS,Nashville SC,33,Chris Applewhite,D,18,USA,,,,,,,,2025
+MLS,Nashville SC,10,Hany Mukhtar,M,31,Germany,,,,,,,,2025
+MLS,Nashville SC,6,Bryan Acosta,M,32,Honduras,,,,,,,,2025
+MLS,Nashville SC,19,Alex Muyl,M,30,USA,,,,,,,,2025
+MLS,Nashville SC,20,Edvard Tagseth,M,25,Norway,,,,,,,,2025
+MLS,Nashville SC,8,Patrick Yazbek,M,24,Australia,,,,,,,,2025
+MLS,Nashville SC,16,Matthew Corcoran,M,20,USA,,,,,,,,2025
+MLS,Nashville SC,14,Shakur Mohammed,M,22,Ghana,,,,,,,,2025
+MLS,Nashville SC,,Charles-Emile Brunet,,22,,,,,,,,,2025
+MLS,Nashville SC,25,Walker Zimmerman,D,33,USA,24,0,2,4,0,,,2025
+MLS,Nashville SC,23,Taylor Washington,D,32,USA,0,0,0,0,0,,,2025
+MLS,Nashville SC,3,Tate Schmitt,D,29,USA,3,0,0,0,0,,,2025
+MLS,Nashville SC,29,Julian Gaines,D,23,USA,3,0,0,0,0,,,2025
+MLS,Nashville SC,,Wyatt Meyer,,25,,,,,,,,,2025
+MLS,New England Revolution,24,Alex Bono,G,32,USA,0,,0,0,0,0,0,2025
+MLS,New England Revolution,30,Matt Turner,G,32,USA,10,,0,0,0,38,16,2025
+MLS,New England Revolution,73,JD Gunn,G,26,Panama,0,,0,0,0,0,0,2025
+MLS,New England Revolution,33,Donovan Parisian,G,21,Armenia,0,,0,0,0,0,0,2025
+MLS,New England Revolution,2,Mamadou Fofana,D,28,Mali,30,0,1,9,0,,,2025
+MLS,New England Revolution,88,Andrew Farrell,D,34,USA,3,0,0,0,0,,,2025
+MLS,New England Revolution,4,Tanner Beason,D,29,USA,27,0,1,1,0,,,2025
+MLS,New England Revolution,47,Victor Souza,G,33,Brazil,,,,,,,,2025
+MLS,New England Revolution,15,Brandon Bye,D,30,USA,26,0,0,0,0,,,2025
+MLS,New England Revolution,16,Wyatt Omsberg,D,30,USA,9,0,0,0,0,,,2025
+MLS,New England Revolution,5,Keegan Hughes,D,26,USA,7,0,0,2,0,,,2025
+MLS,New England Revolution,3,Brayan Ceballos,D,25,Colombia,29,1,0,9,0,,,2025
+MLS,New England Revolution,23,William Sands,D,26,USA,19,,0,3,0,,,2025
+MLS,New York City FC,30,Tomas Romero,G,25,El Salvador,4,,0,0,0,10,2,2025
+MLS,New York City FC,18,Greg Ranjitsingh,G,33,Trinidad and Tobago,0,,0,0,0,0,0,2025
+MLS,New York City FC,49,Matt Freese,G,27,USA,36,,0,4,0,108,48,2025
+MLS,New York City FC,,Maclean Learned,G,23,USA,,,,,,,,2025
+MLS,New York City FC,13,Thiago Martins,D,31,Brazil,36,1,0,1,0,,,2025
+MLS,New York City FC,22,Kevin O'Toole,D,27,USA,31,1,1,7,1,,,2025
+MLS,New York City FC,34,Raul Gustavo,D,27,Brazil,10,0,1,2,0,,,2025
+MLS,New York City FC,5,Kai Trewin,D,25,Australia,,,,,,,,2025
+MLS,New York City FC,24,Tayvon Gray,D,23,Jamaica,31,0,0,7,0,,,2025
+MLS,New York City FC,45,Kamran Acito,D,22,USA,,,,,,,,2025
+MLS,New York City FC,35,Mitja Ilenic,D,21,Slovenia,20,2,2,1,0,,,2025
+MLS,New York City FC,23,Max Murray,D,24,USA,0,0,0,0,0,,,2025
+MLS,New York City FC,38,Andrew Baiera,D,19,USA,,,,,,,,2025
+MLS,New York City FC,2,Nico Cavallo,D,24,USA,,,,,,,,2025
+MLS,New York City FC,10,Maxi Morález,M,39,Argentina,,,,,,,,2025
+MLS,New York City FC,7,Nicolás Fernández,M,26,Argentina,,,,,,,,2025
+MLS,New York City FC,21,Aiden O'Neill,M,28,Australia,,,,,,,,2025
+MLS,New York City FC,6,James Sands,M,26,USA,,,,,,,,2025
+MLS,New York City FC,8,Andrés Perea,M,25,USA,,,,,,,,2025
+MLS,New York City FC,55,Keaton Parks,M,28,USA,,,,,,,,2025
+MLS,New York City FC,27,Cooper Flax,M,22,USA,,,,,,,,2025
+MLS,New York City FC,44,Alexander Rando,G,25,USA,0,,0,0,0,0,0,2025
+MLS,New York City FC,33,Prince Amponsah,D,22,USA,0,0,0,0,0,,,2025
+MLS,New York City FC,19,Strahinja Tanasijevic,D,29,Serbia,16,0,0,3,0,,,2025
+MLS,Orlando City SC,71,Maxime Crépeau,G,32,Canada,,,,,,,,2025
+MLS,Orlando City SC,12,Javier Otero,G,23,Venezuela,2,,0,1,0,5,2,2025
+MLS,Orlando City SC,40,Tristan Himes,G,23,USA,,,,,,,,2025
+MLS,Orlando City SC,6,Robin Jansson,D,34,Sweden,31,1,1,7,0,,,2025
+MLS,Orlando City SC,3,Adrián Marín,D,29,Spain,6,0,1,1,0,,,2025
+MLS,Orlando City SC,24,Griffin Dorsey,D,27,USA,,,,,,,,2025
+MLS,Orlando City SC,4,David Brekalo,D,27,Slovenia,30,1,2,6,0,,,2025
+MLS,Orlando City SC,57,Iago Teodoro,D,21,Brazil,,,,,,,,2025
+MLS,Orlando City SC,21,Nolan Miller,D,21,USA,,,,,,,,2025
+MLS,Orlando City SC,29,Tahir Reid-Brown,D,20,USA,0,0,0,0,0,,,2025
+MLS,Orlando City SC,33,Clovis Archange,D,18,Canada,,,,,,,,2025
+MLS,Orlando City SC,16,Wilder Cartagena,M,31,Peru,,,,,,,,2025
+MLS,Orlando City SC,10,Martín Ojeda,M,27,Argentina,,,,,,,,2025
+MLS,Orlando City SC,20,Eduard Atuesta,M,29,Colombia,,,,,,,,2025
+MLS,Orlando City SC,77,Iván Angulo,M,27,Colombia,,,,,,,,2025
+MLS,Orlando City SC,8,Braian Ojeda,M,26,Paraguay,,,,,,,,2025
+MLS,Orlando City SC,65,Gustavo Caraballo,M,17,Venezuela,,,,,,,,2025
+MLS,Orlando City SC,5,Luis Otávio,M,19,Brazil,,,,,,,,2025
+MLS,Orlando City SC,25,Colin Guske,M,19,USA,,,,,,,,2025
+MLS,Orlando City SC,35,Joran Gerbet,M,25,France,,,,,,,,2025
+MLS,Orlando City SC,80,Ignacio Gómez,M,20,Argentina,,,,,,,,2025
+MLS,Orlando City SC,,Zakaria Taifi,,20,,,,,,,,,2025
+MLS,Orlando City SC,99,Carlos Mercado,G,26,USA,0,,0,0,0,0,0,2025
+MLS,Orlando City SC,1,Pedro Gallese,G,36,Peru,33,,1,6,0,112,52,2025
+MLS,Orlando City SC,24,Kyle Smith,D,22,England,29,0,3,5,0,,,2025
+MLS,Orlando City SC,30,Alex Freeman,D,21,USA,30,6,3,4,0,,,2025
+MLS,Orlando City SC,15,Rodrigo Schlegel,D,29,Argentina,32,0,0,10,1,,,2025
+MLS,Orlando City SC,68,Thomas Williams,D,21,USA,1,0,0,0,0,,,2025
+MLS,Orlando City SC,61,Jackson Platts,D,19,USA,,,,,,,,2025
+MLS,Orlando City SC,36,Titus Sandy Jr,D,24,USA,0,0,0,0,0,,,2025
+MLS,Philadelphia Union,18,Andre Blake,G,35,Jamaica,24,,0,0,0,55,20,2025
+MLS,Philadelphia Union,31,George Marks,G,26,USA,0,,0,0,0,0,0,2025
+MLS,Philadelphia Union,76,Andrew Rick,G,20,USA,15,,1,1,0,23,18,2025
+MLS,Philadelphia Union,25,Kai Wagner,D,29,Germany,35,2,12,6,0,,,2025
+MLS,Philadelphia Union,26,Nathan Harriel,D,25,USA,28,2,0,7,0,,,2025
+MLS,Philadelphia Union,5,Japhet Sery,D,26,Denmark,,,,,,,,2025
+MLS,Philadelphia Union,29,Olwethu Makhanya,D,22,South Africa,32,1,0,7,2,,,2025
+MLS,Philadelphia Union,38,Giovanny Sequera,D,20,Venezuela,,,,,,,,2025
+MLS,Philadelphia Union,39,Frankie Westfield,D,20,USA,28,1,5,5,1,,,2025
+MLS,Philadelphia Union,44,Neil Pierre,D,18,USA,1,0,0,0,0,,,2025
+MLS,Philadelphia Union,20,Philippe Ndinga Ossibadjouo,D,21,Congo,,,,,,,,2025
+MLS,Philadelphia Union,66,Finn Sundstrom,D,19,USA,,,,,,,,2025
+MLS,Philadelphia Union,2,Geiner Martínez,D,23,Colombia,,,,,,,,2025
+MLS,Philadelphia Union,11,Alejandro Bedoya,M,39,USA,25,1,3,4,0,,,2025
+MLS,Philadelphia Union,19,Indiana Vassilev,M,25,USA,,,,,,,,2025
+MLS,Philadelphia Union,8,Jesús Bueno,M,27,Venezuela,,,,,,,,2025
+MLS,Philadelphia Union,14,Jeremy Rafanello,M,26,USA,,,,,,,,2025
+MLS,Philadelphia Union,16,Ben Bender,M,25,USA,,,,,,,,2025
+MLS,Philadelphia Union,33,Quinn Sullivan,M,22,USA,,,,,,,,2025
+MLS,Philadelphia Union,4,Jovan Lukic,M,24,Serbia,,,,,,,,2025
+MLS,Philadelphia Union,21,Danley Jean Jacques,M,26,Haiti,,,,,,,,2025
+MLS,Philadelphia Union,,Cavan Sullivan,,,,,,,,,,,2025
+MLS,Philadelphia Union,30,Pierce Holbrook,G,23,USA,0,,0,0,0,0,0,2025
+MLS,Philadelphia Union,5,Jakob Glesnes,D,32,Norway,34,1,2,11,0,,,2025
+MLS,Philadelphia Union,15,Olivier Mbaizo,D,28,Cameroon,9,0,0,2,0,,,2025
+MLS,Portland Timbers,25,Trey Muse,G,26,USA,0,,0,0,0,0,0,2025
+MLS,Portland Timbers,41,James Pantemis,G,29,Canada,23,,1,0,0,90,35,2025
+MLS,Portland Timbers,26,Hunter Sulte,G,24,USA,,,,,,,,2025
+MLS,Portland Timbers,23,Ian Smith,D,24,USA,22,1,1,4,0,,,2025
+MLS,Portland Timbers,15,Eric Miller,D,33,USA,16,0,0,0,0,,,2025
+MLS,Portland Timbers,5,Brandon Bye,D,30,USA,,,,,,,,2025
+MLS,Portland Timbers,4,Kamal Miller,D,29,Canada,28,2,0,6,1,,,2025
+MLS,Portland Timbers,29,Juan Mosquera,D,23,Colombia,32,1,5,2,1,,,2025
+MLS,Portland Timbers,18,Zac McGraw,D,29,Canada,4,0,0,2,0,,,2025
+MLS,Portland Timbers,20,Finn Surman,D,22,New Zealand,35,0,1,2,0,,,2025
+MLS,Portland Timbers,6,Alex Bonetig,D,23,Australia,,,,,,,,2025
+MLS,Portland Timbers,94,Charles Ondo,D,22,Equatorial Guinea,,,,,,,,2025
+MLS,Portland Timbers,16,Sawyer Jura,D,20,USA,0,0,0,0,0,,,2025
+MLS,Portland Timbers,21,Diego Chará,M,40,Colombia,31,,1,4,0,,,2025
+MLS,Portland Timbers,80,Joao Ortiz,M,30,Ecuador,,,,,,,,2025
+MLS,Portland Timbers,30,José Caicedo,F,27,Ecuador,,,,,,,,2025
+MLS,Portland Timbers,17,Cole Bassett,M,24,USA,,,,,,,,2025
+MLS,Portland Timbers,27,Jimer Fory,M,24,Colombia,,,,,,,,2025
+MLS,Portland Timbers,10,David Da Costa,M,25,Portugal,,,,,,,,2025
+MLS,Portland Timbers,73,Eric Izoita,M,18,USA,,,,,,,,2025
+MLS,Portland Timbers,9,Felipe Mora,F,32,Chile,,,,,,,,2025
+MLS,Portland Timbers,,Ariel Lassiter,,31,,,,,,,,,2025
+MLS,Portland Timbers,16,Maxime Crépeau,G,32,Canada,15,,0,0,0,51,22,2025
+MLS,Portland Timbers,13,Dario Zuparic,D,34,Croatia,21,0,0,5,0,,,2025
+MLS,Portland Timbers,45,Blake Pope,D,23,USA,,,,,,,,2025
+MLS,Real Salt Lake,1,Rafael,G,36,Brazil,35,,0,3,0,101,52,2025
+MLS,Real Salt Lake,31,Mason Stajduhar,G,28,USA,0,,0,0,0,0,0,2025
+MLS,Real Salt Lake,24,Max Kerkvliet,G,20,USA,0,,0,0,0,0,0,2025
+MLS,Real Salt Lake,37,Luis Rivera,D,18,USA,,,,,,,,2025
+MLS,Real Salt Lake,21,Juan Arias,D,22,Colombia,,,,,,,,2025
+MLS,Real Salt Lake,2,DeAndre Yedlin,D,33,USA,35,1,5,9,0,,,2025
+MLS,Real Salt Lake,15,Justen Glad,D,29,USA,32,1,1,8,0,,,2025
+MLS,Real Salt Lake,98,Alexandros Katranis,D,28,Greece,30,1,5,10,0,,,2025
+MLS,Real Salt Lake,29,Samuel Junqua,D,29,USA,32,1,1,0,0,,,2025
+MLS,Real Salt Lake,26,Philip Quinton,D,26,USA,16,0,0,2,0,,,2025
+MLS,Real Salt Lake,3,Kobi Henry,D,22,USA,,,,,,,,2025
+MLS,Real Salt Lake,4,Lukas Engel,D,27,Denmark,,,,,,,,2025
+MLS,Real Salt Lake,41,Gio Villa,D,18,USA,,,,,,,,2025
+MLS,Real Salt Lake,77,Ruben Messalles,D,23,USA,,,,,,,,2025
+MLS,Real Salt Lake,10,Diego Luna,M,22,USA,,,,,,,,2025
+MLS,Real Salt Lake,6,Stijn Spierings,M,30,Netherlands,,,,,,,,2025
+MLS,Real Salt Lake,7,Pablo Ruiz,M,27,Argentina,,,,,,,,2025
+MLS,Real Salt Lake,8,Juan Manuel Sanabria,M,26,Uruguay,,,,,,,,2025
+MLS,Real Salt Lake,14,Emeka Eneli,M,26,USA,,,,,,,,2025
+MLS,Real Salt Lake,27,Griffin Dillon,M,23,USA,,,,,,,,2025
+MLS,Real Salt Lake,23,Zach Booth,M,22,USA,,,,,,,,2025
+MLS,Real Salt Lake,,Noel Caliskan,,25,,,,,,,,,2025
+MLS,Real Salt Lake,18,Zac MacMath,G,34,USA,,,,,,,,2025
+MLS,Real Salt Lake,91,Javain Brown,D,27,Jamaica,3,0,0,1,0,,,2025
+MLS,Real Salt Lake,4,Brayan Vera,D,27,Colombia,28,1,1,9,0,,,2025
+MLS,Real Salt Lake,32,Zackery Farnsworth,D,24,USA,0,0,0,0,0,,,2025
+MLS,New York Red Bulls,34,Ethan Horvath,G,31,USA,,,,,,,,2025
+MLS,New York Red Bulls,77,John McCarthy,G,34,USA,12,,0,0,0,35,29,2025
+MLS,New York Red Bulls,1,Anthony Marcucci,G,26,USA,2,,0,0,0,3,2,2025
+MLS,New York Red Bulls,21,Aidan Stokes,G,18,USA,0,,0,0,0,0,0,2025
+MLS,New York Red Bulls,26,Tim Parker,D,33,USA,13,1,0,2,0,,,2025
+MLS,New York Red Bulls,12,Dylan Nealis,D,27,USA,18,1,0,3,0,,,2025
+MLS,New York Red Bulls,2,Justin Che,D,22,USA,,,,,,,,2025
+MLS,New York Red Bulls,3,Jahkeele Marshall-Rutty,D,22,Canada,,,,,,,,2025
+MLS,New York Red Bulls,6,Robert Voloder,D,25,Germany,,,,,,,,2025
+MLS,New York Red Bulls,20,Juan González,D,21,Colombia,,,,,,,,2025
+MLS,New York Red Bulls,5,Omar Valencia,D,22,Panama,,,,,,,,2025
+MLS,New York Red Bulls,14,Julián Bazán,D,20,Colombia,,,,,,,,2025
+MLS,New York Red Bulls,56,Matthew Dos Santos,D,18,USA,,,,,,,,2025
+MLS,New York Red Bulls,10,Emil Forsberg,M,34,Sweden,,,,,,,,2025
+MLS,New York Red Bulls,4,Gustaf Beggren,M,28,Sweden,,,,,,,,2025
+MLS,New York Red Bulls,39,Nehuen Benedetti,M,21,Argentina,,,,,,,,2025
+MLS,New York Red Bulls,80,Nathan Worth,M,19,USA,,,,,,,,2025
+MLS,New York Red Bulls,48,Ronald Donkor,M,21,Ghana,,,,,,,,2025
+MLS,New York Red Bulls,66,Tanner Rosborough,M,18,USA,,,,,,,,2025
+MLS,New York Red Bulls,15,Adri Mehmeti,M,17,USA,,,,,,,,2025
+MLS,New York Red Bulls,13,Eric Maxim Choupo-Moting,F,37,Cameroon,,,,,,,,2025
+MLS,New York Red Bulls,,Cameron Harper,,24,,,,,,,,,2025
+MLS,New York Red Bulls,31,Carlos Coronel,G,29,Paraguay,31,,0,0,0,103,42,2025
+MLS,New York Red Bulls,55,Austin Causey,G,24,USA,0,,0,0,0,0,0,2025
+MLS,New York Red Bulls,72,Tobias Szewczyk,G,17,USA,,,,,,,,2025
+MLS,New York Red Bulls,14,Marcelo Morales,D,23,Chile,4,0,0,0,0,,,2025
+MLS,New York Red Bulls,42,Alexander Hack,D,32,Germany,22,1,1,6,0,,,2025
+MLS,New York Red Bulls,15,Sean Nealis,D,29,USA,25,0,0,8,0,,,2025
+MLS,New York Red Bulls,44,Raheem Edwards,D,23,Jamaica,24,0,1,5,1,,,2025
+MLS,New York Red Bulls,6,Kyle Duncan,D,28,Jamaica,20,0,5,3,1,,,2025
+MLS,San Diego FC,1,CJ dos Santos,G,25,Cape Verde Islands,32,,0,1,0,91,40,2025
+MLS,San Diego FC,13,Pablo Sisniega,G,31,Mexico,8,,0,1,1,19,7,2025
+MLS,San Diego FC,,Marcus Ryu Alstrup,G,22,Denmark,,,,,,,,2025
+MLS,San Diego FC,18,Duran Ferree,G,19,USA,1,,0,0,0,0,0,2025
+MLS,San Diego FC,4,Andrés Reyes,D,26,Colombia,1,0,0,0,1,,,2025
+MLS,San Diego FC,97,Christopher McVey,D,29,Sweden,37,2,0,6,0,,,2025
+MLS,San Diego FC,,Dagur Thórhallsson,D,26,Iceland,,,,,,,,2025
+MLS,San Diego FC,32,Ian Murphy,D,26,USA,,,,,,,,2025
+MLS,San Diego FC,2,William Kumado,D,23,Ghana,19,0,2,2,0,,,2025
+MLS,San Diego FC,33,Oscar Verhoeven,D,20,USA,15,0,0,2,0,,,2025
+MLS,San Diego FC,5,Kieran Sargeant,D,23,USA,,,,,,,,2025
+MLS,San Diego FC,27,Luca Bombino,D,20,USA,31,1,5,7,0,,,2025
+MLS,San Diego FC,22,Wilson Eisner,D,24,USA,,,,,,,,2025
+MLS,San Diego FC,25,Ian Pilcher,D,23,USA,,,,,,,,2025
+MLS,San Diego FC,17,Osvald Søe,D,20,Denmark,,,,,,,,2025
+MLS,San Diego FC,20,Aníbal Godoy,M,36,Panama,,,,,,,,2025
+MLS,San Diego FC,24,Emmanuel Boateng,M,32,Ghana,,,,,,,,2025
+MLS,San Diego FC,6,Jeppe Tverskov,M,33,Denmark,,,,,,,,2025
+MLS,San Diego FC,10,Anders Dreyer,M,28,Denmark,,,,,,,,2025
+MLS,San Diego FC,8,Onni Valakari,M,26,Finland,,,,,,,,2025
+MLS,San Diego FC,21,Bryce Duke,M,25,USA,,,,,,,,2025
+MLS,San Diego FC,,Gabriel Pirani,,24,,,,,,,,,2025
+MLS,San Diego FC,17,Paddy McNair,D,31,Northern Ireland,25,0,1,1,0,,,2025
+MLS,San Diego FC,22,Franco Negri,D,31,Argentina,18,1,1,4,0,,,2025
+MLS,San Diego FC,23,Aiden Harangi,D,20,USA,5,0,0,1,0,,,2025
+MLS,San Diego FC,3,Leo Duru,D,21,USA,2,0,0,0,0,,,2025
+MLS,San Jose Earthquakes,1,Angus Gunn,G,30,Scotland,,,,,,,,2025
+MLS,San Jose Earthquakes,36,Earl Edwards,G,34,USA,7,,0,1,0,11,13,2025
+MLS,San Jose Earthquakes,31,Francesco Montali,G,25,USA,0,,0,0,0,0,0,2025
+MLS,San Jose Earthquakes,22,Nate Crockford,G,23,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,97,Luca Ulrich,G,23,USA,0,,0,0,0,0,0,2025
+MLS,San Jose Earthquakes,4,Dave Romney,D,33,USA,33,0,1,4,0,,,2025
+MLS,San Jose Earthquakes,87,Vítor Costa,D,32,Brazil,26,1,2,5,0,,,2025
+MLS,San Jose Earthquakes,3,Paul Marie,D,31,France,,,,,,,,2025
+MLS,San Jose Earthquakes,24,DeJuan Jones,D,29,USA,20,1,8,1,1,,,2025
+MLS,San Jose Earthquakes,5,Daniel Munie,D,26,USA,24,2,2,4,0,,,2025
+MLS,San Jose Earthquakes,17,Jack Jasinski,D,22,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,25,Max Floriani,D,23,USA,14,0,0,4,0,,,2025
+MLS,San Jose Earthquakes,2,Jamar Ricketts,D,24,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,18,Reid Roberts,D,22,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,40,Jonathan Gonzalez,M,27,Mexico,,,,,,,,2025
+MLS,San Jose Earthquakes,14,Ronaldo Vieira,M,28,Guinea-Bissau,,,,,,,,2025
+MLS,San Jose Earthquakes,16,Jack Skahan,M,28,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,6,Ian Harkes,M,31,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,21,Noel Buck,M,21,England,,,,,,,,2025
+MLS,San Jose Earthquakes,10,Niko Tsakiris,M,21,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,38,Edwyn Mendoza,M,20,USA,,,,,,,,2025
+MLS,San Jose Earthquakes,,Beau Leroux,,22,,,,,,,,,2025
+MLS,San Jose Earthquakes,42,Daniel,G,32,Brazil,29,,0,3,0,99,50,2025
+MLS,San Jose Earthquakes,26,Rodrigues,D,28,Brazil,20,1,2,4,0,,,2025
+MLS,San Jose Earthquakes,24,Nick Lima,D,31,USA,11,0,0,1,0,,,2025
+MLS,San Jose Earthquakes,4,Bruno Wilson,D,29,Portugal,16,1,0,4,0,,,2025
+MLS,Seattle Sounders FC,24,Stefan Frei,G,40,USA,29,,0,0,0,83,36,2025
+MLS,Seattle Sounders FC,26,Andy Thomas,G,27,USA,9,,0,0,0,29,17,2025
+MLS,Seattle Sounders FC,50,Max Anchor,G,22,Canada,,,,,,,,2025
+MLS,Seattle Sounders FC,20,Kim Kee-Hee,D,37,South Korea,15,0,0,3,0,,,2025
+MLS,Seattle Sounders FC,28,Yeimar Gómez,D,34,Colombia,27,0,1,4,0,,,2025
+MLS,Seattle Sounders FC,5,Nouhou Tolo,D,29,Cameroon,30,1,3,5,2,,,2025
+MLS,Seattle Sounders FC,25,Jackson Ragen,D,27,USA,27,2,1,7,0,,,2025
+MLS,Seattle Sounders FC,16,Alex Roldan,D,29,El Salvador,32,0,5,2,0,,,2025
+MLS,Seattle Sounders FC,35,Antino Lopez,D,24,USA,1,0,0,0,0,,,2025
+MLS,Seattle Sounders FC,4,Ryan Sailor,D,27,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,39,Stuart Hawkins,D,19,USA,4,0,0,0,0,,,2025
+MLS,Seattle Sounders FC,53,Gallatin Sandnes,D,18,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,11,Albert Rusnák,M,32,Slovakia,,,,,,,,2025
+MLS,Seattle Sounders FC,7,Cristian Roldan,M,31,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,31,Hassani Dotson,M,28,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,45,Peter Kingston,M,25,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,85,Kalani Kossa-Rienzi,M,24,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,44,Nikola Petkovic,M,23,Serbia,,,,,,,,2025
+MLS,Seattle Sounders FC,37,Snyder Brunell,M,19,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,90,Sebastian Gomez,M,20,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,17,Paul Arriola,F,31,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,29,Jacob Castro,G,26,USA,0,,0,0,0,0,0,2025
+MLS,Seattle Sounders FC,41,Mohammed Shour,G,18,USA,,,,,,,,2025
+MLS,Seattle Sounders FC,15,Jon Bell,D,28,Jamaica,21,0,0,1,1,,,2025
+MLS,Seattle Sounders FC,4,Leo Burney,D,24,USA,,,,,,,,2025
+MLS,Sporting Kansas City,30,Stefan Cleveland,G,32,USA,,,,,,,,2025
+MLS,Sporting Kansas City,1,John Pulskamp,G,25,USA,34,,2,3,0,120,70,2025
+MLS,Sporting Kansas City,36,Ryan Schewe,G,24,USA,0,,0,0,0,0,0,2025
+MLS,Sporting Kansas City,12,Jack Kortkamp,G,18,USA,,,,,,,,2025
+MLS,Sporting Kansas City,2,Ian James,D,18,USA,8,0,0,1,0,,,2025
+MLS,Sporting Kansas City,22,Zorhan Bassong,D,27,Canada,25,1,3,8,0,,,2025
+MLS,Sporting Kansas City,15,Jansen Miller,D,24,USA,29,0,1,2,0,,,2025
+MLS,Sporting Kansas City,99,Jayden Reid,G,18,Scotland,,,,,,,,2025
+MLS,Sporting Kansas City,23,Ethan Bartlow,D,26,USA,,,,,,,,2025
+MLS,Sporting Kansas City,,Or Blorian,D,26,Israel,,,,,,,,2025
+MLS,Sporting Kansas City,13,Justin Reynolds,D,21,USA,,,,,,,,2025
+MLS,Sporting Kansas City,57,Diego Borges,D,21,Brazil,,,,,,,,2025
+MLS,Sporting Kansas City,28,Wyatt Meyer,D,25,USA,,,,,,,,2025
+MLS,Sporting Kansas City,16,Jacob Bartlett,D,20,USA,30,0,1,8,0,,,2025
+MLS,Sporting Kansas City,41,Pierre Lurot,D,24,France,,,,,,,,2025
+MLS,Sporting Kansas City,6,Manu García,M,28,Spain,,,,,,,,2025
+MLS,Sporting Kansas City,4,Lasse Berg Johnsen,M,26,Norway,,,,,,,,2025
+MLS,Sporting Kansas City,8,Jacob Davis,M,24,USA,,,,,,,,2025
+MLS,Sporting Kansas City,14,Cielo Tschantret,M,20,USA,,,,,,,,2025
+MLS,Sporting Kansas City,76,Johann Ortiz,M,19,El Salvador,,,,,,,,2025
+MLS,Sporting Kansas City,88,Shane Donovan,M,19,USA,,,,,,,,2025
+MLS,Sporting Kansas City,,Zamir Loyo Reynaga,,15,,,,,,,,,2025
+MLS,Sporting Kansas City,14,Tim Leibold,D,32,Germany,19,1,3,6,0,,,2025
+MLS,Sporting Kansas City,24,Joaquín,D,30,Spain,17,0,0,6,0,,,2025
+MLS,Sporting Kansas City,3,Andrew Brody,D,31,USA,12,0,1,0,0,,,2025
+MLS,Sporting Kansas City,18,Logan Ndenbe,D,26,Belgium,30,1,0,3,0,,,2025
+MLS,Sporting Kansas City,4,Robert Voloder,D,25,Germany,18,0,0,1,0,,,2025
+MLS,Sporting Kansas City,23,Alán Montes,D,25,Mexico,8,0,0,1,0,,,2025
+MLS,St. Louis City SC,1,Roman Bürki,G,35,Switzerland,25,,1,1,0,89,44,2025
+MLS,St. Louis City SC,39,Benjamin Lundt,G,30,Germany,9,,0,1,0,32,14,2025
+MLS,St. Louis City SC,31,Christian Olivares,G,24,USA,0,,0,0,0,0,0,2025
+MLS,St. Louis City SC,34,Colin Welsh,G,23,USA,,,,,,,,2025
+MLS,St. Louis City SC,32,Timo Baumgartl,D,30,Germany,22,0,1,4,0,,,2025
+MLS,St. Louis City SC,20,Rafael Santos,D,28,Brazil,,,,,,,,2025
+MLS,St. Louis City SC,14,Tomas Totland,D,26,Norway,17,0,1,0,0,,,2025
+MLS,St. Louis City SC,99,Jaziel Orozco,D,22,USA,7,1,0,1,0,,,2025
+MLS,St. Louis City SC,22,Kyle Hiebert,D,28,Canada,22,1,1,3,0,,,2025
+MLS,St. Louis City SC,5,Lukas MacNaughton,D,31,Canada,,,,,,,,2025
+MLS,St. Louis City SC,27,Fallou Fall,D,22,Senegal,,,,,,,,2025
+MLS,St. Louis City SC,4,Mamadou Fall,D,23,Senegal,,,,,,,,2025
+MLS,St. Louis City SC,10,Eduard Löwen,M,29,Germany,,,,,,,,2025
+MLS,St. Louis City SC,8,Christopher Durkin,M,26,USA,,,,,,,,2025
+MLS,St. Louis City SC,17,Marcel Hartel,M,30,Germany,,,,,,,,2025
+MLS,St. Louis City SC,,Alexandru Matan,M,26,Romania,,,,,,,,2025
+MLS,St. Louis City SC,7,Tomas Ostrak,M,26,Czechia,,,,,,,,2025
+MLS,St. Louis City SC,21,Dante Polvara,M,26,USA,,,,,,,,2025
+MLS,St. Louis City SC,24,Daniel Edelman,M,23,USA,,,,,,,,2025
+MLS,St. Louis City SC,6,Conrad Wallem,M,26,Norway,,,,,,,,2025
+MLS,St. Louis City SC,28,Miguel Perez,,21,USA,,,,,,,,2025
+MLS,St. Louis City SC,15,Joshua Yaro,D,31,Ghana,18,1,0,1,0,,,2025
+MLS,St. Louis City SC,20,Akil Watts,D,26,USA,22,1,0,1,0,,,2025
+MLS,St. Louis City SC,5,Henry Kessler,D,28,USA,17,0,1,2,0,,,2025
+MLS,St. Louis City SC,99,Jayden Reid,G,18,Scotland,8,,0,3,0,0,14,2025
+MLS,St. Louis City SC,13,Michael Wentzel,D,24,USA,2,0,0,1,0,,,2025
+MLS,St. Louis City SC,,Devin Padelford,,23,,,,,,,,,2025
+MLS,Toronto FC,23,William Yarbrough,G,37,USA,,,,,,,,2025
+MLS,Toronto FC,1,Luka Gavran,G,26,Canada,3,,0,0,0,6,3,2025
+MLS,Toronto FC,77,Adisa De Rosario,G,21,Canada,0,,0,0,0,0,0,2025
+MLS,Toronto FC,25,Walker Zimmerman,D,33,USA,,,,,,,,2025
+MLS,Toronto FC,13,Benjamín Kuscevic,D,30,Chile,,,,,,,,2025
+MLS,Toronto FC,22,Richie Laryea,D,31,Canada,17,1,1,4,0,,,2025
+MLS,Toronto FC,44,Raheem Edwards,D,23,Jamaica,,,,,,,,2025
+MLS,Toronto FC,19,Kobe Franklin,D,23,Canada,15,0,0,2,0,,,2025
+MLS,Toronto FC,3,Matheus Pereira,D,25,Brazil,,,,,,,,2025
+MLS,Toronto FC,12,Zane Monlouis,D,22,Jamaica,10,0,0,0,0,,,2025
+MLS,Toronto FC,15,Nickseon Gomis,D,24,France,6,0,0,0,0,,,2025
+MLS,Toronto FC,38,Jackson Gilman,D,22,USA,,,,,,,,2025
+MLS,Toronto FC,76,Lazar Stefanovic,D,19,Canada,14,0,0,0,0,,,2025
+MLS,Toronto FC,96,Richard Chukwu,D,18,Canada,,,,,,,,2025
+MLS,Toronto FC,75,Reid Fisher,D,22,USA,,,,,,,,2025
+MLS,Toronto FC,98,Stefan Kapor,D,17,Canada,,,,,,,,2025
+MLS,Toronto FC,73,Micah Chisholm,D,21,Canada,,,,,,,,2025
+MLS,Toronto FC,74,Luca Costabile,D,24,Denmark,,,,,,,,2025
+MLS,Toronto FC,,Nelson Palacio,M,25,Colombia,,,,,,,,2025
+MLS,Toronto FC,21,Jonathan Osorio,M,34,Canada,,,,,,,,2025
+MLS,Toronto FC,10,Djordje Mihailovic,M,27,USA,,,,,,,,2025
+MLS,Toronto FC,,Malik Henry,,,,,,,,,,,2025
+MLS,Toronto FC,1,Sean Johnson,G,37,USA,31,,0,1,0,111,41,2025
+MLS,Toronto FC,5,Kevin Long,D,35,Republic of Ireland,24,0,0,6,0,,,2025
+MLS,Toronto FC,2,Henry Wingo,D,30,USA,6,0,0,0,0,,,2025
+MLS,Toronto FC,17,Sigurd Rosted,D,32,Norway,31,1,1,2,0,,,2025
+MLS,Toronto FC,28,Raoul Petretta,D,29,Italy,25,0,0,6,0,,,2025
+MLS,Vancouver Whitecaps,30,Adrián Zendejas,G,30,USA,0,,0,0,0,0,0,2025
+MLS,Vancouver Whitecaps,32,Isaac Boehmer,G,24,Canada,0,,0,0,0,0,0,2025
+MLS,Vancouver Whitecaps,15,Sebastian Schonlau,D,31,Germany,0,0,0,0,0,,,2025
+MLS,Vancouver Whitecaps,3,Sam Adekugbe,D,31,Canada,7,2,0,0,0,,,2025
+MLS,Vancouver Whitecaps,2,Mathías Laborda,D,26,Uruguay,32,6,2,6,1,,,2025
+MLS,Vancouver Whitecaps,4,Ranko Veselinovic,D,27,Serbia,21,0,0,1,0,,,2025
+MLS,Vancouver Whitecaps,28,Tate Johnson,D,21,USA,32,1,2,5,0,,,2025
+MLS,Vancouver Whitecaps,18,Édier Ocampo,D,22,Colombia,,,,,,,,2025
+MLS,Vancouver Whitecaps,12,Belal Halbouni,D,26,Syria,,,,,,,,2025
+MLS,Vancouver Whitecaps,29,Mihail Gherasimencov,D,21,Moldova,,,,,,,,2025
+MLS,Vancouver Whitecaps,41,Nikola Djordjevic,D,23,USA,,,,,,,,2025
+MLS,Vancouver Whitecaps,25,Ryan Gauld,M,30,Scotland,,,,,,,,2025
+MLS,Vancouver Whitecaps,20,Andrés Cubas,M,30,Paraguay,,,,,,,,2025
+MLS,Vancouver Whitecaps,26,Jean-Claude Ngando,M,26,France,,,,,,,,2025
+MLS,Vancouver Whitecaps,6,Ralph Priso-Mbongue,M,23,Canada,,,,,,,,2025
+MLS,Vancouver Whitecaps,8,Oliver Larraz,M,24,USA,,,,,,,,2025
+MLS,Vancouver Whitecaps,97,Liam Mackenzie,M,19,Canada,,,,,,,,2025
+MLS,Vancouver Whitecaps,59,Jeevan Badwal,M,20,Canada,,,,,,,,2025
+MLS,Vancouver Whitecaps,13,Thomas Müller,F,36,Germany,,,,,,,,2025
+MLS,Vancouver Whitecaps,11,Emmanuel Sabbi,F,28,USA,,,,,,,,2025
+MLS,Vancouver Whitecaps,,Cheick Sabaly,,27,,,,,,,,,2025
+MLS,Vancouver Whitecaps,1,Yohei Takaoka,G,30,Japan,39,,1,1,0,99,45,2025
+MLS,Vancouver Whitecaps,50,Max Anchor,G,22,Canada,0,,0,0,0,0,0,2025
+MLS,Vancouver Whitecaps,23,Joederik Pupe,D,29,Belgium,2,0,0,0,0,,,2025
+MLS,Vancouver Whitecaps,33,Tristan Blackmon,D,29,USA,27,2,1,5,1,,,2025
+MLS,Vancouver Whitecaps,27,Giuseppe Bovalina,D,21,Australia,8,0,2,0,0,,,2025
+MLS,Vancouver Whitecaps,,Ali Ahmed,,25,,,,,,,,,2025
+MLS,Chicago Fire FC,44,Josh Cohen,G,33,USA,,,,,,,,2025
+MLS,Chicago Fire FC,1,Chris Brady,G,22,USA,30,,0,3,1,96,54,2025
+MLS,Chicago Fire FC,25,Jeff Gal,G,33,USA,8,,0,0,0,9,12,2025
+MLS,Chicago Fire FC,22,Mauricio Pineda,D,28,USA,30,0,2,7,0,,,2025
+MLS,Chicago Fire FC,3,Jack Elliott,D,30,England,36,4,3,8,0,,,2025
+MLS,Chicago Fire FC,16,Joel Waterman,D,30,Canada,27,1,1,10,1,,,2025
+MLS,Chicago Fire FC,15,Andrew Gutman,D,29,USA,37,3,10,5,0,,,2025
+MLS,Chicago Fire FC,5,Samual Rogers,D,27,USA,23,0,0,6,0,,,2025
+MLS,Chicago Fire FC,24,Jonathan Dean,D,29,USA,,,,,,,,2025
+MLS,Chicago Fire FC,14,Viktor Radojevic,D,22,Serbia,,,,,,,,2025
+MLS,Chicago Fire FC,38,Christopher Cupps,D,18,USA,4,,0,1,0,,,2025
+MLS,Chicago Fire FC,30,Jack Sandmeyer,D,23,USA,,,,,,,,2025
+MLS,Chicago Fire FC,2,Leonardo Barroso,D,21,Portugal,,,,,,,,2025
+MLS,Chicago Fire FC,4,Mbekezeli Mbokazi,D,20,South Africa,,,,,,,,2025
+MLS,Chicago Fire FC,6,Anton Saletros,M,30,Sweden,,,,,,,,2025
+MLS,Chicago Fire FC,17,Robin Lod,M,33,Finland,,,,,,,,2025
+MLS,Chicago Fire FC,7,Maren Haile-Selassie,M,27,Switzerland,,,,,,,,2025
+MLS,Chicago Fire FC,10,André Franco,M,28,Portugal,,,,,,,,2025
+MLS,Chicago Fire FC,35,Sergio Oregel,M,21,USA,,,,,,,,2025
+MLS,Chicago Fire FC,42,D'Avilla Dje Tah,M,23,,,,,,,,,2025
+MLS,Chicago Fire FC,29,David Poreba,M,23,Poland,,,,,,,,2025
+MLS,Chicago Fire FC,,Robert Turdean,,,,,,,,,,,2025
+MLS,Chicago Fire FC,31,Bryan Dowd,G,24,USA,0,,0,0,0,0,0,2025
+MLS,Chicago Fire FC,34,Omar González,D,37,USA,12,0,0,3,0,,,2025
+MLS,Chicago Fire FC,77,Chase Gasper,D,30,USA,0,0,0,0,0,,,2025
+MLS,Chicago Fire FC,36,Justin Reynolds,D,21,USA,4,1,0,0,0,,,2025

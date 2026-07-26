@@ -1,0 +1,606 @@
+League,Team,Number,Player,Position,Age,Nationality,Season_Apps,Season_Goals,Season_Assists,Season_YellowCards,Season_RedCards,Season_Saves,Season_GoalsConceded,Season_Label
+Premier League,AFC Bournemouth,1,Djordje Petrovic,G,26,Serbia,38,,0,3,0,109,54,2025-26
+Premier League,AFC Bournemouth,17,Fraser Forster,G,38,England,0,,0,0,0,0,0,2025-26
+Premier League,AFC Bournemouth,29,Christos Mandas,G,24,Greece,0,,0,0,0,0,0,2025-26
+Premier League,AFC Bournemouth,3,Adrien Truffert,D,24,France,38,1,5,5,0,,,2025-26
+Premier League,AFC Bournemouth,5,Marcos Senesi,D,29,Argentina,37,0,5,8,0,,,2025-26
+Premier League,AFC Bournemouth,6,Julio Soler,D,21,Argentina,3,0,0,0,0,,,2025-26
+Premier League,AFC Bournemouth,15,Adam Smith,D,35,England,22,0,2,3,0,,,2025-26
+Premier League,AFC Bournemouth,18,Bafodé Diakité,D,25,France,18,0,0,1,0,,,2025-26
+Premier League,AFC Bournemouth,20,Álex Jiménez,D,21,Spain,31,1,0,10,0,,,2025-26
+Premier League,AFC Bournemouth,23,James Hill,D,24,England,29,0,3,5,0,,,2025-26
+Premier League,AFC Bournemouth,35,Owen Bevan,D,22,Wales,0,0,0,0,0,,,2025-26
+Premier League,AFC Bournemouth,44,Veljko Milosavljevic,D,18,Serbia,7,0,0,0,0,,,2025-26
+Premier League,AFC Bournemouth,45,Matai Akinmboni,D,19,USA,0,0,0,0,0,,,2025-26
+Premier League,AFC Bournemouth,4,Lewis Cook,M,29,England,18,0,1,1,1,,,2025-26
+Premier League,AFC Bournemouth,7,David Brooks,M,28,Wales,31,1,3,7,0,,,2025-26
+Premier League,AFC Bournemouth,8,Alex Scott,M,22,England,38,3,1,5,0,,,2025-26
+Premier League,AFC Bournemouth,10,Ryan Christie,M,31,Scotland,26,2,0,3,1,,,2025-26
+Premier League,AFC Bournemouth,12,Tyler Adams,M,27,USA,25,2,2,8,0,,,2025-26
+Premier League,AFC Bournemouth,16,Marcus Tavernier,M,27,England,34,7,4,6,0,,,2025-26
+Premier League,AFC Bournemouth,27,Alex Tóth,M,20,Hungary,9,0,0,1,0,,,2025-26
+Premier League,AFC Bournemouth,51,Malcom Dacosta,M,18,Ecuador,0,0,0,0,0,,,2025-26
+Premier League,AFC Bournemouth,53,Charlie Stevens,M,19,Wales,0,0,0,0,0,,,2025-26
+Premier League,AFC Bournemouth,9,Evanilson,F,26,Brazil,36,6,1,2,0,,,2025-26
+Premier League,AFC Bournemouth,11,Ben Gannon-Doak,F,20,Scotland,8,0,1,0,0,,,2025-26
+Premier League,AFC Bournemouth,19,Justin Kluivert,F,27,Netherlands,20,2,0,5,0,,,2025-26
+Premier League,AFC Bournemouth,21,Amine Adli,F,26,Morocco,31,3,1,2,0,,,2025-26
+Premier League,AFC Bournemouth,22,Junior Kroupi,F,19,France,33,13,0,5,0,,,2025-26
+Premier League,AFC Bournemouth,26,Enes Ünal,F,29,Türkiye,23,1,0,1,0,,,2025-26
+Premier League,AFC Bournemouth,37,Rayan,F,19,Brazil,15,5,2,1,0,,,2025-26
+Premier League,AFC Bournemouth,50,Remy Rees-Dottin,F,20,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,1,David Raya,G,30,Spain,37,,0,1,0,60,26,2025-26
+Premier League,Arsenal,13,Kepa Arrizabalaga,G,31,Spain,1,,0,0,0,2,1,2025-26
+Premier League,Arsenal,35,Tommy Setford,G,20,England,0,,0,0,0,0,0,2025-26
+Premier League,Arsenal,51,Alexei Rojas,G,20,Colombia,0,,0,0,0,0,0,2025-26
+Premier League,Arsenal,78,Jack Porter,G,17,England,0,,0,0,0,0,0,2025-26
+Premier League,Arsenal,79,Khari Ranson,G,18,England,0,,0,0,0,0,0,2025-26
+Premier League,Arsenal,2,William Saliba,D,25,France,31,1,0,2,0,,,2025-26
+Premier League,Arsenal,3,Cristhian Mosquera,D,22,Spain,20,0,0,4,0,,,2025-26
+Premier League,Arsenal,4,Ben White,D,28,England,12,0,1,0,0,,,2025-26
+Premier League,Arsenal,5,Piero Hincapié,D,24,Ecuador,25,1,2,2,0,,,2025-26
+Premier League,Arsenal,6,Gabriel Magalhães,D,28,Brazil,32,3,4,4,0,,,2025-26
+Premier League,Arsenal,12,Jurriën Timber,D,25,Netherlands,30,3,5,5,0,,,2025-26
+Premier League,Arsenal,33,Riccardo Calafiori,D,24,Italy,27,1,2,5,0,,,2025-26
+Premier League,Arsenal,48,Josh Nichols,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,49,Myles Lewis-Skelly,D,19,England,20,0,0,3,0,,,2025-26
+Premier League,Arsenal,52,Jaden Dixon,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,89,Marli Salmon,D,16,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,8,Martin Ødegaard,M,27,Norway,24,1,6,0,0,,,2025-26
+Premier League,Arsenal,10,Eberechi Eze,M,28,England,33,7,2,1,0,,,2025-26
+Premier League,Arsenal,16,Christian Nørgaard,M,32,Denmark,7,0,0,0,0,,,2025-26
+Premier League,Arsenal,23,Mikel Merino,M,30,Spain,22,4,3,1,0,,,2025-26
+Premier League,Arsenal,36,Martín Zubimendi,M,27,Spain,38,5,1,4,0,,,2025-26
+Premier League,Arsenal,39,Harrison Dudziak,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,41,Declan Rice,M,27,England,36,4,5,3,0,,,2025-26
+Premier League,Arsenal,56,Max Dowman,M,16,England,6,1,0,0,0,,,2025-26
+Premier League,Arsenal,72,Ife Ibrahim,M,18,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,7,Bukayo Saka,F,24,England,32,7,5,2,0,,,2025-26
+Premier League,Arsenal,9,Gabriel Jesus,F,29,Brazil,14,3,0,3,0,,,2025-26
+Premier League,Arsenal,11,Gabriel Martinelli,F,25,Brazil,30,1,4,3,0,,,2025-26
+Premier League,Arsenal,14,Viktor Gyökeres,F,28,Sweden,36,14,1,5,0,,,2025-26
+Premier League,Arsenal,19,Leandro Trossard,F,31,Belgium,31,6,6,2,0,,,2025-26
+Premier League,Arsenal,20,Noni Madueke,F,24,England,26,3,1,0,0,,,2025-26
+Premier League,Arsenal,29,Kai Havertz,F,27,Germany,12,2,3,1,0,,,2025-26
+Premier League,Arsenal,71,Andre Annous,F,18,England,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,76,Ceadach O'Neill,F,18,Northern Ireland,0,0,0,0,0,,,2025-26
+Premier League,Arsenal,81,Brando Bailey-Joseph,F,17,England,0,0,0,0,0,,,2025-26
+Premier League,Aston Villa,23,Emiliano Martínez,G,33,Argentina,0,,0,0,0,0,0,2026-27
+Premier League,Aston Villa,40,Marco Bizot,G,35,Netherlands,0,,0,0,0,0,0,2026-27
+Premier League,Aston Villa,60,Ronnie Hollingshead,G,21,Wales,0,,0,0,0,0,0,2026-27
+Premier League,Aston Villa,2,Matty Cash,D,28,Poland,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,3,Victor Lindelöf,D,31,Sweden,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,4,Ezri Konsa,D,28,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,5,Tyrone Mings,D,33,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,12,Lucas Digne,D,32,France,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,14,Pau Torres,D,29,Spain,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,16,Andrés García,D,23,Spain,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,22,Ian Maatsen,D,24,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,,Modou Cissé,M,20,Senegal,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,6,Ross Barkley,M,32,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,7,John McGinn,M,31,Scotland,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,8,Youri Tielemans,M,29,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,10,Emiliano Buendía,M,29,Argentina,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,24,Amadou Onana,M,24,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,26,Lamare Bogarde,M,22,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,31,Leon Bailey,M,28,Jamaica,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,44,Boubacar Kamara,M,26,France,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,11,Ollie Watkins,F,30,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,18,Tammy Abraham,F,28,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,27,Morgan Rogers,F,23,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,30,Brian Madjo,F,17,England,0,0,0,0,0,,,2026-27
+Premier League,Aston Villa,47,Alysson,F,20,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Brentford,1,Caoimhín Kelleher,G,27,Republic of Ireland,31,,0,1,0,86,41,2025-26
+Premier League,Brentford,12,Hákon Valdimarsson,G,24,Iceland,1,,0,0,0,1,3,2025-26
+Premier League,Brentford,31,Ellery Balcombe,G,26,England,0,,0,0,0,0,0,2025-26
+Premier League,Brentford,41,Julian Eyestone,G,19,USA,0,,0,0,0,0,0,2025-26
+Premier League,Brentford,2,Aaron Hickey,D,23,Scotland,18,0,5,1,0,,,2025-26
+Premier League,Brentford,3,Rico Henry,D,28,Jamaica,25,0,5,2,0,,,2025-26
+Premier League,Brentford,4,Sepp van den Berg,D,24,Netherlands,27,0,1,1,0,,,2025-26
+Premier League,Brentford,5,Ethan Pinnock,D,32,Jamaica,4,0,0,1,0,,,2025-26
+Premier League,Brentford,20,Kristoffer Ajer,D,27,Norway,24,0,1,3,0,,,2025-26
+Premier League,Brentford,22,Nathan Collins,D,24,Republic of Ireland,29,1,2,5,0,,,2025-26
+Premier League,Brentford,33,Michael Kayode,D,21,Italy,31,1,1,6,0,,,2025-26
+Premier League,Brentford,49,Ollie Shield,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Brentford,50,Joshua Stephenson,D,18,England,0,0,0,0,0,,,2025-26
+Premier League,Brentford,51,Conor Mcmanus,D,21,Scotland,0,0,0,0,0,,,2025-26
+Premier League,Brentford,6,Jordan Henderson,M,35,England,29,1,3,4,0,,,2025-26
+Premier League,Brentford,7,Kevin Schade,M,24,Germany,29,7,3,6,1,,,2025-26
+Premier League,Brentford,8,Mathias Jensen,M,30,Denmark,30,2,1,3,0,,,2025-26
+Premier League,Brentford,10,Josh Dasilva,M,27,England,0,0,0,0,0,,,2025-26
+Premier League,Brentford,14,Fábio Carvalho,M,23,Portugal,6,1,0,0,0,,,2025-26
+Premier League,Brentford,17,Antoni Milambo,M,21,Netherlands,1,0,0,0,0,,,2025-26
+Premier League,Brentford,18,Yehor Yarmoliuk,M,22,Ukraine,32,1,2,7,0,,,2025-26
+Premier League,Brentford,24,Mikkel Damsgaard,M,25,Denmark,27,3,4,0,0,,,2025-26
+Premier League,Brentford,27,Vitaly Janelt,M,27,Germany,22,1,4,7,0,,,2025-26
+Premier League,Brentford,45,Romelle Donovan,M,19,England,4,0,0,0,0,,,2025-26
+Premier League,Brentford,48,Luka Bentt,M,18,Belgium,0,0,0,0,0,,,2025-26
+Premier League,Brentford,52,Riley Owen,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Brentford,9,Igor Thiago,F,24,Brazil,32,21,1,6,0,,,2025-26
+Premier League,Brentford,11,Reiss Nelson,F,26,England,8,0,0,0,0,,,2025-26
+Premier League,Brentford,19,Dango Ouattara,F,24,Burkina Faso,26,5,3,4,0,,,2025-26
+Premier League,Brentford,23,Keane Lewis-Potter,F,25,England,30,3,2,1,0,,,2025-26
+Premier League,Brentford,47,Kaye Furo,F,19,Belgium,0,0,0,0,0,,,2025-26
+Premier League,Brighton & Hove Albion,,Carl Rushworth,G,25,England,0,,0,0,0,0,0,2026-27
+Premier League,Brighton & Hove Albion,1,Bart Verbruggen,G,23,Netherlands,0,,0,0,0,0,0,2026-27
+Premier League,Brighton & Hove Albion,23,Jason Steele,G,35,England,0,,0,0,0,0,0,2026-27
+Premier League,Brighton & Hove Albion,38,Tom McGill,G,26,Canada,0,,0,0,0,0,0,2026-27
+Premier League,Brighton & Hove Albion,,Pascal Struijk,D,26,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Costinha,D,26,Portugal,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Michael Svoboda,D,27,Austria,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Eiran Cashin,D,24,England,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Diego Coppola,D,22,Italy,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,3,Igor Julio,D,28,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,5,Lewis Dunk,D,34,England,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,21,Olivier Boscagli,D,28,France,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,24,Ferdi Kadioglu,D,26,Türkiye,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,29,Maxim De Cuyper,D,25,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Facundo Buonanotte,M,21,Argentina,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Amario Cozier-Duberry,M,21,England,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Malick Yalcouyé,M,20,Mali,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Zadok Yohanna,M,19,Nigeria,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,13,Jack Hinshelwood,M,21,England,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,17,Carlos Baleba,M,22,Cameroon,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,22,Kaoru Mitoma,M,29,Japan,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,25,Diego Gómez,M,23,Paraguay,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,26,Yasin Ayari,M,22,Sweden,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,27,Mats Wieffer,M,26,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,30,Pascal Gross,M,35,Germany,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,33,Matt O'Riley,M,25,Denmark,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Evan Ferguson,F,21,Republic of Ireland,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Brajan Gruda,F,22,Germany,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Mark O'Mahony,F,21,Republic of Ireland,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Ibrahim Osman,F,21,Ghana,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Yoon Do-Yong,F,19,South Korea,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Tom Watson,F,20,England,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,,Rodrigo Rêgo,F,21,Portugal,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,9,Stefanos Tzimas,F,20,Greece,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,10,Georginio Rutter,F,24,France,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,11,Yankuba Minteh,F,21,Gambia,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,18,Danny Welbeck,F,35,England,0,0,0,0,0,,,2026-27
+Premier League,Brighton & Hove Albion,19,Charalambos Kostoulas,F,19,Greece,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,1,Robert Sánchez,G,28,Spain,0,,0,0,0,0,0,2026-27
+Premier League,Chelsea,12,Filip Jørgensen,G,24,Denmark,0,,0,0,0,0,0,2026-27
+Premier League,Chelsea,28,Teddy Sharman-Lowe,G,23,England,0,,0,0,0,0,0,2026-27
+Premier League,Chelsea,44,Gaga Slonina,G,22,USA,0,,0,0,0,0,0,2026-27
+Premier League,Chelsea,50,Max Merrick,G,20,England,0,,0,0,0,0,0,2026-27
+Premier League,Chelsea,4,Tosin Adarabioyo,D,28,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,5,Benoît Badiashile,D,25,France,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,6,Levi Colwill,D,23,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,19,Mamadou Sarr,D,20,Senegal,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,21,Jorrel Hato,D,20,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,23,Trevoh Chalobah,D,26,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,24,Reece James,D,26,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,27,Malo Gusto,D,23,France,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,29,Wesley Fofana,D,25,France,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,34,Josh Acheampong,D,20,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,56,Landon Emenalo,D,18,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,,Mykhailo Mudryk,M,25,Ukraine,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,,Geovany Quenda,M,19,Portugal,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,8,Enzo Fernández,M,25,Argentina,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,10,Cole Palmer,M,24,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,14,Dário Essugo,M,21,Portugal,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,17,Andrey Santos,M,22,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,25,Moisés Caicedo,M,24,Ecuador,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,45,Romeo Lavia,M,22,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,46,Reggie Walsh,M,17,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,58,Ollie Harrison,M,18,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,72,Mathis Eboue,M,17,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,75,Charlie Holland,M,16,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,,Emmanuel Emegha,F,23,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,7,Pedro Neto,F,26,Portugal,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,9,Liam Delap,F,23,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,11,Jamie Gittens,F,21,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,20,João Pedro,F,24,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,38,Marc Guiu,F,20,Spain,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,41,Estêvão,F,19,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,49,Alejandro Garnacho,F,21,Argentina,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,55,Jesse Derry,F,19,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,62,Shim Mheuka,F,18,England,0,0,0,0,0,,,2026-27
+Premier League,Chelsea,76,Ryan Kavuma-Mcqueen,F,17,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,1,Oliver Dovin,G,24,Sweden,0,,0,0,0,0,0,2026-27
+Premier League,Coventry City,,Harvey Broad,D,20,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,3,Jay Da Silva,D,28,Wales,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,4,Bobby Thomas,D,25,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,15,Liam Kitching,D,26,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,20,Kaine Kesler Hayden,D,23,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,21,Jake Bidwell,D,33,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,22,Joel Latibeaudiere,D,26,Jamaica,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,26,Luke Woolfenden,D,27,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,27,Milan van Ewijk,D,25,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,33,Miguel Ángel Brau,D,24,Spain,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,,Frank Onyeka,M,28,Nigeria,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,,Kai Andrews,M,19,Wales,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,5,Jack Rudoni,M,25,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,6,Matt Grimes,M,30,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,7,Tatsuhiro Sakamoto,M,29,Japan,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,28,Josh Eccles,M,26,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,29,Victor Torp,M,26,Denmark,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,,Raphael Borges Rodrigues,F,22,Australia,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,,Norman Bassette,F,21,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,,Aidan Dausch,F,20,USA,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,9,Ellis Simms,F,25,England,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,10,Ephron Mason-Clark,F,26,Jamaica,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,11,Haji Wright,F,28,USA,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,13,Ben Wilson,F,24,Northern Ireland,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,23,Brandon Thomas-Asante,F,27,Ghana,0,0,0,0,0,,,2026-27
+Premier League,Coventry City,24,Jahnoah Markelo,F,23,Suriname,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,,Joseph Whitworth,G,22,England,0,,0,0,0,0,0,2026-27
+Premier League,Crystal Palace,,Owen Goodman,G,22,Canada,0,,0,0,0,0,0,2026-27
+Premier League,Crystal Palace,1,Dean Henderson,G,29,England,0,,0,0,0,0,0,2026-27
+Premier League,Crystal Palace,31,Remi Matthews,G,32,England,0,,0,0,0,0,0,2026-27
+Premier League,Crystal Palace,44,Walter Benítez,G,33,Argentina,0,,0,0,0,0,0,2026-27
+Premier League,Crystal Palace,,Danny Imray,D,22,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,,Tayo Adaramola,D,22,Republic of Ireland,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,2,Daniel Muñoz,D,30,Colombia,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,3,Tyrick Mitchell,D,26,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,5,Maxence Lacroix,D,26,France,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,17,Nathaniel Clyne,D,35,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,23,Jaydee Canvot,D,19,France,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,24,Borna Sosa,D,28,Croatia,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,26,Chris Richards,D,26,USA,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,,Jesurun Rak-Sakyi,M,23,Ghana,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,,David Ozoh,M,21,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,,Romain Esse,M,21,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,8,Jefferson Lerma,M,31,Colombia,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,10,Yéremy Pino,M,23,Spain,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,18,Daichi Kamada,M,29,Japan,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,19,Will Hughes,M,31,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,20,Adam Wharton,M,22,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,55,Justin Devenny,M,22,Northern Ireland,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,,Matheus França,F,22,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,7,Ismaïla Sarr,F,28,Senegal,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,9,Eddie Nketiah,F,27,England,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,11,Brennan Johnson,F,25,Wales,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,14,Jean-Philippe Mateta,F,29,France,0,0,0,0,0,,,2026-27
+Premier League,Crystal Palace,22,Jørgen Strand Larsen,F,26,Norway,0,0,0,0,0,,,2026-27
+Premier League,Everton,1,Jordan Pickford,G,32,England,38,,0,4,0,100,50,2025-26
+Premier League,Everton,12,Mark Travers,G,27,Republic of Ireland,0,,0,0,0,0,0,2025-26
+Premier League,Everton,31,Tom King,G,31,Wales,0,,0,0,0,0,0,2025-26
+Premier League,Everton,2,Nathan Patterson,D,24,Scotland,7,0,0,0,0,,,2025-26
+Premier League,Everton,5,Michael Keane,D,33,England,33,3,1,1,1,,,2025-26
+Premier League,Everton,6,James Tarkowski,D,33,England,37,2,3,8,0,,,2025-26
+Premier League,Everton,15,Jake O'Brien,D,25,Republic of Ireland,37,1,1,6,1,,,2025-26
+Premier League,Everton,16,Vitaliy Mykolenko,D,27,Ukraine,33,0,1,6,0,,,2025-26
+Premier League,Everton,23,Seamus Coleman,D,37,Republic of Ireland,5,0,0,0,0,,,2025-26
+Premier League,Everton,32,Jarrad Branthwaite,D,23,England,10,1,0,1,0,,,2025-26
+Premier League,Everton,39,Adam Aznou,D,20,Morocco,0,0,0,0,0,,,2025-26
+Premier League,Everton,64,Reece Welch,D,22,England,0,0,0,0,0,,,2025-26
+Premier League,Everton,18,Jack Grealish,M,30,England,20,2,6,3,1,,,2025-26
+Premier League,Everton,20,Tyler Dibling,M,20,England,14,0,0,2,0,,,2025-26
+Premier League,Everton,22,Kiernan Dewsbury-Hall,M,27,England,31,8,4,6,0,,,2025-26
+Premier League,Everton,24,Carlos Alcaraz,M,23,Argentina,20,0,1,4,0,,,2025-26
+Premier League,Everton,27,Idrissa Gueye,M,36,Senegal,25,2,3,1,1,,,2025-26
+Premier League,Everton,34,Merlin Röhl,M,23,Germany,16,1,0,0,0,,,2025-26
+Premier League,Everton,37,James Garner,M,25,England,38,2,7,12,0,,,2025-26
+Premier League,Everton,42,Tim Iroegbunam,M,22,England,29,0,2,9,0,,,2025-26
+Premier League,Everton,45,Harrison Armstrong,M,19,England,13,0,0,0,0,,,2025-26
+Premier League,Everton,76,Malik Olayiwola,M,17,England,0,0,0,0,0,,,2025-26
+Premier League,Everton,92,Callum Bates,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Everton,7,Dwight McNeil,F,26,England,22,0,1,1,0,,,2025-26
+Premier League,Everton,9,Beto,F,28,Guinea-Bissau,37,9,1,3,0,,,2025-26
+Premier League,Everton,10,Iliman Ndiaye,F,26,Senegal,32,6,3,2,0,,,2025-26
+Premier League,Everton,11,Thierno Barry,F,23,France,38,8,0,3,0,,,2025-26
+Premier League,Everton,19,Tyrique George,F,20,England,15,0,0,2,0,,,2025-26
+Premier League,Everton,58,Braiden Graham,F,18,Northern Ireland,0,0,0,0,0,,,2025-26
+Premier League,Fulham,1,Bernd Leno,G,34,Germany,0,,0,0,0,0,0,2026-27
+Premier League,Fulham,23,Benjamin Lecomte,G,35,France,0,,0,0,0,0,0,2026-27
+Premier League,Fulham,2,Kenny Tete,D,30,Netherlands,0,0,0,0,0,,,2026-27
+Premier League,Fulham,3,Calvin Bassey,D,26,Nigeria,0,0,0,0,0,,,2026-27
+Premier League,Fulham,5,Joachim Andersen,D,30,Denmark,0,0,0,0,0,,,2026-27
+Premier League,Fulham,15,Jorge Cuenca,D,26,Spain,0,0,0,0,0,,,2026-27
+Premier League,Fulham,21,Timothy Castagne,D,30,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Fulham,31,Issa Diop,D,29,Morocco,0,0,0,0,0,,,2026-27
+Premier League,Fulham,33,Antonee Robinson,D,28,USA,0,0,0,0,0,,,2026-27
+Premier League,Fulham,,Luke Harris,M,21,Wales,0,0,0,0,0,,,2026-27
+Premier League,Fulham,6,Harrison Reed,M,31,England,0,0,0,0,0,,,2026-27
+Premier League,Fulham,10,Tom Cairney,M,35,Scotland,0,0,0,0,0,,,2026-27
+Premier League,Fulham,14,Oscar Bobb,M,22,Norway,0,0,0,0,0,,,2026-27
+Premier League,Fulham,16,Sander Berge,M,28,Norway,0,0,0,0,0,,,2026-27
+Premier League,Fulham,17,Alex Iwobi,M,30,Nigeria,0,0,0,0,0,,,2026-27
+Premier League,Fulham,20,Sasa Lukic,M,29,Serbia,0,0,0,0,0,,,2026-27
+Premier League,Fulham,22,Kevin,M,23,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Fulham,24,Josh King,M,19,England,0,0,0,0,0,,,2026-27
+Premier League,Fulham,30,Ryan Sessegnon,M,26,England,0,0,0,0,0,,,2026-27
+Premier League,Fulham,32,Emile Smith Rowe,M,25,England,0,0,0,0,0,,,2026-27
+Premier League,Fulham,,Jonah Kusi-Asare,F,19,Sweden,0,0,0,0,0,,,2026-27
+Premier League,Fulham,8,Harry Wilson,F,29,Wales,0,0,0,0,0,,,2026-27
+Premier League,Fulham,9,Rodrigo Muniz,F,24,Uruguay,0,0,0,0,0,,,2026-27
+Premier League,Middlesbrough,31,Solomon Brynn,G,25,England,49,,1,1,0,109,50,2025-26
+Premier League,Middlesbrough,32,Joe Wildsmith,G,30,England,7,,0,0,0,9,11,2025-26
+Premier League,Middlesbrough,33,Jon McLaughlin,G,38,Scotland,0,,0,0,0,0,0,2025-26
+Premier League,Middlesbrough,2,Callum Brittain,D,28,England,44,0,5,7,0,,,2025-26
+Premier League,Middlesbrough,3,Matt Targett,D,30,England,45,4,4,5,0,,,2025-26
+Premier League,Middlesbrough,5,Alfie Jones,D,28,Canada,22,1,1,3,1,,,2025-26
+Premier League,Middlesbrough,6,Dael Fry,D,28,England,32,3,0,1,0,,,2025-26
+Premier League,Middlesbrough,12,Luke Ayling,D,34,England,46,1,5,11,0,,,2025-26
+Premier League,Middlesbrough,15,Finley Munroe,D,21,England,3,0,0,0,0,,,2025-26
+Premier League,Middlesbrough,24,Alex Bangura,D,26,Sierra Leone,13,1,1,0,0,,,2025-26
+Premier League,Middlesbrough,25,Sam Edmundson,D,28,England,7,0,0,1,0,,,2025-26
+Premier League,Middlesbrough,26,Darragh Lenihan,D,32,Republic of Ireland,2,0,0,1,0,,,2025-26
+Premier League,Middlesbrough,29,Adilson Malanda,D,24,France,24,0,0,5,0,,,2025-26
+Premier League,Middlesbrough,40,George Mccormick,D,21,England,1,0,0,0,0,,,2025-26
+Premier League,Middlesbrough,7,Hayden Hackney,M,23,England,39,5,7,5,0,,,2025-26
+Premier League,Middlesbrough,8,Riley McGree,M,27,Australia,28,6,3,4,0,,,2025-26
+Premier League,Middlesbrough,16,Alan Browne,M,31,Republic of Ireland,41,4,3,2,0,,,2025-26
+Premier League,Middlesbrough,18,Aidan Morris,M,24,USA,43,0,3,4,0,,,2025-26
+Premier League,Middlesbrough,23,Leo Castledine,M,20,England,11,1,0,0,0,,,2025-26
+Premier League,Middlesbrough,28,Law Mccabe,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Middlesbrough,36,Finley Cartwright,M,19,England,0,0,0,0,0,,,2025-26
+Premier League,Middlesbrough,45,Jeremy Sarmiento,M,24,Ecuador,20,0,0,1,0,,,2025-26
+Premier League,Middlesbrough,9,Tommy Conway,F,23,Scotland,48,13,5,7,0,,,2025-26
+Premier League,Middlesbrough,11,Morgan Whittaker,F,25,England,43,14,7,4,0,,,2025-26
+Premier League,Middlesbrough,13,David Strelec,F,25,Slovakia,35,8,1,2,0,,,2025-26
+Premier League,Middlesbrough,14,Alex Gilbert,F,24,England,21,1,1,5,0,,,2025-26
+Premier League,Middlesbrough,17,Micah Hamilton,F,22,England,4,0,0,0,0,,,2025-26
+Premier League,Middlesbrough,20,Mamadou Kaly Sene,F,25,Senegal,28,2,0,2,0,,,2025-26
+Premier League,Middlesbrough,22,Samuel Silvera,F,25,Australia,22,2,1,3,0,,,2025-26
+Premier League,Middlesbrough,27,Sontje Hansen,F,24,Curaçao,19,1,0,1,0,,,2025-26
+Premier League,Middlesbrough,44,Cruz Ibeh,F,17,England,2,0,0,0,0,,,2025-26
+Premier League,Leeds United,1,Lucas Perri,G,28,Brazil,0,,0,0,0,0,0,2026-27
+Premier League,Leeds United,26,Karl Darlow,G,35,Wales,0,,0,0,0,0,0,2026-27
+Premier League,Leeds United,,Maximilian Wöber,D,28,Austria,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,,Isaac Schmidt,D,26,Switzerland,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,2,Jayden Bogle,D,25,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,3,Gabriel Gudmundsson,D,27,Sweden,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,6,Joe Rodon,D,28,Wales,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,15,Jaka Bijol,D,27,Slovenia,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,23,Sebastiaan Bornauw,D,27,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,24,James Justin,D,28,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,25,Sam Byram,D,32,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,4,Ethan Ampadu,M,25,Wales,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,7,Daniel James,M,28,Wales,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,8,Sean Longstaff,M,28,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,11,Brenden Aaronson,M,25,USA,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,18,Anton Stach,M,27,Germany,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,22,Ao Tanaka,M,27,Japan,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,42,Sam Chambers,M,18,Scotland,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,44,Ilia Gruev,M,26,Bulgaria,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,,Jack Harrison,F,29,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,,Joe Gelhardt,F,24,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,,Largie Ramazani,F,25,Belgium,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,,Mateo Joseph,F,22,Spain,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,9,Dominic Calvert-Lewin,F,29,England,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,10,Joël Piroe,F,26,Suriname,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,14,Lukas Nmecha,F,27,Germany,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,19,Noah Okafor,F,26,Switzerland,0,0,0,0,0,,,2026-27
+Premier League,Leeds United,29,Wilfried Gnonto,F,22,Italy,0,0,0,0,0,,,2026-27
+Premier League,Liverpool,1,Alisson Becker,G,33,Brazil,26,,0,1,0,57,31,2025-26
+Premier League,Liverpool,25,Giorgi Mamardashvili,G,25,Georgia,10,,0,1,0,34,18,2025-26
+Premier League,Liverpool,28,Freddie Woodman,G,29,England,3,,0,0,0,8,4,2025-26
+Premier League,Liverpool,41,Ármin Pécsi,G,21,Hungary,0,,0,0,0,0,0,2025-26
+Premier League,Liverpool,74,Kornel Misciur,G,19,Poland,0,,0,0,0,0,0,2025-26
+Premier League,Liverpool,95,Harvey Davies,G,22,England,0,,0,0,0,0,0,2025-26
+Premier League,Liverpool,2,Joe Gomez,D,29,England,21,2,4,0,0,,,2025-26
+Premier League,Liverpool,4,Virgil van Dijk,D,34,Netherlands,38,0,4,4,0,,,2025-26
+Premier League,Liverpool,5,Ibrahima Konaté,D,27,France,36,0,7,7,0,,,2025-26
+Premier League,Liverpool,6,Milos Kerkez,D,22,Hungary,34,1,4,4,0,,,2025-26
+Premier League,Liverpool,12,Conor Bradley,D,22,Northern Ireland,15,1,5,5,0,,,2025-26
+Premier League,Liverpool,15,Giovanni Leoni,D,19,Italy,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,26,Andy Robertson,D,32,Scotland,24,0,0,0,0,,,2025-26
+Premier League,Liverpool,30,Jeremie Frimpong,D,25,Netherlands,21,1,1,1,0,,,2025-26
+Premier League,Liverpool,46,Rhys Williams,D,25,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,47,Calvin Ramsay,D,22,Scotland,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,57,Carter Pinnington,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,65,Amara Nallo,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,75,Talla Ndiaye,D,18,Senegal,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,92,Wellity Lucky,D,20,Spain,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,3,Wataru Endo,M,33,Japan,8,0,1,1,0,,,2025-26
+Premier League,Liverpool,7,Florian Wirtz,M,23,Germany,34,5,3,1,0,,,2025-26
+Premier League,Liverpool,8,Dominik Szoboszlai,M,25,Hungary,36,6,7,8,1,,,2025-26
+Premier League,Liverpool,10,Alexis Mac Allister,M,27,Argentina,37,2,4,7,0,,,2025-26
+Premier League,Liverpool,17,Curtis Jones,M,25,England,34,1,2,2,0,,,2025-26
+Premier League,Liverpool,38,Ryan Gravenberch,M,24,Netherlands,36,5,3,5,0,,,2025-26
+Premier League,Liverpool,42,Trey Nyoni,M,18,England,6,0,0,0,0,,,2025-26
+Premier League,Liverpool,43,Stefan Bajcetic,M,21,Spain,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,53,James McConnell,M,21,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,68,Kieran Morrison,M,19,Northern Ireland,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,70,Tommy Pilling,M,21,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,94,Michael Laffey,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,9,Alexander Isak,F,26,Sweden,14,3,1,0,0,,,2025-26
+Premier League,Liverpool,11,Mohamed Salah,F,34,Egypt,27,7,7,1,0,,,2025-26
+Premier League,Liverpool,14,Federico Chiesa,F,28,Italy,26,2,1,3,0,,,2025-26
+Premier League,Liverpool,18,Cody Gakpo,F,27,Netherlands,36,7,5,3,0,,,2025-26
+Premier League,Liverpool,22,Hugo Ekitike,F,23,France,28,11,4,0,0,,,2025-26
+Premier League,Liverpool,49,Kaide Gordon,F,21,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,64,Keyrol Figueroa,F,19,USA,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,73,Rio Ngumoha,F,17,England,19,2,1,0,0,,,2025-26
+Premier League,Liverpool,76,Jayden Danns,F,20,England,0,0,0,0,0,,,2025-26
+Premier League,Liverpool,79,Will Wright,F,18,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,1,James Trafford,G,23,England,4,,0,0,0,14,6,2025-26
+Premier League,Manchester City,13,Marcus Bettinelli,G,34,England,0,,0,0,0,0,0,2025-26
+Premier League,Manchester City,25,Gianluigi Donnarumma,G,27,Italy,34,,0,8,0,78,29,2025-26
+Premier League,Manchester City,3,Rúben Dias,D,29,Portugal,26,2,0,3,0,,,2025-26
+Premier League,Manchester City,5,John Stones,D,32,England,9,0,0,0,0,,,2025-26
+Premier League,Manchester City,6,Nathan Aké,D,31,Netherlands,18,0,0,1,0,,,2025-26
+Premier League,Manchester City,15,Marc Guéhi,D,25,England,35,3,3,6,0,,,2025-26
+Premier League,Manchester City,21,Rayan Aït-Nouri,D,25,Algeria,17,0,2,2,0,,,2025-26
+Premier League,Manchester City,24,Josko Gvardiol,D,24,Croatia,18,2,2,2,0,,,2025-26
+Premier League,Manchester City,33,Nico O'Reilly,D,21,England,34,5,3,5,0,,,2025-26
+Premier League,Manchester City,45,Abdukodir Khusanov,D,22,Uzbekistan,21,0,0,2,0,,,2025-26
+Premier League,Manchester City,61,Kaden Braithwaite,D,18,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,68,Max Alleyne,D,20,England,2,0,0,0,0,,,2025-26
+Premier League,Manchester City,82,Rico Lewis,D,21,England,11,0,1,2,0,,,2025-26
+Premier League,Manchester City,90,Kian Noble,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,4,Tijjani Reijnders,M,27,Netherlands,28,5,2,2,0,,,2025-26
+Premier League,Manchester City,8,Mateo Kovacic,M,32,Croatia,6,0,1,0,0,,,2025-26
+Premier League,Manchester City,10,Rayan Cherki,M,22,France,33,4,12,1,0,,,2025-26
+Premier League,Manchester City,14,Nico González,M,24,Spain,25,1,0,6,0,,,2025-26
+Premier League,Manchester City,16,Rodri,M,29,Spain,21,1,0,3,0,,,2025-26
+Premier League,Manchester City,20,Bernardo Silva,M,31,Portugal,38,2,4,10,0,,,2025-26
+Premier League,Manchester City,27,Matheus Nunes,M,27,Portugal,34,1,5,5,0,,,2025-26
+Premier League,Manchester City,41,Sverre Nypan,M,19,Norway,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,47,Phil Foden,M,26,England,33,7,5,4,0,,,2025-26
+Premier League,Manchester City,59,Charlie Gray,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,75,Floyd Samba,M,17,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,7,Omar Marmoush,F,27,Egypt,21,3,3,3,0,,,2025-26
+Premier League,Manchester City,9,Erling Haaland,F,25,Norway,35,27,8,2,0,,,2025-26
+Premier League,Manchester City,11,Jérémy Doku,F,24,Belgium,30,5,5,0,0,,,2025-26
+Premier League,Manchester City,26,Savinho,F,22,Brazil,24,1,1,2,0,,,2025-26
+Premier League,Manchester City,42,Antoine Semenyo,F,26,Ghana,37,17,4,7,0,,,2025-26
+Premier League,Manchester City,56,Ryan McAidoo,F,17,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,92,Reigan Heskey,F,18,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester City,97,Tyrone Samba,F,18,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester United,1,Altay Bayindir,G,28,Türkiye,6,,0,0,0,13,11,2025-26
+Premier League,Manchester United,22,Tom Heaton,G,40,England,0,,0,0,0,0,0,2025-26
+Premier League,Manchester United,31,Senne Lammens,G,23,Belgium,32,,0,0,0,79,39,2025-26
+Premier League,Manchester United,2,Diogo Dalot,D,27,Portugal,34,1,3,5,0,,,2025-26
+Premier League,Manchester United,3,Noussair Mazraoui,D,28,Morocco,20,0,0,3,0,,,2025-26
+Premier League,Manchester United,4,Matthijs de Ligt,D,26,Netherlands,13,1,0,0,0,,,2025-26
+Premier League,Manchester United,5,Harry Maguire,D,33,England,23,1,2,3,1,,,2025-26
+Premier League,Manchester United,6,Lisandro Martínez,D,28,Argentina,18,0,0,0,1,,,2025-26
+Premier League,Manchester United,12,Tyrell Malacia,D,26,Netherlands,3,0,0,0,0,,,2025-26
+Premier League,Manchester United,13,Patrick Dorgu,D,21,Denmark,26,4,4,5,0,,,2025-26
+Premier League,Manchester United,15,Leny Yoro,D,20,France,32,0,0,1,0,,,2025-26
+Premier League,Manchester United,23,Luke Shaw,D,30,England,38,1,1,9,0,,,2025-26
+Premier League,Manchester United,26,Ayden Heaven,D,19,England,17,0,1,2,0,,,2025-26
+Premier League,Manchester United,33,Tyler Fredricson,D,21,England,1,0,0,0,0,,,2025-26
+Premier League,Manchester United,35,Diego León,D,19,Paraguay,0,0,0,0,0,,,2025-26
+Premier League,Manchester United,72,Godwill Kukonki,D,18,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester United,7,Mason Mount,M,27,England,23,3,0,2,0,,,2025-26
+Premier League,Manchester United,8,Bruno Fernandes,M,31,Portugal,35,9,21,5,0,,,2025-26
+Premier League,Manchester United,18,Casemiro,M,34,Brazil,34,9,2,9,1,,,2025-26
+Premier League,Manchester United,25,Manuel Ugarte,M,25,Uruguay,22,0,0,1,0,,,2025-26
+Premier League,Manchester United,37,Kobbie Mainoo,M,21,England,28,1,2,2,0,,,2025-26
+Premier League,Manchester United,38,Jack Fletcher,M,19,England,3,0,0,0,0,,,2025-26
+Premier League,Manchester United,39,Tyler Fletcher,M,19,Scotland,2,0,0,0,0,,,2025-26
+Premier League,Manchester United,48,Jack Moorhouse,M,20,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester United,77,Jim Thwaites,M,18,England,0,0,0,0,0,,,2025-26
+Premier League,Manchester United,10,Matheus Cunha,F,27,Brazil,33,10,2,4,0,,,2025-26
+Premier League,Manchester United,11,Joshua Zirkzee,F,25,Netherlands,24,2,1,3,0,,,2025-26
+Premier League,Manchester United,16,Amad Diallo,F,23,Ivory Coast,32,2,3,2,0,,,2025-26
+Premier League,Manchester United,19,Bryan Mbeumo,F,26,Cameroon,33,11,3,4,0,,,2025-26
+Premier League,Manchester United,30,Benjamin Sesko,F,23,Slovenia,30,11,1,2,0,,,2025-26
+Premier League,Manchester United,32,Chido Obi,F,18,Denmark,0,0,0,0,0,,,2025-26
+Premier League,Manchester United,61,Shea Lacey,F,19,England,3,0,0,0,0,,,2025-26
+Premier League,Manchester United,70,Bendito Mantato,F,18,England,1,0,0,0,0,,,2025-26
+Premier League,Newcastle United,1,Nick Pope,G,34,England,27,,0,2,0,89,38,2025-26
+Premier League,Newcastle United,26,John Ruddy,G,39,England,0,,0,0,0,0,0,2025-26
+Premier League,Newcastle United,29,Mark Gillespie,G,34,England,0,,0,0,0,0,0,2025-26
+Premier League,Newcastle United,32,Aaron Ramsdale,G,28,England,12,,0,0,0,24,17,2025-26
+Premier League,Newcastle United,58,Aidan Harris,G,19,England,0,,0,0,0,0,0,2025-26
+Premier League,Newcastle United,59,Adam Harrison,G,19,England,0,,0,0,0,0,0,2025-26
+Premier League,Newcastle United,2,Kieran Trippier,D,35,England,21,0,1,3,0,,,2025-26
+Premier League,Newcastle United,3,Lewis Hall,D,21,England,30,1,1,4,0,,,2025-26
+Premier League,Newcastle United,4,Sven Botman,D,26,Netherlands,25,1,1,2,0,,,2025-26
+Premier League,Newcastle United,5,Fabian Schär,D,34,Switzerland,16,0,0,1,0,,,2025-26
+Premier League,Newcastle United,12,Malick Thiaw,D,24,Germany,35,4,0,4,0,,,2025-26
+Premier League,Newcastle United,17,Emil Krafth,D,31,Sweden,1,0,0,0,0,,,2025-26
+Premier League,Newcastle United,21,Tino Livramento,D,23,England,17,0,1,1,0,,,2025-26
+Premier League,Newcastle United,33,Dan Burn,D,34,England,29,1,2,9,1,,,2025-26
+Premier League,Newcastle United,37,Alex Murphy,D,21,Republic of Ireland,2,0,0,0,0,,,2025-26
+Premier League,Newcastle United,61,Leo Shahar,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Newcastle United,7,Joelinton,M,29,Brazil,27,2,1,10,0,,,2025-26
+Premier League,Newcastle United,8,Sandro Tonali,M,26,Italy,36,0,2,4,0,,,2025-26
+Premier League,Newcastle United,11,Harvey Barnes,M,28,England,37,7,1,1,0,,,2025-26
+Premier League,Newcastle United,23,Jacob Murphy,M,31,England,33,3,2,2,0,,,2025-26
+Premier League,Newcastle United,28,Joe Willock,M,26,England,24,0,2,3,0,,,2025-26
+Premier League,Newcastle United,39,Bruno Guimarães,M,28,Brazil,29,9,5,6,0,,,2025-26
+Premier League,Newcastle United,41,Jacob Ramsey,M,25,England,28,2,3,3,1,,,2025-26
+Premier League,Newcastle United,67,Lewis Miley,M,20,England,23,1,4,0,0,,,2025-26
+Premier League,Newcastle United,85,Adedamola Alabi,M,16,England,0,0,0,0,0,,,2025-26
+Premier League,Newcastle United,9,Yoane Wissa,F,29,Congo DR,19,1,1,3,0,,,2025-26
+Premier League,Newcastle United,10,Anthony Gordon,F,25,England,26,6,2,3,1,,,2025-26
+Premier League,Newcastle United,18,William Osula,F,22,Denmark,24,7,0,0,0,,,2025-26
+Premier League,Newcastle United,20,Anthony Elanga,F,24,Sweden,32,0,1,0,0,,,2025-26
+Premier League,Newcastle United,27,Nick Woltemade,F,24,Germany,33,8,3,0,0,,,2025-26
+Premier League,Newcastle United,62,Sean Neave,F,19,England,1,0,0,0,0,,,2025-26
+Premier League,Newcastle United,64,Park Seung-Soo,F,19,South Korea,0,0,0,0,0,,,2025-26
+Premier League,Nottingham Forest,13,John Victor,G,30,Brazil,0,,0,0,0,0,0,2026-27
+Premier League,Nottingham Forest,26,Matz Sels,G,34,Belgium,0,,0,0,0,0,0,2026-27
+Premier League,Nottingham Forest,,Omar Richards,D,28,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,,Tyler Bindon,D,21,New Zealand,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,3,Neco Williams,D,25,Wales,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,4,Morato,D,25,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,5,Murillo,D,24,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,23,Jair Paula,D,21,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,25,Luca Netz,D,23,Germany,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,31,Nikola Milenkovic,D,28,Serbia,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,34,Ola Aina,D,29,Nigeria,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,37,Nicolò Savona,D,23,Italy,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,44,Zach Abbott,D,20,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,6,Ibrahim Sangaré,M,28,Ivory Coast,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,10,Morgan Gibbs-White,M,26,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,16,Nicolás Domínguez,M,28,Argentina,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,22,Ryan Yates,M,28,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,24,James McAtee,M,23,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,,Arnaud Kalimuendo,F,24,France,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,,Jota Silva,F,26,Portugal,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,7,Callum Hudson-Odoi,F,25,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,9,Taiwo Awoniyi,F,28,Nigeria,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,11,Chris Wood,F,34,New Zealand,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,14,Dan Ndoye,F,25,Switzerland,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,17,Eric Da Silva Moreira,F,20,Germany,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,19,Igor Jesus,F,25,Brazil,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,21,Omari Hutchinson,F,22,England,0,0,0,0,0,,,2026-27
+Premier League,Nottingham Forest,29,Dilane Bakwa,F,23,France,0,0,0,0,0,,,2026-27
+Premier League,Sunderland,21,Simon Moore,G,36,England,0,,0,0,0,0,0,2025-26
+Premier League,Sunderland,22,Robin Roefs,G,23,Netherlands,35,,0,0,0,109,46,2025-26
+Premier League,Sunderland,31,Melker Ellborg,G,23,Sweden,3,,0,0,0,10,2,2025-26
+Premier League,Sunderland,3,Dennis Cirkin,D,24,Latvia,8,0,0,2,0,,,2025-26
+Premier League,Sunderland,5,Danny Ballard,D,26,Northern Ireland,29,2,0,4,1,,,2025-26
+Premier League,Sunderland,6,Lutsharel Geertruida,D,25,Netherlands,28,0,0,2,0,,,2025-26
+Premier League,Sunderland,13,Luke O'Nien,D,31,England,12,0,1,1,1,,,2025-26
+Premier League,Sunderland,15,Omar Alderete,D,29,Paraguay,33,1,1,6,0,,,2025-26
+Premier League,Sunderland,17,Reinildo Mandava,D,32,Mozambique,25,0,1,7,0,,,2025-26
+Premier League,Sunderland,20,Nordi Mukiele,D,28,France,32,3,4,5,0,,,2025-26
+Premier League,Sunderland,32,Trai Hume,D,24,Northern Ireland,38,2,1,9,0,,,2025-26
+Premier League,Sunderland,51,Jenson Arron Jones,D,19,England,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,11,Chris Rigg,M,18,England,18,1,1,1,0,,,2025-26
+Premier League,Sunderland,19,Habib Diarra,M,22,Senegal,20,2,2,6,0,,,2025-26
+Premier League,Sunderland,27,Noah Sadiki,M,21,Congo DR,33,0,1,9,0,,,2025-26
+Premier League,Sunderland,28,Enzo Le Fée,M,26,France,36,5,6,5,0,,,2025-26
+Premier League,Sunderland,30,Milan Aleksic,M,20,Serbia,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,34,Granit Xhaka,M,33,Switzerland,34,1,6,8,0,,,2025-26
+Premier League,Sunderland,46,Abdoullah Ba,M,22,France,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,50,Harrison Jones,M,21,England,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,52,Jayden Jones,M,19,England,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,53,Jack Whittaker,M,19,England,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,7,Chemsdine Talbi,F,21,Morocco,28,4,1,0,0,,,2025-26
+Premier League,Sunderland,9,Brian Brobbey,F,24,Netherlands,31,7,1,6,0,,,2025-26
+Premier League,Sunderland,10,Nilson Angulo,F,22,Ecuador,8,0,0,1,0,,,2025-26
+Premier League,Sunderland,12,Eliezer Mayenda,F,21,Spain,20,2,0,0,0,,,2025-26
+Premier League,Sunderland,14,Romaine Mundle,F,23,England,14,0,0,1,0,,,2025-26
+Premier League,Sunderland,18,Wilson Isidor,F,25,Haiti,32,6,0,1,0,,,2025-26
+Premier League,Sunderland,25,Bertrand Traoré,F,30,Burkina Faso,12,1,0,1,0,,,2025-26
+Premier League,Sunderland,29,Ahmed Abdullahi,F,21,Nigeria,0,0,0,0,0,,,2025-26
+Premier League,Sunderland,37,Jocelin Ta Bi,F,21,Ivory Coast,1,0,0,0,0,,,2025-26
+Premier League,Sunderland,74,Finn Geragusyan,F,18,Armenia,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,1,Guglielmo Vicario,G,29,Italy,31,,0,1,0,83,50,2025-26
+Premier League,Tottenham Hotspur,31,Antonín Kinsky,G,23,Czechia,7,,0,1,0,10,7,2025-26
+Premier League,Tottenham Hotspur,40,Brandon Austin,G,27,England,0,,0,0,0,0,0,2025-26
+Premier League,Tottenham Hotspur,46,Luca Gunter,G,21,England,0,,0,0,0,0,0,2025-26
+Premier League,Tottenham Hotspur,3,Radu Dragusin,D,24,Romania,10,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,4,Kevin Danso,D,27,Austria,24,0,0,8,0,,,2025-26
+Premier League,Tottenham Hotspur,13,Destiny Udogie,D,23,Italy,20,0,1,4,0,,,2025-26
+Premier League,Tottenham Hotspur,17,Cristian Romero,D,28,Argentina,24,4,1,9,2,,,2025-26
+Premier League,Tottenham Hotspur,23,Pedro Porro,D,26,Spain,34,1,2,10,0,,,2025-26
+Premier League,Tottenham Hotspur,24,Djed Spence,D,25,England,30,0,0,4,0,,,2025-26
+Premier League,Tottenham Hotspur,33,Ben Davies,D,33,Wales,3,1,0,1,0,,,2025-26
+Premier League,Tottenham Hotspur,37,Micky van de Ven,D,25,Netherlands,35,4,1,9,1,,,2025-26
+Premier League,Tottenham Hotspur,38,Souza,D,20,Brazil,4,0,0,1,0,,,2025-26
+Premier League,Tottenham Hotspur,66,Malachi Hardy,D,18,England,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,67,Jun'Ai Byfield,D,17,England,1,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,76,James Rowswell,D,19,England,1,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,6,João Palhinha,M,30,Portugal,33,5,2,8,0,,,2025-26
+Premier League,Tottenham Hotspur,7,Xavi Simons,M,23,Netherlands,28,2,5,5,1,,,2025-26
+Premier League,Tottenham Hotspur,8,Yves Bissouma,M,29,Mali,11,0,0,4,0,,,2025-26
+Premier League,Tottenham Hotspur,10,James Maddison,M,29,England,3,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,14,Archie Gray,M,20,England,24,2,2,5,0,,,2025-26
+Premier League,Tottenham Hotspur,15,Lucas Bergvall,M,20,Sweden,23,1,3,2,0,,,2025-26
+Premier League,Tottenham Hotspur,20,Mohammed Kudus,M,25,Ghana,19,2,5,3,0,,,2025-26
+Premier League,Tottenham Hotspur,21,Dejan Kulusevski,M,26,Sweden,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,22,Conor Gallagher,M,26,England,16,1,1,2,0,,,2025-26
+Premier League,Tottenham Hotspur,29,Pape Matar Sarr,M,23,Senegal,26,2,4,3,0,,,2025-26
+Premier League,Tottenham Hotspur,30,Rodrigo Bentancur,M,28,Uruguay,26,1,1,7,0,,,2025-26
+Premier League,Tottenham Hotspur,52,Callum Olusesi,M,19,England,1,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,57,Rio Kyerematen,M,21,England,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,68,Luca Williams-Barnett,M,17,England,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,89,Tye Hall,M,18,England,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,9,Richarlison,F,29,Brazil,32,11,4,5,0,,,2025-26
+Premier League,Tottenham Hotspur,11,Mathys Tel,F,21,France,31,4,1,1,0,,,2025-26
+Premier League,Tottenham Hotspur,19,Dominic Solanke,F,28,England,15,3,0,1,0,,,2025-26
+Premier League,Tottenham Hotspur,28,Wilson Odobert,F,21,France,24,0,2,0,0,,,2025-26
+Premier League,Tottenham Hotspur,39,Randal Kolo Muani,F,27,France,30,1,1,3,0,,,2025-26
+Premier League,Tottenham Hotspur,54,Tynan Thompson,F,18,England,0,0,0,0,0,,,2025-26
+Premier League,Tottenham Hotspur,79,James Wilson,F,19,Scotland,0,0,0,0,0,,,2025-26
