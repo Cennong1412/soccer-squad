@@ -77,6 +77,8 @@ async function router() {
       return renderPositions(params[0] || "F");
     case "ages":
       return renderAges();
+    case "values":
+      return renderValues(params[0] || "players");
     case "search":
       return renderSearch();
     case "player":
@@ -133,6 +135,7 @@ function renderHome() {
         <span class="lg-meta">${teamNote} · 선수 ${rows.length}명 · 평균 ${avgAge}세</span>
         ${lg.note ? `<span class="badge warn">데이터 공백</span>` : ""}
         ${lg.noStats ? `<span class="badge muted">시즌 기록 없음</span>` : ""}
+        ${lg.noMarketValue ? `<span class="badge muted">몸값 정보 없음</span>` : ""}
       </button>`;
   }).join("");
 
@@ -424,6 +427,126 @@ function renderAges() {
   });
 }
 
+// ---------- 몸값 보기 ----------
+// 시장 가치는 공개 데이터셋(dcaribou/transfermarkt-datasets, CC0)을 선수명/팀명으로 매칭한 값입니다.
+// 챔피언십·세군다 디비시온·2.분데스리가는 해당 데이터셋이 2부 리그를 다루지 않아 값이 없습니다.
+// 이름 매칭이 안 된 선수도 값이 비어 있을 수 있습니다 (전체 약 56% 매칭).
+
+const NO_MV_LEAGUES = LEAGUES.filter((l) => l.noMarketValue);
+let valuesState = { leagueId: "" };
+
+function renderValues(tab) {
+  setTitle("몸값 보기");
+  const tabs = [
+    ["players", "선수 랭킹"],
+    ["teams", "팀별 총액"],
+    ["nations", "국가별 총액"],
+  ].map(([key, label]) => `
+    <button class="tab ${key === tab ? "active" : ""}" onclick="location.hash='#/values/${key}'">${label}</button>
+  `).join("");
+
+  const banner = `<div class="banner"><b>ℹ</b> 시장 가치는 공개 데이터셋을 선수명/팀명으로 자동 매칭한 값입니다 (전체 약 56% 매칭). ${NO_MV_LEAGUES.map((l) => l.displayName).join(", ")}는 이 데이터셋이 2부 리그를 다루지 않아 몸값 정보가 없습니다.</div>`;
+
+  let bodyHtml = "";
+  if (tab === "teams") bodyHtml = renderValuesTeams();
+  else if (tab === "nations") bodyHtml = renderValuesNations();
+  else bodyHtml = renderValuesPlayers();
+
+  $view.innerHTML = `<div class="tabs">${tabs}</div>${banner}${bodyHtml}`;
+
+  const filterEl = document.getElementById("valuesLeagueFilter");
+  if (filterEl) {
+    filterEl.addEventListener("change", (e) => {
+      valuesState.leagueId = e.target.value;
+      renderValues(tab);
+    });
+  }
+}
+
+function valuesLeagueFilterHtml() {
+  const options = `<option value="">전체 리그</option>` +
+    LEAGUES.filter((l) => !l.noMarketValue).map((l) =>
+      `<option value="${l.id}" ${valuesState.leagueId === l.id ? "selected" : ""}>${l.displayName}</option>`
+    ).join("");
+  return `<div class="filter-row"><select id="valuesLeagueFilter">${options}</select></div>`;
+}
+
+function renderValuesPlayers() {
+  let players = ROWS.filter((r) => r.marketValue !== null);
+  if (valuesState.leagueId) players = players.filter((r) => r.leagueId === valuesState.leagueId);
+  players = players.slice().sort((a, b) => b.marketValue - a.marketValue).slice(0, 100);
+
+  const rowsHtml = players.length ? players.map((p, i) => `
+    <button class="row-card" onclick="location.hash='#/player/${playerKey(p)}'">
+      <span class="row-rank">${i + 1}</span>
+      <span class="pos-pill pos-${p.position}">${p.position || "?"}</span>
+      <span class="row-main">
+        <div class="row-name">${escapeHtml(p.name)}</div>
+        <div class="row-sub">${escapeHtml(p.team)} · ${p.leagueDisplayName}</div>
+      </span>
+      <span class="row-stat">${formatEUR(p.marketValue)}</span>
+    </button>`).join("") : `<div class="empty-state">해당 조건의 몸값 정보가 없습니다.</div>`;
+
+  return `${valuesLeagueFilterHtml()}<div class="list">${rowsHtml}</div>`;
+}
+
+function renderValuesTeams() {
+  let players = ROWS.slice();
+  if (valuesState.leagueId) players = players.filter((r) => r.leagueId === valuesState.leagueId);
+
+  const byTeam = {};
+  players.forEach((p) => {
+    const key = `${p.leagueId}::${p.team}`;
+    byTeam[key] = byTeam[key] || { leagueId: p.leagueId, leagueDisplayName: p.leagueDisplayName, team: p.team, total: 0, matched: 0, count: 0 };
+    byTeam[key].count += 1;
+    if (p.marketValue !== null) {
+      byTeam[key].total += p.marketValue;
+      byTeam[key].matched += 1;
+    }
+  });
+
+  const teams = Object.values(byTeam).filter((t) => t.matched > 0).sort((a, b) => b.total - a.total);
+
+  const rowsHtml = teams.length ? teams.map((t, i) => `
+    <button class="row-card" onclick="location.hash='#/teams/${t.leagueId}/${encodeURIComponent(t.team)}'">
+      <span class="row-rank">${i + 1}</span>
+      <span class="row-main">
+        <div class="row-name">${escapeHtml(t.team)}</div>
+        <div class="row-sub">${t.leagueDisplayName} · ${t.matched}/${t.count}명 매칭</div>
+      </span>
+      <span class="row-stat">${formatEUR(t.total)}</span>
+    </button>`).join("") : `<div class="empty-state">해당 조건의 몸값 정보가 없습니다.</div>`;
+
+  return `${valuesLeagueFilterHtml()}<div class="list">${rowsHtml}</div>`;
+}
+
+function renderValuesNations() {
+  const byNation = {};
+  ROWS.forEach((p) => {
+    if (!p.nationality) return;
+    byNation[p.nationality] = byNation[p.nationality] || { nation: p.nationality, total: 0, matched: 0, count: 0 };
+    byNation[p.nationality].count += 1;
+    if (p.marketValue !== null) {
+      byNation[p.nationality].total += p.marketValue;
+      byNation[p.nationality].matched += 1;
+    }
+  });
+
+  const nations = Object.values(byNation).filter((n) => n.matched > 0).sort((a, b) => b.total - a.total).slice(0, 100);
+
+  const rowsHtml = nations.map((n, i) => `
+    <button class="row-card" onclick="location.hash='#/nations/${encodeURIComponent(n.nation)}'">
+      <span class="row-rank">${i + 1}</span>
+      <span class="row-main">
+        <div class="row-name">${flagEmoji(n.nation)} ${escapeHtml(n.nation)}</div>
+        <div class="row-sub">${n.matched}/${n.count}명 매칭</div>
+      </span>
+      <span class="row-stat">${formatEUR(n.total)}</span>
+    </button>`).join("");
+
+  return `<div class="list">${rowsHtml}</div>`;
+}
+
 // ---------- 검색 ----------
 
 function renderSearch() {
@@ -497,6 +620,7 @@ function renderPlayerDetail(key) {
       <div class="kv"><div class="k">리그</div><div class="val">${p.leagueDisplayName}</div></div>
       <div class="kv"><div class="k">등번호</div><div class="val">${p.number || "-"}</div></div>
       <div class="kv"><div class="k">포지션</div><div class="val">${POSITION_LABELS[p.position] || p.position}</div></div>
+      <div class="kv"><div class="k">시장 가치</div><div class="val">${formatEUR(p.marketValue)}</div></div>
     </div>
     ${statsHtml}
     <button class="tab" onclick="location.hash='#/teams/${p.leagueId}/${encodeURIComponent(p.team)}'">${escapeHtml(p.team)} 스쿼드 전체 보기</button>

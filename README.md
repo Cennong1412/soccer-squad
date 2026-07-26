@@ -1,7 +1,9 @@
 # 월드 사커 스쿼드 (PWA)
 
-13개 주요 축구 리그의 팀별 선수 명단과 시즌 기록을 폰에서 팀/국적/포지션/나이별로 보는 PWA입니다.
+11개 주요 축구 리그의 팀별 선수 명단과 시즌 기록을 폰에서 팀/국적/포지션/나이별로 보는 PWA입니다.
 빌드 단계 없이 브라우저가 `data/*.csv`를 직접 읽어 화면을 만듭니다.
+
+(사우디 프로리그, K리그1은 사용자 요청으로 앱에서 제외되어 있습니다. CSV 파일은 `data/`에 남아있고 `js/config.js`의 `LEAGUES` 배열에 다시 추가하면 복원됩니다.)
 
 ## 폴더 구조
 
@@ -13,7 +15,8 @@ css/style.css
 js/config.js         리그 메타데이터 (팀 수, 데이터 공백 안내 등)
 js/data.js            CSV 파싱 및 정규화
 js/app.js             화면/라우팅 로직
-data/*.csv             선수 데이터 (13개 리그)
+data/*.csv             선수 데이터 (11개 리그)
+data/market_values.csv 선수 시장 가치 (아래 "몸값 데이터" 참고)
 data/meta.json         마지막 업데이트 날짜
 icons/                 PWA 아이콘
 ```
@@ -27,6 +30,17 @@ icons/                 PWA 아이콘
 3. `data/meta.json`의 `lastUpdated` 날짜를 오늘 날짜로 바꿉니다.
 4. 변경 사항을 커밋하고 GitHub에 push하면 GitHub Pages가 자동으로 재배포합니다.
 
+## 몸값 데이터 (data/market_values.csv)
+
+[dcaribou/transfermarkt-datasets](https://github.com/dcaribou/transfermarkt-datasets) (CC0, 매주 갱신되는 트랜스퍼마크트 미러 데이터셋)의 `players.csv`를 우리 CSV의 `League/Team/Player` 문자열과 이름/팀 기준으로 자동 매칭해 만든 파일입니다. 컬럼: `League,Team,Player,MarketValueEUR`.
+
+- **1부 리그만 지원**: 이 데이터셋은 2부 리그를 다루지 않아서 챔피언십·세군다 디비시온·2.분데스리가는 몸값 데이터가 없습니다 (`js/config.js`에서 `noMarketValue: true`로 표시됨).
+- **매칭률 약 56%** (선수명이 정확히 일치하는 경우만 연결, 애칭/이명 등은 놓칠 수 있음). 매칭 안 된 선수는 몸값이 "-"로 표시됩니다.
+- **다시 만드는 방법**:
+  1. `curl -sO https://pub-e682421888d945d684bcae8890b0ec20.r2.dev/data/players.csv.gz && gunzip players.csv.gz` 로 최신 선수 데이터를 받습니다.
+  2. 위 프로젝트에서 만든 매칭 스크립트(Claude에게 "몸값 데이터 다시 매칭해줘"라고 요청하면 됩니다) 로 `data/market_values.csv`를 재생성합니다.
+  3. 리그 CSV를 업데이트할 때마다(팀 이름이 바뀌는 경우 등) 함께 갱신하는 것을 권장합니다.
+
 ## 로컬에서 미리 보기
 
 ```bash
@@ -39,5 +53,4 @@ python -m http.server 8080
 
 - 챔피언십: 24팀 중 20팀만 존재 (4팀 누락)
 - 라리가: 20팀 중 15팀만 존재 (5팀 누락, 원인 미확인)
-- K리그1: 12팀 중 8팀만 존재, 시즌 기록(출장/득점 등) 전무
 - 일부 리그에서 동일 선수가 두 리그 파일에 중복 등장하는 경우가 발견됨 (예: Middlesbrough 소속 선수가 프리미어리그·챔피언십 파일에 모두 존재). 다음 데이터 생성 시 확인 필요.

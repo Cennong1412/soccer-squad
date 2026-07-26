@@ -18,6 +18,7 @@ const LEAGUES = [
     file: "data/championship_players.csv",
     expectedTeams: 24,
     note: "4개 팀 데이터가 누락되어 있습니다.",
+    noMarketValue: true,
   },
   {
     id: "la-liga",
@@ -35,6 +36,7 @@ const LEAGUES = [
     country: "Spain",
     file: "data/segundadivision_players.csv",
     expectedTeams: 22,
+    noMarketValue: true,
   },
   {
     id: "bundesliga",
@@ -51,6 +53,7 @@ const LEAGUES = [
     country: "Germany",
     file: "data/zweitebundesliga_players.csv",
     expectedTeams: 18,
+    noMarketValue: true,
   },
   {
     id: "serie-a",
@@ -92,25 +95,10 @@ const LEAGUES = [
     file: "data/mls_players.csv",
     expectedTeams: 30,
   },
-  {
-    id: "saudi-pro-league",
-    leagueName: "Saudi Pro League",
-    displayName: "사우디 프로리그",
-    country: "Saudi Arabia",
-    file: "data/saudiproleague_players.csv",
-    expectedTeams: 18,
-  },
-  {
-    id: "k-league-1",
-    leagueName: "K League 1",
-    displayName: "K리그1",
-    country: "South Korea",
-    file: "data/kleague1_players.csv",
-    expectedTeams: 12,
-    note: "4개 팀 데이터가 누락되어 있고, 시즌 기록(출장/득점 등)이 없어 기본 정보만 제공됩니다.",
-    noStats: true,
-  },
 ];
+// 참고: 사우디 프로리그(saudiproleague_players.csv)와 K리그1(kleague1_players.csv)은
+// 사용자 요청으로 앱에서 제외했습니다. data/ 폴더에는 CSV 파일이 남아 있으니,
+// 다시 포함하고 싶으면 위 배열에 리그 항목을 추가하면 됩니다.
 
 // 국가 코드 (ISO 3166-1 alpha-2) → 국기 이모지 매핑에 쓰기 위한 국가명 정규화
 const NATIONALITY_TO_ISO = {

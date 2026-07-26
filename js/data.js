@@ -75,6 +75,25 @@ function detectPrimarySeasonLabels(rows) {
   return primary;
 }
 
+// data/market_values.csv: League,Team,Player,MarketValueEUR (공개 데이터셋과 이름/팀 매칭 결과)
+async function loadMarketValues() {
+  try {
+    const res = await fetch("data/market_values.csv", { cache: "no-cache" });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const text = await res.text();
+    const lines = text.split(/\r?\n/).filter((l) => l.trim().length > 0);
+    const map = new Map();
+    for (let i = 1; i < lines.length; i++) {
+      const [league, team, player, mv] = lines[i].split(",");
+      map.set(`${league}::${team}::${player}`, Number(mv));
+    }
+    return map;
+  } catch (err) {
+    console.error("몸값 데이터 로드 실패", err);
+    return new Map();
+  }
+}
+
 async function loadAllData() {
   const results = await Promise.all(
     LEAGUES.map(async (lg) => {
@@ -93,13 +112,23 @@ async function loadAllData() {
 
   const allRows = results.flat();
   const primarySeasonLabels = detectPrimarySeasonLabels(allRows);
+  const marketValues = await loadMarketValues();
 
   allRows.forEach((r) => {
     r.isPrimarySeason = r.seasonLabel === primarySeasonLabels[r.leagueId];
     r.hasStats = r.isPrimarySeason && r.apps !== null;
+    const mv = marketValues.get(`${r.league}::${r.team}::${r.name}`);
+    r.marketValue = mv !== undefined && !Number.isNaN(mv) ? mv : null;
   });
 
   return { rows: allRows, primarySeasonLabels };
+}
+
+function formatEUR(v) {
+  if (v === null || v === undefined) return "-";
+  if (v >= 1000000) return `€${(v / 1000000).toFixed(v >= 10000000 ? 0 : 1)}M`;
+  if (v >= 1000) return `€${(v / 1000).toFixed(0)}K`;
+  return `€${v}`;
 }
 
 function flagEmoji(nationality) {
