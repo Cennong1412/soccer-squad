@@ -15,11 +15,26 @@ css/style.css
 js/config.js         리그 메타데이터 (팀 수, 데이터 공백 안내 등)
 js/data.js            CSV 파싱 및 정규화
 js/app.js             화면/라우팅 로직
+js/news.js             뉴스 탭(텍스트/음성/저장됨) 로직
+js/firebase-config.js  Firebase 초기화 (Google 로그인 + 저장 기사 동기화)
 data/*.csv             선수 데이터 (11개 리그)
 data/market_values.csv 선수 시장 가치 (아래 "몸값 데이터" 참고)
+data/news.json          매일 자동 갱신되는 축구 뉴스 (아래 "뉴스 기능" 참고)
 data/meta.json         마지막 업데이트 날짜
 icons/                 PWA 아이콘
+scripts/fetch-news.mjs GitHub Actions가 매일 실행하는 뉴스 수집 스크립트
 ```
+
+## 뉴스 기능 (텍스트/음성/저장됨)
+
+- 잉글랜드·미국·스페인·독일 축구 뉴스를 매일 자동 수집합니다 (BBC Sport, The Guardian RSS).
+  - `.github/workflows/fetch-news.yml`이 매일 06:00 KST에 `scripts/fetch-news.mjs`를 실행해 `data/news.json`을 갱신·커밋합니다.
+  - 수동 갱신: `node scripts/fetch-news.mjs`
+- **텍스트** 탭: 기사 제목/요약, 원문 링크.
+- **음성** 탭: 브라우저 내장 Web Speech API로 영어 낭독 (재생 속도 0.95x, 별도 비용 없음).
+- **저장됨** 탭: Google 로그인 후 Firestore에 저장 — 여러 기기에서 동기화됩니다. 로그인은 우측 상단 👤 버튼.
+  - Firebase 프로젝트: `world-soccer-squad` (계정: seungchul.ha@gmail.com)
+  - 보안 규칙: `firestore.rules` (본인 uid의 문서만 읽기/쓰기 가능)
 
 ## 6개월마다 데이터 업데이트하는 방법
 

@@ -1,5 +1,5 @@
 // 캐시 버전을 올리면 이전 캐시가 자동으로 정리됩니다.
-const CACHE_NAME = "soccer-squad-v1";
+const CACHE_NAME = "soccer-squad-v2";
 
 const CORE_ASSETS = [
   "./",
@@ -9,6 +9,7 @@ const CORE_ASSETS = [
   "./js/config.js",
   "./js/data.js",
   "./js/app.js",
+  "./js/news.js",
 ];
 
 self.addEventListener("install", (event) => {

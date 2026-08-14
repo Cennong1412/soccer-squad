@@ -27,6 +27,15 @@ function fmt(v, suffix = "") {
   return v === null || v === undefined ? "-" : `${v}${suffix}`;
 }
 
+let toastTimer = null;
+function showToast(msg) {
+  const el = document.getElementById("toast");
+  el.textContent = msg;
+  el.hidden = false;
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => { el.hidden = true; }, 2200);
+}
+
 function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, (c) => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;",
@@ -79,6 +88,8 @@ async function router() {
       return renderAges();
     case "values":
       return renderValues(params[0] || "players");
+    case "news":
+      return renderNews(params[0] || "text");
     case "search":
       return renderSearch();
     case "player":

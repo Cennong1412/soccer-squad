@@ -400,6 +400,40 @@ select { flex: 1; min-width: 0; }
 .about-block h3 { margin: 0 0 8px; font-size: 14px; color: var(--accent); }
 .about-block ul { margin: 4px 0; padding-left: 18px; }
 
+/* 뉴스 */
+.news-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 12px 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.news-meta { display: flex; align-items: center; gap: 6px; font-size: 11px; color: var(--text-dim); }
+.news-source { font-weight: 600; }
+.news-time { margin-left: auto; }
+.news-title { font-size: 15px; font-weight: 700; line-height: 1.4; }
+.news-summary { font-size: 13px; color: var(--text-dim); line-height: 1.5; }
+.news-actions { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+.news-link-btn, .news-play-btn, .news-save-btn {
+  font-family: inherit;
+  font-size: 12px;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 7px 12px;
+  border: 1px solid var(--border);
+  background: var(--surface-2);
+  color: var(--text);
+  cursor: pointer;
+  text-decoration: none;
+}
+.news-play-btn.playing { background: var(--accent-dim); color: #d7ffe9; border-color: var(--accent-dim); }
+.news-save-btn { margin-left: auto; }
+.news-save-btn.on { background: var(--accent-dim); color: #d7ffe9; border-color: var(--accent-dim); }
+
+#accountBtn.logged-in { color: var(--accent); }
+
 a { color: var(--accent); }
 
 @media (prefers-color-scheme: light) {

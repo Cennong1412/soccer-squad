@@ -19,6 +19,7 @@
   <header class="topbar">
     <button id="backBtn" class="icon-btn" aria-label="뒤로" hidden>&larr;</button>
     <h1 id="topTitle">월드 사커 스쿼드</h1>
+    <button id="accountBtn" class="icon-btn" aria-label="로그인">👤</button>
     <button id="searchBtn" class="icon-btn" aria-label="검색">🔍</button>
   </header>
 
@@ -27,6 +28,7 @@
   <nav class="bottomnav">
     <button data-route="#/home" class="navbtn"><span class="navicon">🏠</span><span>홈</span></button>
     <button data-route="#/teams" class="navbtn"><span class="navicon">🛡️</span><span>팀</span></button>
+    <button data-route="#/news" class="navbtn"><span class="navicon">📰</span><span>뉴스</span></button>
     <button data-route="#/nations" class="navbtn"><span class="navicon">🌍</span><span>국가</span></button>
     <button data-route="#/positions" class="navbtn"><span class="navicon">⚽</span><span>포지션</span></button>
     <button data-route="#/ages" class="navbtn"><span class="navicon">📊</span><span>나이</span></button>
@@ -39,5 +41,7 @@
 <script src="js/config.js"></script>
 <script src="js/data.js"></script>
 <script src="js/app.js"></script>
+<script src="js/news.js"></script>
+<script type="module" src="js/firebase-config.js"></script>
 </body>
 </html>
