@@ -8,6 +8,10 @@ let savedIds = new Set();
 let savedArticlesCache = null;
 let currentPlayingId = null;
 
+const VOICE_RATES = [0.8, 1.0, 1.2];
+let voiceRate = parseFloat(localStorage.getItem("newsVoiceRate")) || 1.0;
+if (!VOICE_RATES.includes(voiceRate)) voiceRate = 1.0;
+
 const NEWS_COUNTRIES = [
   ["", "전체"],
   ["England", "잉글랜드"],
@@ -78,6 +82,13 @@ function newsFilterHtml() {
   return `<div class="filter-row"><select id="newsCountryFilter">${options}</select></div>`;
 }
 
+function voiceRateHtml() {
+  const buttons = VOICE_RATES.map((r) => `
+    <button class="tab ${r === voiceRate ? "active" : ""}" data-rate="${r}">${r.toFixed(1)}배속</button>
+  `).join("");
+  return `<div class="sort-toggle">${buttons}</div>`;
+}
+
 function renderNewsList(tab) {
   let articles = NEWS_ARTICLES || [];
   if (newsState.country) articles = articles.filter((a) => a.country === newsState.country);
@@ -85,16 +96,32 @@ function renderNewsList(tab) {
   const body = document.getElementById("newsBody");
   if (!body) return;
 
+  const rateHtml = tab === "voice" ? voiceRateHtml() : "";
+
   if (!articles.length) {
-    body.innerHTML = `${newsFilterHtml()}<div class="empty-state">불러올 뉴스가 없습니다.</div>`;
+    body.innerHTML = `${newsFilterHtml()}${rateHtml}<div class="empty-state">불러올 뉴스가 없습니다.</div>`;
   } else {
-    body.innerHTML = `${newsFilterHtml()}<div class="list">${articles.map((a) => newsCardHtml(a, tab)).join("")}</div>`;
+    body.innerHTML = `${newsFilterHtml()}${rateHtml}<div class="list">${articles.map((a) => newsCardHtml(a, tab)).join("")}</div>`;
   }
 
   document.getElementById("newsCountryFilter").addEventListener("change", (e) => {
     newsState.country = e.target.value;
     renderNewsList(tab);
   });
+
+  if (tab === "voice") {
+    document.querySelectorAll("[data-rate]").forEach((btn) => {
+      btn.addEventListener("click", () => {
+        voiceRate = parseFloat(btn.dataset.rate);
+        localStorage.setItem("newsVoiceRate", voiceRate);
+        if (currentPlayingId) {
+          window.speechSynthesis.cancel();
+          currentPlayingId = null;
+        }
+        renderNewsList(tab);
+      });
+    });
+  }
 
   wireNewsCardButtons(tab, () => renderNewsList(tab));
 }
@@ -176,7 +203,7 @@ function togglePlayArticle(id, rerender) {
   window.speechSynthesis.cancel();
   const utter = new SpeechSynthesisUtterance(`${article.title}. ${article.summary}`);
   utter.lang = "en-US";
-  utter.rate = 0.95;
+  utter.rate = voiceRate;
   utter.onend = () => { currentPlayingId = null; rerender(); };
   utter.onerror = () => { currentPlayingId = null; };
   currentPlayingId = id;
