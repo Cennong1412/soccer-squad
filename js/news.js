@@ -7,6 +7,9 @@ let newsState = { country: "" };
 let savedIds = new Set();
 let savedArticlesCache = null;
 let currentPlayingId = null;
+let playAllActive = false;
+let playAllQueue = [];
+let playAllIndex = 0;
 
 const VOICE_RATES = [0.8, 1.0, 1.2];
 let voiceRate = parseFloat(localStorage.getItem("newsVoiceRate")) || 1.0;
@@ -86,7 +89,8 @@ function voiceRateHtml() {
   const buttons = VOICE_RATES.map((r) => `
     <button class="tab ${r === voiceRate ? "active" : ""}" data-rate="${r}">${r.toFixed(1)}배속</button>
   `).join("");
-  return `<div class="sort-toggle">${buttons}</div>`;
+  const playAllBtn = `<button class="tab ${playAllActive ? "active" : ""}" id="playAllBtn">${playAllActive ? "⏹ 전체 재생 중지" : "▶ 전체 재생"}</button>`;
+  return `<div class="sort-toggle">${buttons}${playAllBtn}</div>`;
 }
 
 function renderNewsList(tab) {
@@ -118,9 +122,17 @@ function renderNewsList(tab) {
           window.speechSynthesis.cancel();
           currentPlayingId = null;
         }
+        if (playAllActive) stopPlayAll();
         renderNewsList(tab);
       });
     });
+    const playAllBtn = document.getElementById("playAllBtn");
+    if (playAllBtn) {
+      playAllBtn.addEventListener("click", () => {
+        if (playAllActive) stopPlayAll();
+        else startPlayAll(articles, tab);
+      });
+    }
   }
 
   wireNewsCardButtons(tab, () => renderNewsList(tab));
@@ -192,6 +204,7 @@ async function toggleSaveArticle(id, tab, rerender) {
 }
 
 function togglePlayArticle(id, rerender) {
+  if (playAllActive) stopPlayAll();
   const article = findArticleById(id);
   if (!article) return;
   if (currentPlayingId === id) {
@@ -209,6 +222,47 @@ function togglePlayArticle(id, rerender) {
   currentPlayingId = id;
   window.speechSynthesis.speak(utter);
   rerender();
+}
+
+// ---------- 전체 재생 (음성 탭 기사들을 순서대로 이어 재생) ----------
+
+function startPlayAll(articles, tab) {
+  if (!articles.length) return;
+  window.speechSynthesis.cancel();
+  playAllActive = true;
+  playAllQueue = articles;
+  playAllIndex = 0;
+  playAllNext(tab);
+}
+
+function stopPlayAll() {
+  playAllActive = false;
+  playAllQueue = [];
+  playAllIndex = 0;
+  currentPlayingId = null;
+  window.speechSynthesis.cancel();
+}
+
+function playAllNext(tab) {
+  if (!playAllActive) return;
+  if (playAllIndex >= playAllQueue.length) {
+    stopPlayAll();
+    renderNewsList(tab);
+    return;
+  }
+  const article = playAllQueue[playAllIndex];
+  const utter = new SpeechSynthesisUtterance(`${article.title}. ${article.summary}`);
+  utter.lang = "en-US";
+  utter.rate = voiceRate;
+  utter.onend = () => {
+    if (!playAllActive) return;
+    playAllIndex += 1;
+    playAllNext(tab);
+  };
+  utter.onerror = () => { if (playAllActive) stopPlayAll(); };
+  currentPlayingId = article.id;
+  window.speechSynthesis.speak(utter);
+  renderNewsList(tab);
 }
 
 async function renderNewsSaved() {

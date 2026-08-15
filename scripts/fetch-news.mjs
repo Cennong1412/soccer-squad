@@ -15,7 +15,7 @@ const FEEDS = [
 ];
 
 const MAX_PER_FEED = 8;
-const MAX_SUMMARY_LEN = 400;
+const MAX_SUMMARY_LEN = 800;
 
 function extractTag(block, tag) {
   const re = new RegExp(`<${tag}[^>]*>([\\s\\S]*?)<\\/${tag}>`, "i");
