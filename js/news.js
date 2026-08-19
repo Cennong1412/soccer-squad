@@ -150,6 +150,7 @@ function newsCardHtml(a, tab) {
       <div class="news-meta">
         <span class="badge muted">${escapeHtml(a.countryLabel || "")}</span>
         <span class="news-source">${escapeHtml(a.source || "")}</span>
+        ${a.translated ? `<span class="badge muted" title="현지 언론 기사를 자동 번역했습니다">번역됨</span>` : ""}
         <span class="news-time">${newsTimeAgo(a.pubDate)}</span>
       </div>
       <div class="news-title">${escapeHtml(a.title)}</div>
