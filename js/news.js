@@ -138,24 +138,15 @@ function renderNewsList(tab) {
   wireNewsCardButtons(tab, () => renderNewsList(tab));
 }
 
-// 스페인어/독일어 원문은 못 읽으니, 번역된 기사는 구글 번역이 자동으로 걸린
-// 페이지(전체 기사 번역본)로 링크한다. 영어 원문(Guardian 등)은 그대로 링크.
-function newsLinkUrl(a) {
-  if (!a.translateFrom) return a.link;
-  try {
-    const u = new URL(a.link);
-    const dashedHost = u.hostname.replace(/\./g, "-");
-    return `https://${dashedHost}.translate.goog${u.pathname}${u.search}${u.search ? "&" : "?"}_x_tr_sl=${a.translateFrom}&_x_tr_tl=en&_x_tr_hl=en`;
-  } catch (e) {
-    return a.link;
-  }
-}
+const TRANSLATE_FROM_LABEL = { es: "스페인어", de: "독일어" };
 
 function newsCardHtml(a, tab) {
   const saved = savedIds.has(a.id);
   const bookmarkBtn = `<button class="news-save-btn ${saved ? "on" : ""}" data-save-id="${a.id}" aria-label="저장">${saved ? "🔖 저장됨" : "🏷️ 저장"}</button>`;
-  const linkTitle = a.translateFrom ? " (구글 번역으로 열림)" : "";
-  const linkBtn = `<a class="news-link-btn" href="${newsLinkUrl(a)}" target="_blank" rel="noopener" title="원문 보기${linkTitle}">원문 보기 →</a>`;
+  // 구글 번역 프록시(translate.goog)는 지역에 따라 막혀서 신뢰할 수 없어 원문 링크를 그대로 씀.
+  // 대신 원문 언어를 표시해서, Chrome/Edge의 자동 번역 팝업이나 우클릭 번역을 이용하도록 안내.
+  const langNote = a.translateFrom ? ` (${TRANSLATE_FROM_LABEL[a.translateFrom] || "외국어"} 원문 — 브라우저 번역 기능 이용 권장)` : "";
+  const linkBtn = `<a class="news-link-btn" href="${a.link}" target="_blank" rel="noopener" title="원문 보기${langNote}">원문 보기${a.translateFrom ? ` (${TRANSLATE_FROM_LABEL[a.translateFrom] || ""})` : ""} →</a>`;
   const playBtn = tab === "voice"
     ? `<button class="news-play-btn ${currentPlayingId === a.id ? "playing" : ""}" data-play-id="${a.id}">${currentPlayingId === a.id ? "⏸ 정지" : "▶ 듣기"}</button>`
     : "";
