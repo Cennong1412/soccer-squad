@@ -1,75 +1,35 @@
 {
-  "generatedAt": "2026-08-18T21:12:22.659Z",
+  "generatedAt": "2026-08-19T14:24:24.983Z",
   "articles": [
     {
-      "id": "f5788bd3e504",
-      "title": "Brighton sign Canada striker David on loan",
-      "summary": "Brighton sign Canada striker Promise David from Royale Union Saint-Gilloise on a season-long loan with an obligation to buy for a reported £22m.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c30450z6pmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "id": "0251583e6f77",
+      "title": "Premier League 2026-27 preview No 16: Manchester United",
+      "summary": "Bruno Fernandes and Youri Tielemans will be key to Michael Carrick’s chances of success over a full season and of healing the rift between club and fans Guardian writers’ predicted position: 5th (NB: this is not necessarily Jamie Jackson’s prediction but the average of our writers’ tips) Last season’s position: 3rd Continue reading...",
+      "link": "https://www.theguardian.com/football/2026/aug/19/premier-league-2026-27-preview-no-16-manchester-united",
+      "source": "The Guardian",
       "country": "England",
       "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 20:43:01 GMT"
+      "pubDate": "Wed, 19 Aug 2026 11:00:13 GMT"
     },
     {
-      "id": "114c7e747cd7",
-      "title": "Musiala collapses during match for second time in four-day period",
-      "summary": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c330kg5xm8no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "id": "d9c0b66249d7",
+      "title": "Premier League 2026-27 preview No 15: Manchester City",
+      "summary": "With the departures of Pep Guardiola and Rodri it looks like the end of an era at City. Will Enzo Maresca be able to sustain their position as a domestic and continental superpower? Guardian writers’ predicted position: 2nd (NB: this is not necessarily Jamie Jackson’s prediction but the average of our writers’ tips) Last season’s position: 2nd Continue reading...",
+      "link": "https://www.theguardian.com/football/2026/aug/19/premier-league-2026-27-preview-no-15-manchester-city",
+      "source": "The Guardian",
       "country": "England",
       "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 19:57:08 GMT"
+      "pubDate": "Tue, 18 Aug 2026 23:01:03 GMT"
     },
     {
-      "id": "a58e277f5686",
-      "title": "Rodri ready for 'excitement again' after Barca complete £65m deal",
-      "summary": "Barcelona sign Spain midfielder Rodri, the player of the 2026 World Cup, from Manchester City after a trophy-laden seven years with the Premier League club.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c2k7w3vwv5yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
+      "id": "cfea8aa31c1f",
+      "title": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
+      "summary": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough For much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day after he and Real Salt Lake teammate Diego Luna learned they wouldn’t be on Mauricio Pochettino’s squad for this summer’s World Cup, the 19-year-old Gozo admitted the rejection made him realize how close he’d gotten to earning a spot. “I thought I would be less disappointed than I was,” Gozo said in May . “Obviously, it wasn’t like I was supposed to go. I feel like I was disappointed, but I also think it just gave me so much more motivation to be able to make the first team, whenever that is.” Continue reading...",
+      "link": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer",
+      "source": "The Guardian",
       "country": "England",
       "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 18:14:01 GMT"
-    },
-    {
-      "id": "4fa0349fa47f",
-      "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
-      "summary": "Aston Villa agree to sign West Ham defender Aaron Wan-Bissaka on an initial loan deal with an obligation to buy at the end of the season.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 17:56:13 GMT"
-    },
-    {
-      "id": "15b77a462c7a",
-      "title": "Fifa sacking 'deeply troubling' - Uefa executive",
-      "summary": "Fifa's decision to dismiss senior executive Kevin Lamour following his criticism of president Gianni Infantino sends a \"deeply troubling message to all of us seeking change\", says UEFA vice-president Laura McAllister.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqlxwnz71qgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 17:51:14 GMT"
-    },
-    {
-      "id": "948716f8e5ad",
-      "title": "Premier League chief Masters says Fifa self-destructed over World Cup plan",
-      "summary": "Premier League chief executive Richard Masters has criticised Fifa president Gianni Infantino's World Cup sell-off plan, saying the organisation has \"pressed the self-destruct button\" by delivering \"a self-inflicted wound\".",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgjeqez58wno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 16:18:37 GMT"
-    },
-    {
-      "id": "1e2bb866ea56",
-      "title": "Bezos consortium bought almost 40% of Liverpool",
-      "summary": "A consortium including Amazon founder Jeff Bezos bought close to 40% of Liverpool from Fenway Sports Group (FSG).",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly9l92kj6po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 13:51:25 GMT"
+      "pubDate": "Tue, 18 Aug 2026 21:32:42 GMT"
     },
     {
       "id": "608a2224d10d",
@@ -80,16 +40,6 @@
       "country": "England",
       "countryLabel": "잉글랜드",
       "pubDate": "Tue, 18 Aug 2026 11:00:44 GMT"
-    },
-    {
-      "id": "3c3b61d5715e",
-      "title": "Why Fernandez uncertainty has echoes of Isak saga",
-      "summary": "Enzo Fernandez's possible Manchester City move is following the pattern of Alexander Isak's transfer last summer - and creating headaches for Chelsea.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2dzj2w25vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Tue, 18 Aug 2026 10:46:17 GMT"
     },
     {
       "id": "00d9111d1e72",
@@ -130,36 +80,6 @@
       "country": "England",
       "countryLabel": "잉글랜드",
       "pubDate": "Mon, 17 Aug 2026 15:40:33 GMT"
-    },
-    {
-      "id": "9d8bd5f76a8a",
-      "title": "Enzo Maresca’s Manchester City opener was startlingly bad",
-      "summary": "The Community Shield isn’t always a sign of things to come, but City’s form in their defeat to Arsenal is concerning in the wake of Pep Guardiola’s departure Sign up for our free newsletter here There are caveats. It was only the Community Shield – and no side has gone on to win the league after lifting the Community Shield since 2018. It was against the league champions, whose pre-season has involved far less strenuous travel than their own. By the time the season really gets going, there will be greater clarity in central midfield, with Rodri set to complete his move to Barcelona imminently. But this was a startlingly bad opening for Enzo Maresca at Manchester City. Succeeding a manager of Pep Guardiola’s stature is never easy, as numerous clubs have found. But it’s not just Guardiola’s ",
-      "link": "https://www.theguardian.com/football/2026/aug/17/marescas-man-city-opener-was-startlingly-bad",
-      "source": "The Guardian",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Mon, 17 Aug 2026 15:00:02 GMT"
-    },
-    {
-      "id": "2407e34a7897",
-      "title": "Premier League 2026-27 preview No 12: Ipswich",
-      "summary": "They have a new manager and a higher net spend than Manchester City, but will that be enough for Ipswich to avoid another yo-yoing relegation? Guardian writers’ predicted position: 19th (NB: this is not necessarily Will Unwin’s prediction but the average of our writers’ tips) Last season’s position: 2nd (Championship) Continue reading...",
-      "link": "https://www.theguardian.com/football/2026/aug/17/premier-league-2026-27-preview-no-12-ipswich",
-      "source": "The Guardian",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Mon, 17 Aug 2026 11:00:53 GMT"
-    },
-    {
-      "id": "0ede70550784",
-      "title": "Premier League 2026-27 preview No 11: Hull City",
-      "summary": "Playoff winners are expected to go back down, but their owner is optimistic and is investing in the squad Guardian writers’ predicted position: 20th (NB: this is not necessarily Louise Taylor’s prediction but the average of our writers’ tips) Last season’s position: 6th (Championship) Continue reading...",
-      "link": "https://www.theguardian.com/football/2026/aug/17/premier-league-2026-27-preview-no-11-hull-city",
-      "source": "The Guardian",
-      "country": "England",
-      "countryLabel": "잉글랜드",
-      "pubDate": "Sun, 16 Aug 2026 23:01:38 GMT"
     },
     {
       "id": "318752af36ac",
@@ -240,16 +160,6 @@
       "country": "Spain",
       "countryLabel": "스페인",
       "pubDate": "Mon, 27 Jul 2026 13:44:47 GMT"
-    },
-    {
-      "id": "902762520432",
-      "title": "Austin FC academy players under investigation by police and FBI for allegations of youth-on-youth sexual abuse",
-      "summary": "Austin FC reported allegations to local law enforcement Multiple sources confirm the ongoing inquiries Multiple players in the academy of Major League Soccer club Austin FC are under investigation by Austin police and the FBI over allegations of sexual abuse within the club’s youth system. Multiple sources, who spoke to the Guardian on condition of anonymity because of the sensitivity of the investigation, said the inquiry centers on alleged interactions between academy players. A source with knowledge of the matter said multiple academy families reported the allegations to Austin FC. The Austin police department confirmed the existence of the investigation to the Guardian on Thursday, adding that because it “involves juveniles and is ongoing”, no other details could be shared. An FBI spok",
-      "link": "https://www.theguardian.com/football/2026/jul/24/austin-fc-academy-investigation-sexual-abuse-mls",
-      "source": "The Guardian",
-      "country": "USA",
-      "countryLabel": "미국",
-      "pubDate": "Fri, 24 Jul 2026 21:45:26 GMT"
     },
     {
       "id": "272502e94465",
