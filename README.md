@@ -29,6 +29,7 @@ scripts/fetch-news.mjs GitHub Actions가 매일 실행하는 뉴스 수집 스�
 
 - 잉글랜드·미국·스페인·독일 축구 뉴스를 매일 자동 수집합니다 (The Guardian RSS. BBC Sport는 요약이 한 문장뿐이라 음성 재생 시간이 너무 짧아 제외함).
 - 스페인(Marca)·독일(Kicker) 현지 언론 기사도 추가로 수집해 MyMemory 무료 API로 영어 번역해서 보여줍니다 (번역된 기사는 "번역됨" 배지 표시).
+- 모든 탭(텍스트/음성)에 "원문 보기" 링크가 있습니다. 번역된 기사는 원문이 스페인어/독일어라 그대로 링크하지 않고, 구글 번역이 자동으로 걸린 페이지로 연결합니다.
   - `.github/workflows/fetch-news.yml`이 매일 06:00 KST에 `scripts/fetch-news.mjs`를 실행해 `data/news.json`을 갱신·커밋합니다.
   - 수동 갱신: `node scripts/fetch-news.mjs`
 - **텍스트** 탭: 기사 제목/요약, 원문 링크.

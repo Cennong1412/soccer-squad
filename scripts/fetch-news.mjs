@@ -123,6 +123,7 @@ async function fetchFeed(feed) {
         countryLabel: feed.countryLabel,
         pubDate: it.pubDate || null,
         translated: !!feed.translateFrom,
+        translateFrom: feed.translateFrom || null,
       });
     }
     return articles;

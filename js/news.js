@@ -138,12 +138,27 @@ function renderNewsList(tab) {
   wireNewsCardButtons(tab, () => renderNewsList(tab));
 }
 
+// 스페인어/독일어 원문은 못 읽으니, 번역된 기사는 구글 번역이 자동으로 걸린
+// 페이지(전체 기사 번역본)로 링크한다. 영어 원문(Guardian 등)은 그대로 링크.
+function newsLinkUrl(a) {
+  if (!a.translateFrom) return a.link;
+  try {
+    const u = new URL(a.link);
+    const dashedHost = u.hostname.replace(/\./g, "-");
+    return `https://${dashedHost}.translate.goog${u.pathname}${u.search}${u.search ? "&" : "?"}_x_tr_sl=${a.translateFrom}&_x_tr_tl=en&_x_tr_hl=en`;
+  } catch (e) {
+    return a.link;
+  }
+}
+
 function newsCardHtml(a, tab) {
   const saved = savedIds.has(a.id);
   const bookmarkBtn = `<button class="news-save-btn ${saved ? "on" : ""}" data-save-id="${a.id}" aria-label="저장">${saved ? "🔖 저장됨" : "🏷️ 저장"}</button>`;
-  const actionHtml = tab === "voice"
+  const linkTitle = a.translateFrom ? " (구글 번역으로 열림)" : "";
+  const linkBtn = `<a class="news-link-btn" href="${newsLinkUrl(a)}" target="_blank" rel="noopener" title="원문 보기${linkTitle}">원문 보기 →</a>`;
+  const playBtn = tab === "voice"
     ? `<button class="news-play-btn ${currentPlayingId === a.id ? "playing" : ""}" data-play-id="${a.id}">${currentPlayingId === a.id ? "⏸ 정지" : "▶ 듣기"}</button>`
-    : `<a class="news-link-btn" href="${a.link}" target="_blank" rel="noopener">원문 보기 →</a>`;
+    : "";
 
   return `
     <div class="news-card" data-article-id="${a.id}">
@@ -155,7 +170,7 @@ function newsCardHtml(a, tab) {
       </div>
       <div class="news-title">${escapeHtml(a.title)}</div>
       <div class="news-summary">${escapeHtml(a.summary || "")}</div>
-      <div class="news-actions">${actionHtml}${bookmarkBtn}</div>
+      <div class="news-actions">${playBtn}${linkBtn}${bookmarkBtn}</div>
     </div>`;
 }
 
