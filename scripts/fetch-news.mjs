@@ -8,7 +8,6 @@ import { fileURLToPath } from "node:url";
 
 const FEEDS = [
   { url: "https://www.theguardian.com/football/premierleague/rss", country: "England", countryLabel: "잉글랜드", source: "The Guardian" },
-  { url: "https://feeds.bbci.co.uk/sport/football/rss.xml", country: "England", countryLabel: "잉글랜드", source: "BBC Sport" },
   { url: "https://www.theguardian.com/football/mls/rss", country: "USA", countryLabel: "미국", source: "The Guardian" },
   { url: "https://www.theguardian.com/football/spain/rss", country: "Spain", countryLabel: "스페인", source: "The Guardian" },
   { url: "https://www.theguardian.com/football/germany/rss", country: "Germany", countryLabel: "독일", source: "The Guardian" },
